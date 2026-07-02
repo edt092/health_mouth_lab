@@ -3,15 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { buildBreadcrumbSchema } from '../utils/schema';
-
-const categories = [
-  { slug: 'gum-health', label: 'Gum Health' },
-  { slug: 'bad-breath', label: 'Bad Breath' },
-  { slug: 'oral-microbiome', label: 'Oral Microbiome' },
-  { slug: 'dry-mouth', label: 'Dry Mouth' },
-  { slug: 'plaque-and-cavities', label: 'Plaque & Cavities' },
-  { slug: 'tooth-sensitivity', label: 'Tooth Sensitivity' },
-];
+import { CATEGORY_META, CATEGORY_SLUGS } from '../data/categories';
 ---
 <Layout
   title="Healthy Mouth Lab — Understand Your Oral Microbiome"
@@ -50,9 +42,9 @@ const categories = [
   </section>
 
   <section aria-label="Browse by symptom" class="grid gap-3 px-6 py-8 md:grid-cols-3">
-    {categories.map((c) => (
-      <a href={`/${c.slug}/`} class="rounded-lg border border-brand-text/10 p-4 hover:border-brand-primary">
-        {c.label}
+    {CATEGORY_SLUGS.map((slug) => (
+      <a href={`/${slug}/`} class="rounded-lg border border-brand-text/10 p-4 hover:border-brand-primary">
+        {CATEGORY_META[slug].label}
       </a>
     ))}
   </section>

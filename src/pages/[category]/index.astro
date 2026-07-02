@@ -6,41 +6,13 @@ import Footer from '../../components/Footer.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import BridgeCard from '../../components/BridgeCard.astro';
 import { buildBreadcrumbSchema, buildItemListSchema } from '../../utils/schema';
-
-// Una entrada por cada una de las 6 categorías del silo — no "todas las combinaciones
-// posibles", exactamente las 6 definidas en INFORME_ARQUITECTURA_SEO_DENTABIOME.md §1.
-const CATEGORY_META: Record<string, { title: string; description: string }> = {
-  'gum-health': {
-    title: 'Gum Health: Causes, Symptoms & How to Fix Them',
-    description: 'Understand bleeding, swollen and receding gums, and what actually restores gum health.',
-  },
-  'bad-breath': {
-    title: 'Bad Breath (Halitosis): Root Causes & Real Fixes',
-    description: 'Why bad breath happens even after brushing, and how to fix it for good.',
-  },
-  'oral-microbiome': {
-    title: 'Oral Microbiome: The Root Cause Behind Most Mouth Problems',
-    description: 'How your oral microbiome drives gum health, breath and cavities.',
-  },
-  'dry-mouth': {
-    title: 'Dry Mouth (Xerostomia): Causes & Treatment',
-    description: 'Why your mouth is dry, at night or all day, and how to fix it.',
-  },
-  'plaque-and-cavities': {
-    title: 'Plaque, Biofilm & Cavities: What Causes Them',
-    description: 'How plaque and dental biofilm form, and how to prevent cavities.',
-  },
-  'tooth-sensitivity': {
-    title: 'Tooth Sensitivity & Loose Teeth: Causes & Solutions',
-    description: 'Why teeth feel loose or sensitive, and what actually helps.',
-  },
-};
+import { CATEGORY_META, CATEGORY_SLUGS, type CategorySlug } from '../../data/categories';
 
 export function getStaticPaths() {
-  return Object.keys(CATEGORY_META).map((category) => ({ params: { category } }));
+  return CATEGORY_SLUGS.map((category) => ({ params: { category } }));
 }
 
-const { category } = Astro.params as { category: string };
+const { category } = Astro.params as { category: CategorySlug };
 const meta = CATEGORY_META[category];
 
 const allArticles = await getCollection('articles', (entry) => entry.data.category === category);
