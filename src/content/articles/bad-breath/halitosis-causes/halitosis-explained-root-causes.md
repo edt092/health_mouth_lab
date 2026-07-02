@@ -7,15 +7,26 @@ author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 16
 seo:
-  title: "Halitosis Explained: The Real Root Causes of Chronic Bad..."
+  title: "Halitosis Explained: Real Root Causes of Bad Breath"
   description: "Halitosis has real, identifiable causes beyond poor brushing. Learn what causes chronic bad breath and the science-backed steps to fix it for good."
   primaryKeyword: "halitosis"
   secondaryKeywords: ["what causes bad breath"]
   searchVolumeRange: "10K-100K"
   intent: "informational"
+faqs:
+  - question: "What actually causes the smell in halitosis?"
+    answer: "Nearly all bad breath odor comes from volatile sulfur compounds (VSCs), primarily hydrogen sulfide, methyl mercaptan, and dimethyl sulfide, produced when anaerobic bacteria break down proteins in the mouth. It's a metabolic byproduct of bacteria, not simply 'dirt' on the teeth."
+  - question: "How common is chronic halitosis?"
+    answer: "Chronic bad breath affects an estimated one in four adults at any given time, though it often goes unaddressed because people treat it as something to mask with mints or gum rather than a bacterial imbalance to correct."
+  - question: "Why doesn't mouthwash fix halitosis long-term?"
+    answer: "Alcohol-based mouthwash kills bacteria indiscriminately, including beneficial species, and its alcohol content dries the mouth further. Once it evaporates, the drier environment can actually favor the anaerobic bacteria that cause odor, creating a cycle where you feel you need it more often."
+  - question: "Is halitosis always caused by something in the mouth?"
+    answer: "About 90% of cases originate in the mouth, most often from tongue coating, gum disease, or dry mouth. The remaining roughly 10% can involve sinus issues, tonsil stones, acid reflux, or, rarely, systemic conditions like poorly controlled diabetes."
+  - question: "What's the most effective long-term fix for chronic bad breath?"
+    answer: "Consistent daily tongue scraping, thorough interdental cleaning, adequate hydration, moving away from harsh alcohol-based rinses, and — when relevant — supporting a healthier oral bacterial balance rather than trying to sterilize the mouth entirely."
 ---
 
-If you have ever cupped your hand over your mouth to check your breath before a meeting, leaned back during a conversation, or quietly wondered whether the mint you popped an hour ago is still working, you are far from alone. Chronic bad breath affects an estimated one in four adults at any given time, and for many it becomes a persistent source of anxiety that mouthwash and gum never quite resolve. The frustrating part is that most people treat bad breath as a hygiene problem to be masked, when in reality it is usually a signal from a complex ecosystem inside your mouth that something is out of balance.
+If you have ever cupped your hand over your mouth to check your breath before a meeting, leaned back during a conversation, or quietly wondered whether the mint you popped an hour ago is still working, you are far from alone. Chronic bad breath affects an estimated one in four adults at any given time ([NIH review on the multidisciplinary approach to halitosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC3412664/)), and for many it becomes a persistent source of anxiety that mouthwash and gum never quite resolve. The frustrating part is that most people treat bad breath as a hygiene problem to be masked, when in reality it is usually a signal from a complex ecosystem inside your mouth that something is out of balance.
 
 This guide takes a different approach. Instead of handing you a list of quick fixes, it explains what is actually happening at the bacterial level when your breath turns sour, walks through the real root causes of halitosis, and helps you figure out which one applies to you. Understanding the mechanism is what separates people who chase temporary freshness from people who actually get rid of the problem.
 
@@ -29,11 +40,19 @@ The distinction matters because the two categories have different implications. 
 
 Nearly all bad breath odor comes from a specific group of compounds called volatile sulfur compounds, or VSCs. The three most important are hydrogen sulfide (which smells like rotten eggs), methyl mercaptan (which smells like decaying cabbage or feces), and dimethyl sulfide (a sweeter, more sickly odor). These gases are byproducts of bacteria breaking down proteins.
 
+<figure class="image-placeholder">
+  <div class="placeholder-box">
+    IMAGEN SUGERIDA: Diagrama con tres iconos moleculares simples representando los tres compuestos volátiles de azufre (sulfuro de hidrógeno, metil mercaptano, dimetil sulfuro), cada uno con su nombre y una breve descripción del olor asociado.
+  </div>
+  <img src="" alt="Diagram of the three volatile sulfur compounds behind bad breath: hydrogen sulfide, methyl mercaptan, and dimethyl sulfide, each labeled with its characteristic odor" loading="lazy" />
+  <figcaption>Bad breath odor comes down to three main volatile sulfur compounds produced by bacteria.</figcaption>
+</figure>
+
 When you understand that the smell is a metabolic waste product of bacteria, the whole problem reframes itself. Bad breath is not dirt on your teeth. It is a living, active process driven by microorganisms that thrive under certain conditions. Change those conditions, and you change the breath. This is the core insight behind almost every effective long-term solution.
 
 ## What Causes Bad Breath: The Oral Microbiome Explained
 
-Your mouth is home to more than 700 species of bacteria that together form what scientists call the oral microbiome. This is not something to be alarmed by. A healthy mouth is supposed to be teeming with microbial life, and most of those bacteria are either harmless or actively beneficial. They help you digest food, crowd out invaders, and even help regulate the health of your gums and enamel.
+Your mouth is home to more than 700 species of bacteria ([NIH-supported research on the human oral microbiome](https://pmc.ncbi.nlm.nih.gov/articles/PMC2944498/)) that together form what scientists call the oral microbiome. Learn more in our complete guide to the [oral microbiome](/oral-microbiome/). This is not something to be alarmed by. A healthy mouth is supposed to be teeming with microbial life, and most of those bacteria are either harmless or actively beneficial. They help you digest food, crowd out invaders, and even help regulate the health of your gums and enamel.
 
 The trouble begins when the balance shifts. In a healthy microbiome, oxygen-loving beneficial bacteria keep populations in check and produce relatively little odor. But when conditions favor anaerobic bacteria, the species that thrive in low-oxygen environments and feed on proteins, VSC production climbs and breath turns foul. This shift from a balanced, diverse microbiome to one dominated by odor-producing species is known as dysbiosis, and it sits at the heart of most cases of chronic halitosis.
 
@@ -69,13 +88,13 @@ The good news is that this is one of the easiest causes to address. Gentle daily
 
 Gingivitis and its more advanced form, periodontitis, are both major drivers of chronic bad breath. In gum disease, the balance of the oral microbiome tips heavily toward aggressive, anaerobic pathogens. These bacteria not only produce sulfur compounds directly but also cause inflammation and tissue breakdown, which releases even more protein for bacteria to feed on.
 
-Periodontitis creates deep pockets between the teeth and gums where oxygen cannot reach and where bacteria and debris accumulate out of reach of a toothbrush. The result is often a persistent, distinctly unpleasant odor. Bad breath that is accompanied by bleeding gums, gum recession, loose teeth, or tenderness should be taken seriously, because it points to an active disease process that requires professional treatment, not just breath management.
+Periodontitis creates deep pockets between the teeth and gums where oxygen cannot reach and where bacteria and debris accumulate out of reach of a toothbrush. The result is often a persistent, distinctly unpleasant odor. Bad breath that is accompanied by bleeding gums, gum recession, loose teeth, or tenderness should be taken seriously, because it points to an active disease process that requires professional treatment, not just breath management. See our complete guide to [gum health and gum disease](/gum-health/) for more.
 
 ### Dry mouth (xerostomia)
 
 Chronic dry mouth deserves its own listing because it is such a common and underdiagnosed cause. Hundreds of common medications list dry mouth as a side effect, including antihistamines, antidepressants, blood pressure medications, diuretics, and many others. Certain medical conditions, dehydration, aging, and habitual mouth breathing all reduce saliva as well.
 
-Because saliva is your primary natural defense against odor bacteria, anything that reduces it reliably worsens breath. If you notice your mouth feels dry, sticky, or you frequently wake with a parched mouth and bad breath, xerostomia may be your dominant cause. Addressing it often involves increasing water intake, using saliva-stimulating products, treating nasal congestion so you can breathe through your nose, and reviewing medications with a doctor.
+Because saliva is your primary natural defense against odor bacteria, anything that reduces it reliably worsens breath. If you notice your mouth feels dry, sticky, or you frequently wake with a parched mouth and bad breath, xerostomia may be your dominant cause. Addressing it often involves increasing water intake, using saliva-stimulating products, treating nasal congestion so you can breathe through your nose, and reviewing medications with a doctor. Read our full breakdown of [dry mouth causes and treatment](/dry-mouth/) for more.
 
 ### Diet and lifestyle factors
 
@@ -140,6 +159,14 @@ Do you notice small, hard, whitish lumps at the back of your throat, or does the
 Does the odor persist despite excellent oral hygiene and a healthy mouth, or is it accompanied by other symptoms like heartburn, unusual thirst, or fatigue? A systemic cause may be involved, which warrants a conversation with your physician.
 
 ### The scientific self-test
+
+<figure class="image-placeholder">
+  <div class="placeholder-box">
+    IMAGEN SUGERIDA: Ilustración paso a paso (3 viñetas) del autotest de la muñeca: 1) lamer la muñeca, 2) esperar unos segundos a que seque, 3) oler la zona, con iconos simples y numerados.
+  </div>
+  <img src="" alt="Three-step illustrated guide to the wrist-lick self-test for detecting bad breath at home" loading="lazy" />
+  <figcaption>A simple at-home test: lick your wrist, let it dry, then smell it — a rough proxy for how your breath actually smells to others.</figcaption>
+</figure>
 
 Dentists sometimes use a simple method you can adapt at home. Lick the inside of your wrist, let it dry for a few seconds, and smell it. This gives you a sense of the odor from the front of your mouth, produced mostly by saliva-based bacteria. To assess the back of the tongue, where most odor originates, you can gently scrape the very back of your tongue with a spoon, let the residue dry briefly, and smell it. The difference between these two can help you locate the main source. Keep in mind that many people with halitosis cannot reliably smell their own breath due to a phenomenon called olfactory adaptation, so an honest opinion from someone you trust, or an evaluation by your dentist, is often more accurate than self-assessment.
 
