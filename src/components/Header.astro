@@ -1,0 +1,31 @@
+---
+// Menú sticky con las 6 categorías del silo — heurístico 6 (reconocer, no recordar)
+// y regla del informe SEO: la home enlaza a las 6 categorías desde el menú principal.
+const categories = [
+  { slug: 'gum-health', label: 'Gum Health' },
+  { slug: 'bad-breath', label: 'Bad Breath' },
+  { slug: 'oral-microbiome', label: 'Oral Microbiome' },
+  { slug: 'dry-mouth', label: 'Dry Mouth' },
+  { slug: 'plaque-and-cavities', label: 'Plaque & Cavities' },
+  { slug: 'tooth-sensitivity', label: 'Tooth Sensitivity' },
+];
+---
+<header class="sticky top-0 z-40 flex items-center justify-between gap-4 border-b border-brand-text/10 bg-brand-bg/95 px-6 py-3 backdrop-blur">
+  <a href="/" class="font-semibold text-brand-primary">Healthy Mouth Lab</a>
+
+  <nav aria-label="Main navigation" class="hidden md:block">
+    <ul class="flex gap-5 text-sm">
+      {categories.map((c) => (
+        <li><a href={`/${c.slug}/`} class="hover:text-brand-primary">{c.label}</a></li>
+      ))}
+    </ul>
+  </nav>
+
+  <!-- Único CTA persistente del header (heurístico 8: un solo CTA compitiendo) -->
+  <a
+    href="/dentabiome/"
+    class="rounded-md bg-brand-primary px-4 py-2 text-sm font-medium text-white hover:opacity-90"
+  >
+    Shop Dentabiome
+  </a>
+</header>

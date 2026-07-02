@@ -1,0 +1,21 @@
+---
+const categories = [
+  { slug: 'gum-health', label: 'Gum Health' },
+  { slug: 'bad-breath', label: 'Bad Breath' },
+  { slug: 'oral-microbiome', label: 'Oral Microbiome' },
+  { slug: 'dry-mouth', label: 'Dry Mouth' },
+  { slug: 'plaque-and-cavities', label: 'Plaque & Cavities' },
+  { slug: 'tooth-sensitivity', label: 'Tooth Sensitivity' },
+];
+---
+<footer class="mt-16 border-t border-brand-text/10 px-6 py-10 text-sm">
+  <nav aria-label="Footer navigation" class="grid grid-cols-2 gap-3 md:grid-cols-4">
+    {categories.map((c) => <a href={`/${c.slug}/`}>{c.label}</a>)}
+    <a href="/dentabiome/">Dentabiome</a>
+    <a href="/dentabiome/reviews/">Reviews</a>
+  </nav>
+  <p class="mt-8 text-brand-text/60">
+    &copy; {new Date().getFullYear()} Healthy Mouth Lab. Content is for informational purposes and reviewed by
+    licensed dental professionals; it does not replace professional dental advice.
+  </p>
+</footer>

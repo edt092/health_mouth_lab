@@ -1,0 +1,70 @@
+---
+import '../styles/global.css';
+
+// Layout base único para las 3 plantillas del silo (Home/Categoría/Artículo/Producto).
+// Toda la lógica SEO (meta, OG, canonical, JSON-LD) vive aquí para que ninguna página
+// pueda "olvidarse" de implementarla — es infraestructura, no una decisión por página.
+interface Props {
+  title: string;
+  description: string;
+  canonicalPath: string;
+  pageType: 'website' | 'article' | 'product' | 'category';
+  ogImage?: string;
+  schema?: Record<string, unknown> | Record<string, unknown>[];
+}
+
+const {
+  title,
+  description,
+  canonicalPath,
+  pageType,
+  ogImage = '/images/og-default.jpg',
+  schema,
+} = Astro.props;
+
+const site = Astro.site ?? new URL('https://healthymouthlab.online');
+const canonicalURL = new URL(canonicalPath, site);
+const ogImageURL = new URL(ogImage, site);
+const schemaBlocks = Array.isArray(schema) ? schema : schema ? [schema] : [];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta name="robots" content="index, follow" />
+    <meta name="theme-color" content="#0B6E4F" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content={pageType === 'product' ? 'product' : 'website'} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:image" content={ogImageURL} />
+    <meta property="og:site_name" content="Healthy Mouth Lab" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageURL} />
+
+    <!-- Schema.org JSON-LD dinámico (ver INFORME_ARQUITECTURA_SEO_DENTABIOME.md §4.2) -->
+    {schemaBlocks.map((block) => (
+      <script type="application/ld+json" set:html={JSON.stringify(block)} />
+    ))}
+  </head>
+  <body class="bg-brand-bg text-brand-text antialiased text-body">
+    <a href="#main-content" class="skip-link">Skip to content</a>
+    <slot name="header" />
+    <main id="main-content">
+      <slot />
+    </main>
+    <slot name="footer" />
+  </body>
+</html>

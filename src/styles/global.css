@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Accesibilidad WCAG 2.1 AA — ver INFORME_UX_UI_DENTABIOME.md §3.
+   No usar outline: none sin un sustituto visible equivalente. */
+:focus-visible {
+  outline: 2px solid #0B6E4F;
+  outline-offset: 2px;
+}
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  background: #0B6E4F;
+  color: #fff;
+  padding: 0.75rem 1.25rem;
+  z-index: 100;
+}
+.skip-link:focus {
+  left: 1rem;
+  top: 1rem;
+}
+
+/* Bloque puente reutilizable (BridgeCard) — diferenciado visualmente del cuerpo
+   del artículo a propósito: no debe parecer un banner de anuncio (heurístico 8). */
+.bridge-card {
+  background: #EEF6F2;
+  border-left: 4px solid #0B6E4F;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 0.5rem;
+}
+
+article :is(p, ul, ol) {
+  max-width: 70ch;
+}

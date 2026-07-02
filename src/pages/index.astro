@@ -1,0 +1,61 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { buildBreadcrumbSchema } from '../utils/schema';
+
+const categories = [
+  { slug: 'gum-health', label: 'Gum Health' },
+  { slug: 'bad-breath', label: 'Bad Breath' },
+  { slug: 'oral-microbiome', label: 'Oral Microbiome' },
+  { slug: 'dry-mouth', label: 'Dry Mouth' },
+  { slug: 'plaque-and-cavities', label: 'Plaque & Cavities' },
+  { slug: 'tooth-sensitivity', label: 'Tooth Sensitivity' },
+];
+---
+<Layout
+  title="Healthy Mouth Lab — Understand Your Oral Microbiome"
+  description="Dentist-reviewed guides on gum health, bad breath, dry mouth and the oral microbiome — and the probiotic that addresses the root cause."
+  canonicalPath="/"
+  pageType="website"
+  schema={buildBreadcrumbSchema([{ name: 'Home', url: '/' }])}
+>
+  <Header slot="header" />
+
+  <section class="px-6 py-16 text-center">
+    <h1 class="mx-auto max-w-3xl text-4xl font-bold leading-tight">
+      Understand Your Oral Microbiome. Fix the Cause, Not the Symptom.
+    </h1>
+    <p class="mt-4 text-brand-text/70">Dentist-reviewed content. No jargon.</p>
+    <a
+      href="/oral-microbiome/"
+      class="mt-6 inline-block rounded-md bg-brand-primary px-6 py-3 font-medium text-white"
+    >
+      Explore the Oral Microbiome
+    </a>
+    <p class="mt-6 text-sm text-brand-text/60">
+      ✓ Dentist-reviewed &nbsp; ✓ 30-day guarantee &nbsp; ✓ 10,000+ users
+    </p>
+  </section>
+
+  <section aria-label="Featured pillars" class="grid gap-4 px-6 py-8 md:grid-cols-2">
+    <a href="/oral-microbiome/" class="rounded-lg border border-brand-text/10 p-6">
+      <h2 class="text-lg font-semibold">Oral Microbiome</h2>
+      <p class="text-sm text-brand-text/70">The pillar behind every symptom on this site.</p>
+    </a>
+    <a href="/gum-health/" class="rounded-lg border border-brand-text/10 p-6">
+      <h2 class="text-lg font-semibold">Gum Health</h2>
+      <p class="text-sm text-brand-text/70">Our highest-traffic symptom cluster.</p>
+    </a>
+  </section>
+
+  <section aria-label="Browse by symptom" class="grid gap-3 px-6 py-8 md:grid-cols-3">
+    {categories.map((c) => (
+      <a href={`/${c.slug}/`} class="rounded-lg border border-brand-text/10 p-4 hover:border-brand-primary">
+        {c.label}
+      </a>
+    ))}
+  </section>
+
+  <Footer slot="footer" />
+</Layout>

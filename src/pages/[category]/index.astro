@@ -1,0 +1,96 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import BridgeCard from '../../components/BridgeCard.astro';
+import { buildBreadcrumbSchema, buildItemListSchema } from '../../utils/schema';
+
+// Una entrada por cada una de las 6 categorías del silo — no "todas las combinaciones
+// posibles", exactamente las 6 definidas en INFORME_ARQUITECTURA_SEO_DENTABIOME.md §1.
+const CATEGORY_META: Record<string, { title: string; description: string }> = {
+  'gum-health': {
+    title: 'Gum Health: Causes, Symptoms & How to Fix Them',
+    description: 'Understand bleeding, swollen and receding gums, and what actually restores gum health.',
+  },
+  'bad-breath': {
+    title: 'Bad Breath (Halitosis): Root Causes & Real Fixes',
+    description: 'Why bad breath happens even after brushing, and how to fix it for good.',
+  },
+  'oral-microbiome': {
+    title: 'Oral Microbiome: The Root Cause Behind Most Mouth Problems',
+    description: 'How your oral microbiome drives gum health, breath and cavities.',
+  },
+  'dry-mouth': {
+    title: 'Dry Mouth (Xerostomia): Causes & Treatment',
+    description: 'Why your mouth is dry, at night or all day, and how to fix it.',
+  },
+  'plaque-and-cavities': {
+    title: 'Plaque, Biofilm & Cavities: What Causes Them',
+    description: 'How plaque and dental biofilm form, and how to prevent cavities.',
+  },
+  'tooth-sensitivity': {
+    title: 'Tooth Sensitivity & Loose Teeth: Causes & Solutions',
+    description: 'Why teeth feel loose or sensitive, and what actually helps.',
+  },
+};
+
+export function getStaticPaths() {
+  return Object.keys(CATEGORY_META).map((category) => ({ params: { category } }));
+}
+
+const { category } = Astro.params as { category: string };
+const meta = CATEGORY_META[category];
+
+const allArticles = await getCollection('articles', (entry) => entry.data.category === category);
+const bridges = await getCollection('bridges');
+const bridge = bridges.find((b) => b.data.category === category);
+
+const subcategories = [...new Set(allArticles.map((a) => a.data.subcategory))];
+
+const breadcrumbItems = [
+  { name: 'Home', url: '/' },
+  { name: meta.title, url: `/${category}/` },
+];
+
+const articleLinks = allArticles.map((a) => ({
+  name: a.data.title,
+  url: `/${category}/${a.data.subcategory}/${a.id.split('/').pop()}/`,
+}));
+---
+<Layout
+  title={`${meta.title} | Healthy Mouth Lab`}
+  description={meta.description}
+  canonicalPath={`/${category}/`}
+  pageType="category"
+  schema={[buildBreadcrumbSchema(breadcrumbItems), buildItemListSchema(articleLinks)]}
+>
+  <Header slot="header" />
+  <Breadcrumbs items={breadcrumbItems} />
+
+  <div class="px-6 py-8">
+    <h1 class="text-3xl font-bold">{meta.title}</h1>
+    <p class="mt-2 text-brand-text/70">{meta.description}</p>
+
+    <section aria-label="Subcategories" class="mt-8 grid gap-3 md:grid-cols-2">
+      {subcategories.map((sub) => (
+        <a href={`/${category}/${sub}/`} class="rounded-lg border border-brand-text/10 p-4 capitalize hover:border-brand-primary">
+          {sub.replace(/-/g, ' ')}
+        </a>
+      ))}
+    </section>
+
+    {bridge && <BridgeCard entry={bridge} />}
+
+    <section aria-label="Articles" class="mt-8 space-y-2">
+      {allArticles.map((a) => (
+        <a href={`/${category}/${a.data.subcategory}/${a.id.split('/').pop()}/`} class="block hover:text-brand-primary">
+          {a.data.title}
+        </a>
+      ))}
+    </section>
+  </div>
+
+  <Footer slot="footer" />
+</Layout>

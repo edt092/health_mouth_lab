@@ -1,0 +1,96 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import { buildBreadcrumbSchema } from '../../../utils/schema';
+
+// Un solo archivo resuelve las dos "hojas" de nivel 2 de la silo: la subcategoría
+// (listado de artículos) y la página puente (comercial). Se distinguen por `type`
+// en props, no por convención de nombre de archivo — evita colisión de rutas
+// entre "carpeta con index" y "archivo dinámico" en el mismo nivel.
+type Props =
+  | { type: 'subcategory' }
+  | { type: 'bridge'; entry: CollectionEntry<'bridges'> };
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  const bridges = await getCollection('bridges');
+
+  const subcategoryPaths = [...new Set(articles.map((a) => `${a.data.category}/${a.data.subcategory}`))].map(
+    (key) => {
+      const [category, node] = key.split('/');
+      return { params: { category, node }, props: { type: 'subcategory' as const } };
+    },
+  );
+
+  const bridgePaths = bridges.map((b) => ({
+    params: { category: b.data.category, node: b.id },
+    props: { type: 'bridge' as const, entry: b },
+  }));
+
+  return [...subcategoryPaths, ...bridgePaths];
+}
+
+const { category, node } = Astro.params as { category: string; node: string };
+const props = Astro.props as Props;
+
+let title: string;
+let description: string;
+let articlesInNode: CollectionEntry<'articles'>[] = [];
+
+if (props.type === 'subcategory') {
+  articlesInNode = await getCollection(
+    'articles',
+    (a) => a.data.category === category && a.data.subcategory === node,
+  );
+  title = node.replace(/-/g, ' ');
+  description = `Everything about ${title} — causes, symptoms and what actually helps.`;
+} else {
+  title = props.entry.data.title;
+  description = props.entry.data.seo.description;
+}
+
+const breadcrumbItems = [
+  { name: 'Home', url: '/' },
+  { name: category.replace(/-/g, ' '), url: `/${category}/` },
+  { name: title, url: `/${category}/${node}/` },
+];
+---
+<Layout
+  title={`${title} | Healthy Mouth Lab`}
+  description={description}
+  canonicalPath={`/${category}/${node}/`}
+  pageType={props.type === 'bridge' ? 'product' : 'category'}
+  schema={buildBreadcrumbSchema(breadcrumbItems)}
+>
+  <Header slot="header" />
+  <Breadcrumbs items={breadcrumbItems} />
+
+  <div class="px-6 py-8">
+    <h1 class="text-3xl font-bold capitalize">{title}</h1>
+    <p class="mt-2 text-brand-text/70">{description}</p>
+
+    {props.type === 'subcategory' ? (
+      <section aria-label="Articles" class="mt-8 space-y-2">
+        {articlesInNode.map((a) => (
+          <a href={`/${category}/${node}/${a.id.split('/').pop()}/`} class="block hover:text-brand-primary">
+            {a.data.title}
+          </a>
+        ))}
+      </section>
+    ) : (
+      <section aria-label="Comparison" class="mt-8">
+        <ul class="list-disc space-y-1 pl-5">
+          {props.entry.data.comparisonCriteria.map((c: string) => <li>{c}</li>)}
+        </ul>
+        <a href="/dentabiome/" class="mt-6 inline-block rounded-md bg-brand-primary px-6 py-3 font-medium text-white">
+          See Dentabiome →
+        </a>
+      </section>
+    )}
+  </div>
+
+  <Footer slot="footer" />
+</Layout>

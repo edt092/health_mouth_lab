@@ -1,0 +1,28 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { buildBreadcrumbSchema } from '../../utils/schema';
+
+const breadcrumbItems = [
+  { name: 'Home', url: '/' },
+  { name: 'Dentabiome', url: '/dentabiome/' },
+  { name: 'Reviews', url: '/dentabiome/reviews/' },
+];
+---
+<Layout
+  title="Dentabiome Reviews | Healthy Mouth Lab"
+  description="Verified customer reviews for Dentabiome, the oral probiotic for gum health and fresh breath."
+  canonicalPath="/dentabiome/reviews/"
+  pageType="product"
+  schema={buildBreadcrumbSchema(breadcrumbItems)}
+>
+  <Header slot="header" />
+  <Breadcrumbs items={breadcrumbItems} />
+  <div class="px-6 py-8">
+    <h1 class="text-3xl font-bold">Dentabiome Reviews</h1>
+    <p class="mt-4 max-w-measure text-brand-text/80">Verified customer reviews go here (Review schema per product).</p>
+  </div>
+  <Footer slot="footer" />
+</Layout>

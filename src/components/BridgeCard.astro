@@ -1,0 +1,22 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+// El bloque puente reutilizable: mismo componente en la plantilla de Categoría
+// y al cierre del Artículo (INFORME_UX_UI_DENTABIOME.md §4.2/4.3). Nunca se
+// renderiza inline dentro del cuerpo del artículo — siempre como <aside> aparte,
+// para que no se confunda con contenido editorial (heurístico 8).
+interface Props {
+  entry: CollectionEntry<'bridges'>;
+}
+const { entry } = Astro.props;
+const url = `/${entry.data.category}/${entry.id}/`;
+---
+<aside class="bridge-card" aria-label="Recommended solution">
+  <p class="text-xs font-semibold uppercase tracking-wide text-brand-primary">
+    Looking for a root-cause solution?
+  </p>
+  <h2 class="mt-1 text-lg font-semibold">{entry.data.title}</h2>
+  <a href={url} class="mt-3 inline-block font-medium text-brand-primary underline">
+    See the comparison →
+  </a>
+</aside>

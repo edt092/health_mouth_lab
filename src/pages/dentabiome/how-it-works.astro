@@ -1,0 +1,35 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { buildBreadcrumbSchema } from '../../utils/schema';
+
+const breadcrumbItems = [
+  { name: 'Home', url: '/' },
+  { name: 'Dentabiome', url: '/dentabiome/' },
+  { name: 'How It Works', url: '/dentabiome/how-it-works/' },
+];
+---
+<Layout
+  title="How Dentabiome Works | Healthy Mouth Lab"
+  description="How Dentabiome's oral probiotic strains rebalance your oral microbiome to address gum bleeding, bad breath and dry mouth at the root cause."
+  canonicalPath="/dentabiome/how-it-works/"
+  pageType="product"
+  schema={buildBreadcrumbSchema(breadcrumbItems)}
+>
+  <Header slot="header" />
+  <Breadcrumbs items={breadcrumbItems} />
+  <div class="px-6 py-8">
+    <h1 class="text-3xl font-bold">How Dentabiome Works</h1>
+    <p class="mt-4 max-w-measure text-brand-text/80">
+      Dentabiome delivers targeted oral probiotic strains that recolonize the mouth with bacteria associated with
+      gum health, balanced breath and normal saliva production — displacing the bacterial imbalance behind most
+      chronic oral symptoms.
+    </p>
+    <a href="/dentabiome/" class="mt-6 inline-block rounded-md bg-brand-primary px-6 py-3 font-medium text-white">
+      Back to Dentabiome →
+    </a>
+  </div>
+  <Footer slot="footer" />
+</Layout>

@@ -1,0 +1,64 @@
+---
+import { getEntry, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { buildBreadcrumbSchema, buildProductSchema, buildFAQSchema } from '../../utils/schema';
+
+const entry = await getEntry('product', 'dentabiome');
+if (!entry) throw new Error('Missing product entry: dentabiome');
+const { Content } = await render(entry);
+
+const breadcrumbItems = [
+  { name: 'Home', url: '/' },
+  { name: 'Dentabiome', url: '/dentabiome/' },
+];
+---
+<Layout
+  title={`${entry.data.seo.title} | Healthy Mouth Lab`}
+  description={entry.data.seo.description}
+  canonicalPath="/dentabiome/"
+  pageType="product"
+  schema={[
+    buildBreadcrumbSchema(breadcrumbItems),
+    buildProductSchema({
+      name: entry.data.name,
+      description: entry.data.seo.description,
+      price: entry.data.price,
+      currency: entry.data.currency,
+      availability: entry.data.availability,
+      ratingValue: entry.data.rating.value,
+      ratingCount: entry.data.rating.count,
+      url: '/dentabiome/',
+    }),
+    buildFAQSchema(entry.data.faqs),
+  ]}
+>
+  <Header slot="header" />
+  <Breadcrumbs items={breadcrumbItems} />
+
+  <div class="px-6 py-8">
+    <h1 class="text-3xl font-bold">{entry.data.name}</h1>
+    <p class="mt-1 text-sm text-brand-text/60">
+      ★ {entry.data.rating.value} ({entry.data.rating.count} reviews) · ${entry.data.price} {entry.data.currency}
+    </p>
+    <div class="prose mt-6 max-w-measure">
+      <Content />
+    </div>
+
+    <a href="/dentabiome/reviews/" class="mt-4 inline-block underline">Read verified reviews →</a>
+
+    <section aria-label="Frequently asked questions" class="mt-10 space-y-4">
+      <h2 class="text-xl font-semibold">FAQ</h2>
+      {entry.data.faqs.map((faq) => (
+        <div>
+          <h3 class="font-medium">{faq.question}</h3>
+          <p class="text-brand-text/70">{faq.answer}</p>
+        </div>
+      ))}
+    </section>
+  </div>
+
+  <Footer slot="footer" />
+</Layout>
