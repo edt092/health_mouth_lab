@@ -7,12 +7,23 @@ author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 16
 seo:
-  title: "Dry Mouth Causes: 7 Reasons Your Mouth Won't Stop Feeling..."
+  title: "Dry Mouth Causes: 7 Reasons Your Mouth Feels Dry"
   description: "Discover the 7 most common dry mouth causes, from medications to microbiome imbalance, plus practical relief tips and when to see a dentist."
   primaryKeyword: "dry mouth causes"
   secondaryKeywords: []
   searchVolumeRange: "10K-100K"
   intent: "informational"
+faqs:
+  - question: "What's the most common cause of dry mouth?"
+    answer: "Medications are, by a wide margin, the leading cause of chronic dry mouth in adults. Hundreds of drugs, especially those with anticholinergic properties like many antihistamines and antidepressants, interfere with the nerve signals that trigger saliva production."
+  - question: "Can dry mouth be a sign of a serious medical condition?"
+    answer: "Sometimes. Sjögren's syndrome (an autoimmune condition), diabetes, and certain neurological or kidney conditions can all cause chronic dry mouth. Dry mouth alongside dry eyes, joint pain, or unexplained thirst and fatigue is worth discussing with a doctor."
+  - question: "Does aging cause dry mouth?"
+    answer: "Not directly. Healthy salivary glands can keep functioning well into older age. The link between aging and dry mouth mostly comes from taking more medications and having more chronic conditions as you get older, not from glands simply wearing out."
+  - question: "How does dry mouth affect my oral microbiome?"
+    answer: "Saliva's antimicrobial proteins and pH buffering help keep bacteria in balance. When saliva flow drops, that balance shifts toward acid-producing and odor-causing species, which is why chronic dry mouth is linked to more cavities, gum irritation, and bad breath."
+  - question: "What actually helps dry mouth long-term?"
+    answer: "It depends on the cause: reviewing medications with your prescriber, treating mouth breathing or sleep apnea, managing an underlying condition like diabetes, staying consistently hydrated, and supporting a balanced oral microbiome rather than just masking the dryness."
 ---
 
 That sticky, cottony feeling when you wake up in the middle of the night reaching for a glass of water. The way your tongue seems to catch on the roof of your mouth mid-sentence. The lingering sense that no amount of sipping ever quite fixes it. If your mouth won't stop feeling dry, you're dealing with something more than a passing annoyance, and you're far from alone. Persistent dry mouth affects a significant portion of adults, and the reasons behind it are often surprising.
@@ -23,15 +34,31 @@ The good news is that dry mouth is rarely a mystery once you understand what sal
 
 Before diving into causes, it helps to be precise about terms. The medical name for the sensation of a dry mouth is xerostomia. Interestingly, xerostomia refers to the subjective feeling of dryness, which does not always perfectly track with how much saliva you're actually producing. Some people feel parched even when their salivary glands are working reasonably well, while others produce genuinely reduced saliva, a condition called salivary gland hypofunction.
 
+<figure class="image-placeholder">
+  <div class="placeholder-box">
+    IMAGEN SUGERIDA: Diagrama anatómico simple de la cabeza y cuello mostrando la ubicación de las tres glándulas salivales principales (parótida, submandibular y sublingual), cada una etiquetada.
+  </div>
+  <img src="" alt="Simple anatomical diagram of the head and neck showing the location of the three major salivary glands: parotid, submandibular, and sublingual" loading="lazy" />
+  <figcaption>Three major paired glands, plus hundreds of minor ones, produce the saliva your mouth depends on.</figcaption>
+</figure>
+
 Your body has three major pairs of salivary glands, plus hundreds of minor glands scattered throughout your mouth. Together they produce somewhere between two and four pints of saliva per day. That output rises during meals and drops during sleep, which is why so many people notice dryness most acutely first thing in the morning or when they wake overnight.
 
 Saliva does a lot of quiet, unglamorous work. It contains enzymes that begin digestion, antimicrobial proteins that regulate bacterial populations, and minerals like calcium and phosphate that continuously repair the microscopic wear on your enamel. It also buffers acid, keeping the pH of your mouth within a healthy range. When saliva flow slows, you lose these protections all at once, which explains why chronic dry mouth is linked to more cavities, gum irritation, and bad breath. Understanding this connection is key, because relieving dryness is not only about comfort. It's about protecting the oral environment that keeps your teeth and gums healthy.
 
 With that foundation in place, let's look at what's most likely behind your symptoms.
 
+<figure class="image-placeholder">
+  <div class="placeholder-box">
+    IMAGEN SUGERIDA: Cuadrícula de 7 iconos simples representando cada causa (medicamentos, deshidratación, respiración bucal, edad/hormonas, microbioma, condiciones médicas, estilo de vida), numerados del 1 al 7.
+  </div>
+  <img src="" alt="Grid of seven simple icons representing each dry mouth cause: medications, dehydration, mouth breathing, age/hormones, microbiome imbalance, medical conditions, and lifestyle factors" loading="lazy" />
+  <figcaption>Seven distinct causes, often overlapping — identifying yours is the first step to real relief.</figcaption>
+</figure>
+
 ## 1. Medications: The Single Most Common Culprit
 
-If you're searching for dry mouth causes and you take any prescription or over-the-counter medication regularly, this is the first place to look. Medications are, by a wide margin, the leading reason adults develop chronic dry mouth. Hundreds of drugs list xerostomia as a side effect, and the risk climbs sharply when you take more than one of them, a situation common among older adults managing several conditions at once.
+If you're searching for dry mouth causes and you take any prescription or over-the-counter medication regularly, this is the first place to look. Medications are, by a wide margin, the leading reason adults develop chronic dry mouth. Well over a thousand drugs list xerostomia as a side effect ([American Dental Association overview of xerostomia](https://www.ada.org/resources/ada-library/oral-health-topics/xerostomia)), and the risk climbs sharply when you take more than one of them, a situation common among older adults managing several conditions at once.
 
 ### Why medications dry you out
 
@@ -91,9 +118,9 @@ Here is a cause that gets far less attention than it deserves. Your mouth is hom
 
 ### The two-way relationship
 
-Reduced saliva and microbial imbalance feed each other in a loop. Less saliva means fewer antimicrobial proteins and less acid buffering, which allows acid-producing and odor-causing bacteria to flourish. Those bacteria create a more acidic, less hospitable environment that further stresses the tissues. This is why chronic dry mouth so often travels together with symptoms like persistent bad breath, a coated tongue, and increased plaque, even in people who brush diligently.
+Reduced saliva and microbial imbalance feed each other in a loop. Less saliva means fewer antimicrobial proteins and less acid buffering, which allows acid-producing and odor-causing bacteria to flourish. Those bacteria create a more acidic, less hospitable environment that further stresses the tissues. This is why chronic dry mouth so often travels together with symptoms like persistent bad breath (see our full guide to [chronic bad breath and halitosis](/bad-breath/)), a coated tongue, and increased plaque, even in people who brush diligently.
 
-Research into the oral microbiome has grown rapidly, and it's changing how experts think about mouth health. Rather than seeing bacteria as simply something to eliminate, the modern view recognizes that a healthy mouth depends on the right community of microbes. When that community is disrupted, whether by dryness, antibiotics, diet, or illness, symptoms follow. Supporting a balanced microbiome has become part of the broader conversation about managing dry mouth and its downstream effects, and it's one reason interest in oral probiotics has grown. For readers weighing their options, a practical overview of the [best treatment for dry mouth](/dry-mouth/best-treatment-for-dry-mouth/) can help you understand where microbiome support fits alongside hydration and other approaches.
+Research into the [oral microbiome](/oral-microbiome/) has grown rapidly, and it's changing how experts think about mouth health. Rather than seeing bacteria as simply something to eliminate, the modern view recognizes that a healthy mouth depends on the right community of microbes. When that community is disrupted, whether by dryness, antibiotics, diet, or illness, symptoms follow. Supporting a balanced microbiome has become part of the broader conversation about managing dry mouth and its downstream effects, and it's one reason interest in oral probiotics has grown. For readers weighing their options, a practical overview of the [best treatment for dry mouth](/dry-mouth/best-treatment-for-dry-mouth/) can help you understand where microbiome support fits alongside hydration and other approaches.
 
 ### What this means for you
 

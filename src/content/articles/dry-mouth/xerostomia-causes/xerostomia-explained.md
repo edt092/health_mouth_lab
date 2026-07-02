@@ -7,12 +7,23 @@ author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 12
 seo:
-  title: "Xerostomia Explained: The Medical Causes Behind Chronic D..."
+  title: "Xerostomia Explained: Medical Causes of Dry Mouth"
   description: "Xerostomia is more than occasional dry mouth. Learn the medical causes behind chronic dryness, why it matters for oral health, and what actually helps."
   primaryKeyword: "xerostomia"
   secondaryKeywords: []
   searchVolumeRange: "10K-100K"
   intent: "informational"
+faqs:
+  - question: "What's the difference between xerostomia and hyposalivation?"
+    answer: "Xerostomia is the subjective feeling of oral dryness, while hyposalivation is the objective, measurable reduction in saliva flow. Some people feel dry with normal saliva volume, while others have measurably reduced flow but don't yet notice symptoms."
+  - question: "At what point is saliva flow considered abnormally low?"
+    answer: "Clinicians generally consider unstimulated salivary flow at or below about 0.1 mL/min to represent true hyposalivation, compared with a normal range of roughly 0.3 to 0.4 mL/min. Symptoms tend to become noticeable once flow drops to about half of normal output."
+  - question: "What's the most common cause of xerostomia?"
+    answer: "Medication side effects, by a wide margin. More than 500 medications list dry mouth as a documented side effect, and the risk compounds significantly when someone takes multiple drugs with drying effects at once."
+  - question: "Can xerostomia be a sign of an autoimmune disease?"
+    answer: "Yes. Sjögren's syndrome is the classic autoimmune cause, where the immune system attacks the glands that produce saliva and tears. It's diagnosed through specific antibody blood tests, salivary flow testing, and sometimes a minor salivary gland biopsy."
+  - question: "How does xerostomia increase cavity risk?"
+    answer: "Reduced saliva means less acid buffering and fewer antimicrobial proteins, which lets acid-producing bacteria like Streptococcus mutans thrive. This often shows up as root and cervical caries — a faster-progressing form of decay near the gumline that's less protected by fluoride toothpaste."
 ---
 
 If you've been told by a doctor or dentist that you have "xerostomia," you may have left the appointment with more questions than answers. The term sounds clinical because it is: xerostomia is the medical name for the subjective sensation of dry mouth, and it's used to describe a condition that goes well beyond the occasional cottonmouth after a night of poor sleep or too much coffee. Understanding what's actually happening in your mouth at a biological level can help you make sense of why your symptoms persist, why over-the-counter sprays sometimes fall short, and what your treatment options really look like.
@@ -23,7 +34,15 @@ This article takes a closer, more technical look at xerostomia than most consume
 
 Xerostomia refers to the perception of oral dryness, which is technically distinct from hyposalivation, the objective, measurable reduction in saliva production. This distinction matters clinically. Some people produce a normal volume of saliva but still feel persistently dry because the composition or quality of that saliva has changed. Others have measurably reduced salivary flow but don't yet report significant dryness, because the mouth has some functional reserve before symptoms become noticeable.
 
-Unstimulated whole salivary flow in healthy adults typically runs between 0.3 and 0.4 milliliters per minute, and clinicians often consider flow rates below 0.1 mL/min unstimulated (or below 0.7 mL/min stimulated) to represent true hyposalivation. Symptoms of xerostomia tend to become noticeable once flow drops to roughly 50 percent of normal output. This is why some people can have early salivary gland dysfunction for months or years before they notice anything wrong.
+Unstimulated whole salivary flow in healthy adults typically runs between 0.3 and 0.4 milliliters per minute, and clinicians often consider flow rates below 0.1 mL/min unstimulated (or below 0.7 mL/min stimulated) to represent true hyposalivation ([NIH StatPearls overview of xerostomia](https://www.ncbi.nlm.nih.gov/books/NBK545287/)). Symptoms of xerostomia tend to become noticeable once flow drops to roughly 50 percent of normal output.
+
+<figure class="image-placeholder">
+  <div class="placeholder-box">
+    IMAGEN SUGERIDA: Escala horizontal tipo termómetro mostrando el rango de flujo salival normal (0.3-0.4 mL/min) hasta el umbral de hiposalivación (≤0.1 mL/min), con marcadores de color (verde a rojo).
+  </div>
+  <img src="" alt="Horizontal scale showing normal unstimulated salivary flow range versus the hyposalivation threshold, color-coded from green to red" loading="lazy" />
+  <figcaption>Hyposalivation is clinically defined at a specific flow-rate threshold, not just a subjective feeling of dryness.</figcaption>
+</figure> This is why some people can have early salivary gland dysfunction for months or years before they notice anything wrong.
 
 Saliva is far more complex than water. It contains mucins that lubricate oral tissue, bicarbonate and phosphate buffers that neutralize acid, antimicrobial proteins like lysozyme, lactoferrin, and secretory IgA, and minerals such as calcium and phosphate that continuously remineralize enamel. When flow decreases or composition shifts, all of these protective functions are compromised simultaneously, not just the sensation of wetness.
 
@@ -37,7 +56,7 @@ This is also why xerostomia is best understood not as a single diagnosis but as 
 
 ## Medications: The Most Common Cause
 
-By a wide margin, medication side effects are the leading cause of xerostomia in adults, and the mechanism is usually pharmacological receptor blockade rather than gland destruction. More than 500 medications list dry mouth as a documented side effect. The most frequent offenders include:
+By a wide margin, medication side effects are the leading cause of xerostomia in adults, and the mechanism is usually pharmacological receptor blockade rather than gland destruction. More than 500 medications list dry mouth as a documented side effect ([American Dental Association overview of xerostomia](https://www.ada.org/resources/ada-library/oral-health-topics/xerostomia)). The most frequent offenders include:
 
 - Anticholinergic drugs, including many antihistamines, overactive bladder medications, and some antidepressants, which directly block the muscarinic receptors that trigger saliva release.
 - Antidepressants and anxiolytics, particularly tricyclics and some SSRIs, which affect both cholinergic signaling and central nervous system regulation of secretion.
@@ -79,11 +98,11 @@ Anxiety and stress can also produce acute, temporary dry mouth through sympathet
 
 This is the mechanism that often gets glossed over in consumer explanations, but it's central to understanding why xerostomia causes so many downstream dental problems.
 
-Saliva doesn't just lubricate; it actively regulates the oral microbial ecosystem. Its buffering capacity keeps oral pH in a range that favors commensal, health-associated bacteria over acid-tolerant, cariogenic species. Its antimicrobial proteins directly suppress overgrowth of pathogenic organisms. Its flow physically clears food debris and bacterial byproducts that would otherwise accumulate on tooth surfaces.
+Saliva doesn't just lubricate; it actively regulates the [oral microbial ecosystem](/oral-microbiome/). Its buffering capacity keeps oral pH in a range that favors commensal, health-associated bacteria over acid-tolerant, cariogenic species. Its antimicrobial proteins directly suppress overgrowth of pathogenic organisms. Its flow physically clears food debris and bacterial byproducts that would otherwise accumulate on tooth surfaces.
 
 When salivary flow and composition decline, several things happen in sequence. Oral pH drops and stays lower for longer after eating, since there's less bicarbonate buffering to neutralize the acids produced by bacterial metabolism of sugars. This more acidic environment favors the overgrowth of *Streptococcus mutans* and *Lactobacillus* species, both strongly associated with dental caries, at the expense of more neutral-pH-loving commensal species. At the same time, reduced antimicrobial protein levels remove a check on opportunistic organisms like *Candida albicans*, which is why oral candidiasis (thrush) is so common in xerostomic patients, particularly those on inhaled corticosteroids or with autoimmune-related dry mouth.
 
-The net effect is a shift in the oral microbiome toward a more acidogenic, less diverse, and less balanced state. This isn't a cosmetic change; it's measurable in saliva and plaque samples and it correlates directly with clinical outcomes; specifically, a sharp rise in root and cervical caries, a form of decay in patients with chronic dry mouth that behaves differently than typical crown-surface cavities in that it can progress rapidly and affect areas normally protected by fluoride toothpaste use, gum recession exposing root surfaces, which are softer than enamel and more vulnerable to acid, and increased gingival inflammation, since certain protective salivary components decline along with overall flow.
+The net effect is a shift in the oral microbiome toward a more acidogenic, less diverse, and less balanced state. This isn't a cosmetic change; it's measurable in saliva and plaque samples and it correlates directly with clinical outcomes; specifically, a sharp rise in root and cervical caries (see our guide on [what causes plaque and cavities](/plaque-and-cavities/)), a form of decay in patients with chronic dry mouth that behaves differently than typical crown-surface cavities in that it can progress rapidly and affect areas normally protected by fluoride toothpaste use, gum recession exposing root surfaces, which are softer than enamel and more vulnerable to acid, and increased gingival inflammation, since certain protective salivary components decline along with overall flow.
 
 This is why dentists take xerostomia seriously as a dental risk factor independent of its underlying cause. A patient with Sjögren's syndrome and a patient with medication-induced dry mouth may have completely different medical diagnoses, but both face the same elevated caries risk because the mechanism, reduced saliva-mediated microbial regulation, is the same.
 
