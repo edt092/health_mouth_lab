@@ -7,12 +7,23 @@ author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 12
 seo:
-  title: "Swollen, Painful Gums? Here's What Your Mouth Is Trying t..."
+  title: "Swollen, Painful Gums? What Your Mouth Is Telling You"
   description: "Swollen, painful gums often signal early gum inflammation caused by oral bacterial imbalance. Learn the causes, warning signs, and what actually helps."
   primaryKeyword: "gum inflammation"
   secondaryKeywords: ["why do my gums hurt", "sensitive gums"]
   searchVolumeRange: "10K-100K"
   intent: "informational"
+faqs:
+  - question: "Why are my gums swollen and painful if I brush regularly?"
+    answer: "Swelling and pain are your immune system reacting to bacterial buildup along the gumline, not a sign you're not brushing enough. If plaque isn't fully disrupted, or if hormonal changes, dry mouth, or other factors are amplifying the response, inflammation can occur even with reasonable hygiene."
+  - question: "Is gum inflammation the same as gingivitis?"
+    answer: "Gingivitis is the clinical name for this early stage of gum inflammation. It's caused by bacterial buildup and is typically fully reversible with improved hygiene, since no permanent damage to the bone or connective tissue has occurred yet."
+  - question: "Can hormones really cause swollen gums?"
+    answer: "Yes. Pregnancy, puberty, and the menstrual cycle all involve hormonal shifts that increase blood flow to gum tissue and heighten its inflammatory response to the same amount of plaque bacteria that might not have bothered you before."
+  - question: "How long should it take for swollen gums to improve?"
+    answer: "With gentle, consistent brushing and flossing, most mild gum inflammation improves within one to two weeks. If it persists beyond that despite good home care, it's time for a professional evaluation."
+  - question: "Should I brush harder if my gums are swollen?"
+    answer: "No. Gum tissue heals through gentle, consistent plaque removal, not more force. Aggressive brushing can reopen irritated tissue and prolong the inflammation cycle rather than resolve it."
 ---
 
 Sore, puffy, or bleeding gums can feel like a minor annoyance, something to brush off (literally) and forget about. But your gums are actually one of the most communicative tissues in your body. When they hurt, swell, or bleed when you floss, they're rarely being dramatic. They're sending you an early warning signal about what's happening beneath the surface, specifically, in the delicate ecosystem of bacteria that lives along your gumline. Understanding that signal, rather than just masking it, is the difference between catching a problem early and watching it quietly progress for years.
@@ -37,7 +48,15 @@ The encouraging part is that gingivitis is typically reversible. Unlike more adv
 
 ## The Oral Microbiome: The Hidden Mechanism Behind Sore Gums
 
-To really understand gum inflammation, it helps to zoom out and look at the oral microbiome as a whole. Your mouth hosts hundreds of species of bacteria, along with fungi and other microorganisms, that live on your teeth, tongue, cheeks, and gums. This isn't an infection waiting to happen; it's a normal, even essential, part of human biology. Many of these microbial species help break down food, regulate pH, and even help crowd out harmful bacteria simply by occupying space and resources.
+To really understand gum inflammation, it helps to zoom out and look at the [oral microbiome](/oral-microbiome/) as a whole. Your mouth hosts hundreds of species of bacteria, along with fungi and other microorganisms, that live on your teeth, tongue, cheeks, and gums.
+
+<figure class="image-placeholder">
+  <div class="placeholder-box">
+    IMAGEN SUGERIDA: Fotografía o ilustración comparativa de una encía sana (rosada, firme) junto a una encía inflamada (roja, hinchada, brillante), con etiquetas señalando las diferencias visuales.
+  </div>
+  <img src="" alt="Side-by-side comparison of healthy pink, firm gum tissue versus red, swollen, shiny inflamed gum tissue" loading="lazy" />
+  <figcaption>Swelling, redness, and tenderness are your immune system's visible response to bacterial imbalance.</figcaption>
+</figure> This isn't an infection waiting to happen; it's a normal, even essential, part of human biology. Many of these microbial species help break down food, regulate pH, and even help crowd out harmful bacteria simply by occupying space and resources.
 
 Problems arise not because bacteria are present, but because the balance shifts. Researchers refer to this shift as dysbiosis, a state where harmful, inflammation-triggering species (like certain strains of *Porphyromonas gingivalis*, *Fusobacterium nucleatum*, and others associated with gum disease) begin to outnumber the beneficial, stabilizing species that normally keep them in check.
 
@@ -45,7 +64,7 @@ Several everyday factors can tip this balance:
 
 - **Inconsistent oral hygiene**, which allows plaque to accumulate and mature into a more aggressive, biofilm-dominant community
 - **High sugar or refined carbohydrate intake**, which feeds acid- and inflammation-producing bacteria preferentially
-- **Dry mouth**, from medication, mouth breathing, or dehydration, which reduces saliva's natural rinsing and buffering action
+- **[Dry mouth](/dry-mouth/)**, from medication, mouth breathing, or dehydration, which reduces saliva's natural rinsing and buffering action
 - **Smoking or vaping**, which alters blood flow to the gums and shifts the local microbial environment
 - **Hormonal fluctuations**, such as those during pregnancy, puberty, or the menstrual cycle, which change gum tissue sensitivity and blood vessel behavior
 - **Stress**, which affects immune function and, in some research, is associated with shifts in the oral microbial community
@@ -93,7 +112,7 @@ Not all gum pain looks the same, and the specific pattern of your symptoms can o
 
 **Localized swelling around one tooth, sometimes with a bad taste or visible pimple-like bump on the gum:** This pattern can suggest a dental abscess, a more urgent issue that needs prompt evaluation rather than home care.
 
-**Widespread redness, puffiness, and persistent bad breath despite good hygiene:** This combination suggests a more established bacterial imbalance and possibly early periodontitis, warranting a dental visit for professional evaluation and cleaning.
+**Widespread redness, puffiness, and persistent [bad breath](/bad-breath/) despite good hygiene:** This combination suggests a more established bacterial imbalance and possibly early periodontitis, warranting a dental visit for professional evaluation and cleaning.
 
 **Sensitive gums that come and go with your menstrual cycle or pregnancy:** This pattern points toward a hormonal component, though the underlying bacterial biofilm still needs to be well managed to prevent it from becoming a bigger issue.
 

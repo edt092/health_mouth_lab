@@ -7,12 +7,23 @@ author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 14
 seo:
-  title: "Why Do Your Gums Bleed When You Brush? The Real Culprit (..."
+  title: "Why Do Your Gums Bleed When You Brush? Real Cause"
   description: "Bleeding gums when brushing usually isn't a technique problem. Learn the real bacterial cause behind gum bleeding and what actually helps it stop."
   primaryKeyword: "bleeding gums when brushing"
   secondaryKeywords: ["why do my gums bleed", "bleeding gums after flossing"]
   searchVolumeRange: "1K-10K"
   intent: "informational"
+faqs:
+  - question: "Why do my gums bleed even though I brush gently with a soft brush?"
+    answer: "Because the cause usually isn't technique. Bleeding gums when brushing are typically a sign of gingivitis, an inflammatory response to bacterial buildup below the gumline. Healthy tissue doesn't bleed regardless of brushing pressure."
+  - question: "Is bleeding gums always gingivitis?"
+    answer: "Gingivitis is the most common cause, but hormonal changes (pregnancy, menstruation), blood-thinning medications, vitamin C or K deficiency, and smoking (which can mask bleeding) can all influence how much your gums bleed."
+  - question: "How long does it take for bleeding gums to heal?"
+    answer: "With consistent brushing, daily flossing, and a professional cleaning if needed, many people notice a meaningful reduction in bleeding within one to two weeks, and near-complete resolution within a month."
+  - question: "Should I keep flossing an area that bleeds?"
+    answer: "Yes, gently and consistently. Stopping usually allows bacterial buildup to worsen. Bleeding in a newly flossed area typically subsides within one to two weeks as the inflammation resolves."
+  - question: "What does it mean if bleeding doesn't improve after a few weeks?"
+    answer: "That's a signal something more is going on — hardened calculus that needs professional removal, an undiagnosed systemic factor like diabetes, or progression toward periodontitis that needs more intensive treatment."
 ---
 
 You've probably heard it a hundred times: "You're brushing too hard" or "You're just not flossing enough." So you switch to a softer toothbrush, you ease up on the pressure, you buy the fancy electric brush with the pressure sensor — and yet, every single morning, you still spit pink into the sink. If this sounds familiar, you're not imagining things, and you're not doing something obviously wrong. The uncomfortable truth is that bleeding gums when brushing is rarely a technique problem at all. In the vast majority of cases, it's a sign of an active bacterial imbalance happening below the gumline, one that a softer brush or a gentler hand simply can't fix.
@@ -29,7 +40,15 @@ This is why so many people get frustrated: they switch to a soft-bristled brush,
 
 ## So Why Do My Gums Bleed? The Real Mechanism
 
-Your mouth hosts an enormous, complex community of bacteria — the oral microbiome — and in a healthy mouth, this community exists in a relatively stable balance. Some of these bacterial species are harmless or even beneficial, helping to crowd out more problematic ones and supporting a neutral pH. But when oral hygiene lapses even slightly, or when certain risk factors are present, that balance can shift.
+Your mouth hosts an enormous, complex community of bacteria — the [oral microbiome](/oral-microbiome/) — and in a healthy mouth, this community exists in a relatively stable balance.
+
+<figure class="image-placeholder">
+  <div class="placeholder-box">
+    IMAGEN SUGERIDA: Diagrama de corte transversal del surco gingival mostrando bacterias gram-negativas anaerobias acumulándose en un ambiente bajo en oxígeno, con vasos sanguíneos dilatados en la encía circundante.
+  </div>
+  <img src="" alt="Cross-section diagram of the gingival sulcus showing anaerobic gram-negative bacteria accumulating in a low-oxygen environment with dilated blood vessels in surrounding gum tissue" loading="lazy" />
+  <figcaption>Dilated, inflamed blood vessels — not brushing technique — are why gums bleed so easily.</figcaption>
+</figure> Some of these bacterial species are harmless or even beneficial, helping to crowd out more problematic ones and supporting a neutral pH. But when oral hygiene lapses even slightly, or when certain risk factors are present, that balance can shift.
 
 Within hours of not brushing effectively, a soft, sticky film called plaque begins forming on your teeth and along the gumline. Plaque is essentially a biofilm — a structured colony of bacteria embedded in a protective matrix. If it isn't disrupted through brushing and flossing, the bacterial population within that biofilm shifts toward more aggressive, gram-negative species that thrive in low-oxygen environments, particularly in the crevice between your tooth and gum tissue (called the sulcus).
 
@@ -47,7 +66,7 @@ This is the crucial insight that reframes the entire "you're brushing wrong" nar
 
 ## Gingivitis: The Most Common Cause of Bleeding Gums
 
-For most adults experiencing bleeding gums when brushing, the underlying diagnosis is gingivitis — the earliest and most reversible stage of gum disease. Gingivitis is extremely common; some studies suggest a majority of adults have some degree of it at any given time, often without realizing it, because the symptoms can be subtle at first.
+For most adults experiencing bleeding gums when brushing, the underlying diagnosis is gingivitis — the earliest and most reversible stage of gum disease. Gingivitis is extremely common; multi-center studies suggest a majority of adults have some degree of gingival inflammation at any given time ([cross-sectional study of gingival inflammation prevalence in adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5083031/)), often without realizing it, because the symptoms can be subtle at first.
 
 Signs of gingivitis typically include:
 
@@ -55,7 +74,7 @@ Signs of gingivitis typically include:
 - Bleeding gums after flossing, particularly in areas that haven't been flossed regularly
 - Redness or a deeper pink-to-red color along the gumline, compared to the pale pink of healthy tissue
 - Mild swelling or puffiness of the gum tissue
-- Occasional bad breath or a persistent unpleasant taste
+- Occasional [bad breath](/bad-breath/) or a persistent unpleasant taste
 
 The encouraging news is that gingivitis, caught at this stage, is fully reversible. Because it hasn't yet caused permanent damage to the supporting structures of the teeth, restoring bacterial balance and reducing inflammation can bring the gums back to full health, often within a matter of weeks.
 

@@ -7,12 +7,23 @@ author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 17
 seo:
-  title: "How to Keep Your Gums Healthy for Good (Not Just Until Yo..."
+  title: "How to Keep Your Gums Healthy for Good"
   description: "Learn how to keep gums healthy for good with evidence-based tips on bleeding, recession, inflammation, and gingivitis, plus the oral microbiome's role."
   primaryKeyword: "how to keep gums healthy"
   secondaryKeywords: ["how to get healthy gums"]
   searchVolumeRange: "100-1K"
   intent: "informational"
+faqs:
+  - question: "What do healthy gums actually look like?"
+    answer: "Healthy gums are firm, fit snugly around each tooth, and don't bleed, ache, or recede. Color varies naturally by ethnicity, from pink to brown or nearly black in patches — that variation is normal. The key signs of health are the absence of bleeding, pain, and recession, not a specific shade of pink."
+  - question: "How common is gum disease?"
+    answer: "Very common. National survey data shows nearly half of American adults over 30 have some form of periodontitis, and prevalence rises further with age. The progression is slow and preventable at every stage, but it requires consistent attention."
+  - question: "Is bleeding when I floss ever normal?"
+    answer: "No. Bleeding always signals inflammation, though early-stage gingivitis is highly reversible. The common mistake is flossing less because of bleeding — the correct response is gentle, consistent flossing of exactly the area that bleeds."
+  - question: "Can gum recession be reversed?"
+    answer: "Generally not without a surgical graft. Once gum tissue recedes, it doesn't grow back on its own the way skin heals. Prevention — gentle brushing, addressing grinding, and treating gum disease early — matters far more than trying to reverse recession after the fact."
+  - question: "Do oral probiotics actually help gum health?"
+    answer: "Research is still developing, but specific strains like certain Streptococcus salivarius and Lactobacillus reuteri varieties have been studied for helping crowd out harmful, inflammation-triggering bacteria. They're a potential complement to brushing, flossing, and professional care, not a replacement for them."
 ---
 
 Most people think about their gums for exactly two reasons: when they bleed in the sink after brushing, or when the hygienist gives them that slightly disappointed look during a cleaning. The rest of the time, gums are invisible—until they aren't. But your gums are not passive scenery around your teeth. They are living, defended tissue that either holds your teeth firmly in place for a lifetime or slowly loses the battle against the bacteria that never stop trying to move in.
@@ -23,9 +34,17 @@ The good news is that gum health is one of the most controllable parts of your b
 
 Before you can fix a problem, it helps to know what "normal" is. Healthy gums are firm, they fit snugly around each tooth like a well-tailored collar, and they don't move or peel away when you eat. Color varies naturally—many people have pink gums, while others with more melanin have gums that range into brown or nearly black in patches, which is completely normal and healthy.
 
-The most important thing healthy gums do is nothing dramatic. They don't bleed when you brush. They don't throb, ache, or feel tender. They don't recede to expose the yellower root surface of your teeth. And critically, your breath stays neutral rather than developing a persistent sour or metallic odor.
+The most important thing healthy gums do is nothing dramatic. They don't bleed when you brush. They don't throb, ache, or feel tender. They don't recede to expose the yellower root surface of your teeth. And critically, your [breath](/bad-breath/) stays neutral rather than developing a persistent sour or metallic odor.
 
 If you run your tongue along the gumline of healthy gums, the transition from gum to tooth feels smooth and tight. There's a shallow, natural groove between the gum and each tooth called the gingival sulcus—in healthy tissue it measures about 1 to 3 millimeters deep. When gums become diseased, that groove deepens into what dentists call a "pocket," and those pockets are where trouble accumulates.
+
+<figure class="image-placeholder">
+  <div class="placeholder-box">
+    IMAGEN SUGERIDA: Diagrama comparativo de un diente con encía sana (surco gingival de 1-3mm) junto a un diente con bolsa periodontal profunda (más de 4mm) llena de bacterias y placa.
+  </div>
+  <img src="" alt="Comparison diagram of a tooth with a healthy 1-3mm gingival sulcus next to a tooth with a deep periodontal pocket filled with bacteria and plaque" loading="lazy" />
+  <figcaption>A shallow, healthy sulcus versus a deepened periodontal pocket where bacteria accumulate undisturbed.</figcaption>
+</figure>
 
 ### Why gums bleed—and why it is never "normal"
 
@@ -37,7 +56,7 @@ The reassuring part is that early bleeding is highly reversible. In most cases, 
 
 ## The Oral Microbiome: The Real Story Behind Gum Health
 
-Here's where most gum-health advice stops short. It tells you to brush and floss, which is genuinely important, but it treats your mouth like a surface to be scrubbed clean. Your mouth is actually an ecosystem—home to hundreds of species of bacteria that live in a delicate balance. Understanding this balance is the key to learning how to keep gums healthy for the long term rather than in short bursts.
+Here's where most gum-health advice stops short. It tells you to brush and floss, which is genuinely important, but it treats your mouth like a surface to be scrubbed clean. Your mouth is actually an [ecosystem](/oral-microbiome/)—home to hundreds of species of bacteria that live in a delicate balance. Understanding this balance is the key to learning how to keep gums healthy for the long term rather than in short bursts.
 
 ### Balance, not sterility, is the goal
 
@@ -49,7 +68,7 @@ Gum disease begins when that balance tips. Certain bacterial species—names lik
 
 Plaque starts forming within hours of cleaning your teeth. In a balanced mouth, regular disruption of that biofilm keeps harmful populations from establishing themselves. But when plaque is left undisturbed—especially right at the gumline and in the sulcus—it matures. The deeper layers run out of oxygen, which favors exactly the anaerobic, gum-damaging bacteria mentioned above.
 
-Within about 24 to 72 hours, plaque left in place begins to harden into tartar (calculus), a cement-like deposit that you cannot remove with a toothbrush. Tartar is rough and porous, giving even more bacteria a place to cling, and its presence keeps the immune system in a constant state of low-grade war against your own gum tissue. This is why a professional cleaning removes tartar you physically cannot—and why the goal at home is to disrupt plaque before it ever gets that far.
+Within about 24 to 72 hours, [plaque](/plaque-and-cavities/) left in place begins to harden into tartar (calculus), a cement-like deposit that you cannot remove with a toothbrush. Tartar is rough and porous, giving even more bacteria a place to cling, and its presence keeps the immune system in a constant state of low-grade war against your own gum tissue. This is why a professional cleaning removes tartar you physically cannot—and why the goal at home is to disrupt plaque before it ever gets that far.
 
 ### Why this matters for the long game
 
@@ -73,11 +92,19 @@ If the bacterial imbalance persists, the inflammation deepens. The body's own im
 
 As pockets deepen and bone continues to recede, teeth may begin to feel loose, shift position, or become sensitive. Gums pull away from teeth, exposing roots. In advanced cases, chewing becomes uncomfortable and teeth can eventually be lost. Periodontitis is the leading cause of tooth loss in adults—more than cavities.
 
-The sobering statistic is that nearly half of American adults over 30 have some form of periodontitis, and the prevalence rises sharply with age. The encouraging counterpoint is that the progression is slow, predictable, and preventable at every stage if you intervene. Nobody wakes up with advanced gum disease overnight. It's the accumulation of small, daily neglects—and it responds to the accumulation of small, daily good habits.
+The sobering statistic is that nearly half of American adults over 30 have some form of periodontitis ([NIDCR data on periodontal disease in adults](https://www.nidcr.nih.gov/research/data-statistics/periodontal-disease/adults)), and the prevalence rises sharply with age.
+
+<figure class="image-placeholder">
+  <div class="placeholder-box">
+    IMAGEN SUGERIDA: Gráfico de barras mostrando el aumento de la prevalencia de periodontitis por grupo de edad (30+, 45+, 65+), basado en datos de encuestas nacionales de salud.
+  </div>
+  <img src="" alt="Bar chart showing periodontitis prevalence rising by age group in US adults, based on national health survey data" loading="lazy" />
+  <figcaption>Nearly half of US adults over 30 have some form of periodontitis, with prevalence rising sharply after 65.</figcaption>
+</figure> The encouraging counterpoint is that the progression is slow, predictable, and preventable at every stage if you intervene. Nobody wakes up with advanced gum disease overnight. It's the accumulation of small, daily neglects—and it responds to the accumulation of small, daily good habits.
 
 ## Gum Recession: When Gums Retreat
 
-Recession deserves its own discussion because it worries people intensely and its causes are often misunderstood. Receding gums expose the root surface of the tooth, which looks longer ("long in the tooth" is a literal description), often appears more yellow, and tends to be more sensitive to hot, cold, and sweet.
+Recession deserves its own discussion because it worries people intensely and its causes are often misunderstood. Receding gums expose the root surface of the tooth, which looks longer ("long in the tooth" is a literal description), often appears more yellow, and tends to be more [sensitive](/tooth-sensitivity/) to hot, cold, and sweet.
 
 ### What causes gums to recede
 
@@ -121,7 +148,7 @@ Vitamin D and calcium support the bone that anchors your teeth, and a diet rich 
 
 ### The role of saliva
 
-Saliva is one of your mouth's most underappreciated defenses. It rinses away food particles, neutralizes acids, and contains antimicrobial compounds and minerals that protect teeth and gums. Dry mouth—whether from medications, dehydration, mouth-breathing, or certain conditions—removes this protection and is strongly linked to gum problems. Staying well hydrated, and talking to your doctor if a medication is drying your mouth, directly supports gum health.
+Saliva is one of your mouth's most underappreciated defenses. It rinses away food particles, neutralizes acids, and contains antimicrobial compounds and minerals that protect teeth and gums. [Dry mouth](/dry-mouth/)—whether from medications, dehydration, mouth-breathing, or certain conditions—removes this protection and is strongly linked to gum problems. Staying well hydrated, and talking to your doctor if a medication is drying your mouth, directly supports gum health.
 
 ### Smoking: the single worst habit for your gums
 
