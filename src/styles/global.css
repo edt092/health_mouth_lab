@@ -36,3 +36,117 @@
 article :is(p, ul, ol) {
   max-width: 70ch;
 }
+
+/* Tipografía de posts — REDISEÑO_POST.md §2. Escalas desktop dentro de los rangos
+   pedidos (H1 40-48px, H2 30-34px, H3 22-26px, H4 18-20px, cuerpo 18-20px/1.7);
+   en móvil se reduce ~20% para no romper el ritmo vertical en pantallas chicas. */
+.text-h1 {
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #1a2b2b;
+}
+.text-h2 {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #1a2b2b;
+}
+.text-h3 {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #1a2b2b;
+}
+.text-h4 {
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 1.35;
+  color: #1a2b2b;
+}
+
+article .prose {
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #1a2b2b;
+}
+article .prose h2 {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  color: #1a2b2b;
+}
+article .prose h3 {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.3;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: #1a2b2b;
+}
+article .prose h4 {
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 1.35;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #1a2b2b;
+}
+article .prose p,
+article .prose li {
+  margin-bottom: 1rem;
+}
+
+/* Placeholders de imagen (REDISEÑO_POST.md §3) — visibles a propósito en el
+   entorno de edición para que el equipo sepa qué falta reemplazar por la
+   imagen real. El <img> vacío no rompe layout porque el box ya reserva espacio. */
+.image-placeholder {
+  margin: 2rem 0;
+}
+.image-placeholder .placeholder-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 220px;
+  padding: 1.5rem;
+  border: 2px dashed #0b6e4f;
+  border-radius: 0.5rem;
+  background: #eef6f2;
+  color: #0b6e4f;
+  font-weight: 600;
+  font-size: 15px;
+  text-align: center;
+}
+.image-placeholder img {
+  display: none;
+}
+.image-placeholder figcaption {
+  margin-top: 0.5rem;
+  font-size: 14px;
+  color: #1a2b2b99;
+  text-align: center;
+}
+
+@media (max-width: 640px) {
+  .text-h1 {
+    font-size: 35px;
+  }
+  .text-h2,
+  article .prose h2 {
+    font-size: 26px;
+  }
+  .text-h3,
+  article .prose h3 {
+    font-size: 19px;
+  }
+  .text-h4,
+  article .prose h4 {
+    font-size: 15px;
+  }
+  article .prose {
+    font-size: 18px;
+  }
+}

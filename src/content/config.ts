@@ -37,6 +37,9 @@ const articles = defineCollection({
     medicalReviewer: z.string(),
     readingTime: z.number(),
     seo: seoSchema,
+    // FAQPage (REDISEÑO_POST.md §6): 4-6 preguntas basadas en el contenido real
+    // del artículo. Opcional porque no todos los artículos antiguos la tienen aún.
+    faqs: z.array(z.object({ question: z.string(), answer: z.string() })).optional(),
   }),
 });
 

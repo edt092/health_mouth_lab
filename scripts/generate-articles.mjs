@@ -244,14 +244,23 @@ function wordCount(text) {
 async function generateOne(article) {
   const model = article.pillar ? 'claude-opus-4-8' : 'claude-sonnet-5';
 
+  // max_tokens en 8192: 3500 palabras son ~5000 tokens de salida, pero artículos
+  // con listas largas (causas, factores de riesgo) pueden pasarse de esa estimación.
+  // 6000 se quedó corto y truncó ~15 de los primeros 30 artículos a mitad de frase.
   const response = await client.messages.create({
     model,
-    max_tokens: 6000,
+    max_tokens: 8192,
     thinking: { type: 'disabled' },
     output_config: { effort: 'high' },
     system: SYSTEM_PROMPT,
     messages: [{ role: 'user', content: buildUserPrompt(article) }],
   });
+
+  if (response.stop_reason === 'max_tokens') {
+    throw new Error(
+      `Truncated: hit max_tokens before finishing (stop_reason=max_tokens). Raise max_tokens and retry.`,
+    );
+  }
 
   const raw = response.content
     .filter((b) => b.type === 'text')

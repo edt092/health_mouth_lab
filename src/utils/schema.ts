@@ -30,14 +30,21 @@ export function buildArticleSchema(opts: {
   datePublished: Date;
   dateModified: Date;
   url: string;
+  image?: string;
 }) {
   return {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
     headline: opts.title,
     description: opts.description,
+    image: `${SITE_URL}${opts.image ?? '/images/og-default.jpg'}`,
     author: { '@type': 'Person', name: opts.author },
-    reviewedBy: { '@type': 'Person', name: opts.reviewer },
+    reviewedBy: { '@type': 'Person', name: opts.reviewer, jobTitle: 'Dentist' },
+    publisher: {
+      '@type': 'Organization',
+      name: 'Healthy Mouth Lab',
+      logo: { '@type': 'ImageObject', url: `${SITE_URL}/favicon.svg` },
+    },
     datePublished: opts.datePublished.toISOString(),
     dateModified: opts.dateModified.toISOString(),
     mainEntityOfPage: `${SITE_URL}${opts.url}`,
