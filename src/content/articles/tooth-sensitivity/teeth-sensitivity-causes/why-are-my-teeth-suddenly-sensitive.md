@@ -7,12 +7,23 @@ author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 15
 seo:
-  title: "Why Are My Teeth Suddenly Sensitive? Common Causes Explained"
+  title: "Why Are My Teeth Suddenly Sensitive? Causes"
   description: "Wondering why your teeth are suddenly sensitive? Learn the most common causes of teeth sensitivity, what they mean, and how to find lasting relief."
   primaryKeyword: "teeth sensitivity"
   secondaryKeywords: []
   searchVolumeRange: "10K-100K"
   intent: "informational"
+faqs:
+  - question: "Why does cold water suddenly hurt my teeth?"
+    answer: "Sharp, short-lived pain from cold, hot, or sweet triggers is usually caused by exposed dentin. Microscopic channels called dentinal tubules, normally sealed by enamel or gum tissue, become open pathways once that protective layer is worn away or recedes, letting stimuli reach the nerve."
+  - question: "Can brushing too hard actually cause tooth sensitivity?"
+    answer: "Yes. Aggressive brushing, especially with a hard-bristled brush, can create small notches at the gumline called abrasion, exposing dentin directly. Switching to a soft brush and gentle, circular motions can prevent and sometimes improve this."
+  - question: "Is teeth whitening sensitivity something to worry about?"
+    answer: "Usually not. Whitening-related sensitivity is almost always temporary and resolves within a few days of stopping treatment. Lower peroxide concentrations, spaced-out applications, and desensitizing toothpaste can reduce the discomfort."
+  - question: "How long should I try home remedies before seeing a dentist?"
+    answer: "Give gentle, low-risk steps like a soft brush, desensitizing toothpaste, and mindful timing around acidic foods a few weeks. If sensitivity persists, worsens, or is concentrated in a single tooth, see a dentist rather than continuing to self-treat."
+  - question: "What's the connection between gum health and tooth sensitivity?"
+    answer: "Gum recession exposes root surfaces covered only by thin cementum, which wears away easily to reveal dentin. Since recession is often driven by an imbalance in oral bacteria, supporting a healthy oral microbiome is part of protecting against this type of sensitivity."
 ---
 
 That sharp, fleeting jolt when you sip iced water, bite into ice cream, or even breathe in cold air on a winter morning is one of the most common dental complaints there is. If your teeth have recently become sensitive and you cannot pinpoint why, you are not alone, and you are right to pay attention. Sudden sensitivity is your mouth's way of telling you that something has changed, whether it is the protective layers of your teeth, the health of your gums, or the balance of bacteria living in your mouth.
@@ -25,7 +36,15 @@ To understand why your teeth hurt, it helps to know what is happening beneath th
 
 Dentin is not solid. It is riddled with thousands of microscopic channels called dentinal tubules that run from the outer surface of the tooth toward the nerve center, known as the pulp. When enamel or cementum is intact, these tubules stay sealed off from the outside world. But when dentin becomes exposed, whether through enamel wear, gum recession, or damage, those tubules become open pathways. Hot, cold, sweet, or acidic stimuli travel down the fluid inside the tubules and reach the nerve, producing that characteristic sharp, short-lived pain.
 
-This mechanism is called the hydrodynamic theory of dentin sensitivity, and it explains why sensitive teeth typically react most strongly to temperature changes and sweets. The pain is usually quick and stops soon after the trigger is removed. If your discomfort lingers for minutes, throbs, or occurs without any obvious trigger, that points to a different problem and deserves professional evaluation.
+This mechanism is called the [hydrodynamic theory of dentin sensitivity](https://pmc.ncbi.nlm.nih.gov/articles/PMC3585766/), and it explains why sensitive teeth typically react most strongly to temperature changes and sweets.
+
+<figure class="image-placeholder">
+  <div class="placeholder-box">
+    IMAGEN SUGERIDA: Corte transversal microscópico de un diente mostrando los túbulos dentinarios abiertos conectando la superficie expuesta con el nervio pulpar, con flechas indicando el flujo de fluido que desencadena el dolor.
+  </div>
+  <img src="" alt="Microscopic cross-section of a tooth showing open dentinal tubules connecting the exposed surface to the pulp nerve, with arrows indicating fluid flow that triggers pain" loading="lazy" />
+  <figcaption>Exposed dentinal tubules let hot, cold, or sweet stimuli reach the nerve — this is the mechanism behind that sharp, short-lived pain.</figcaption>
+</figure> The pain is usually quick and stops soon after the trigger is removed. If your discomfort lingers for minutes, throbs, or occurs without any obvious trigger, that points to a different problem and deserves professional evaluation.
 
 Understanding this framework is useful because nearly every cause of sensitivity comes down to one thing: dentin that used to be protected has become exposed or newly reactive. From there, the question becomes why.
 
@@ -57,7 +76,7 @@ Your gums are meant to hug each tooth snugly, covering the root and sealing out 
 
 ### Why gums recede
 
-Recession can result from aggressive brushing, but the more common and more serious cause is gum disease. This is where the health of your oral microbiome comes directly into play. Your mouth is home to hundreds of species of bacteria that normally live in a balanced ecosystem. When that balance is disrupted, harmful bacteria overgrow, forming sticky plaque along and beneath the gumline.
+Recession can result from aggressive brushing, but the more common and more serious cause is gum disease. This is where the health of your [oral microbiome](/oral-microbiome/) comes directly into play. Your mouth is home to hundreds of species of bacteria that normally live in a balanced ecosystem. When that balance is disrupted, harmful bacteria overgrow, forming sticky plaque along and beneath the gumline.
 
 The bacteria in plaque produce toxins that trigger inflammation. In the early stage, called gingivitis, gums become red, swollen, and prone to bleeding. Gingivitis is reversible with good care. But if the bacterial imbalance persists, the inflammation can progress to periodontitis, in which the supporting bone and tissue break down, gums pull away from the teeth, and pockets form that trap even more bacteria. As gums recede in this process, root surfaces are exposed and sensitivity follows.
 
@@ -67,7 +86,7 @@ The traditional approach to gum health has focused almost entirely on removing b
 
 This is why interest has grown in supporting the population of good bacteria rather than only attacking the bad. Some people explore approaches like oral probiotics, and understanding what qualifies as the [best supplement for gum health](/tooth-sensitivity/best-supplement-for-gum-health/) can be a useful part of a broader strategy that still includes daily hygiene and regular dental visits. The point is that a resilient, balanced oral microbiome helps protect the gum tissue that keeps your tooth roots covered and comfortable, whereas an imbalanced one leaves those roots vulnerable.
 
-Keep in mind that no supplement replaces professional treatment for established gum disease. If you have bleeding gums, persistent bad breath, or visibly receding gumlines, a dentist should evaluate you.
+Keep in mind that no supplement replaces professional treatment for established [gum disease](/gum-health/). If you have bleeding gums, persistent [bad breath](/bad-breath/), or visibly receding gumlines, a dentist should evaluate you.
 
 ## Teeth Grinding and Clenching
 
@@ -97,7 +116,7 @@ While many causes of sensitivity are diffuse and affect several teeth, pain conc
 
 ### Tooth decay
 
-A cavity is a hole in the tooth created by acid-producing bacteria that ferment sugars and erode enamel and dentin. As decay progresses toward the nerve, the tooth becomes sensitive to sweets, temperature, and eventually pressure. Early cavities may cause only mild sensitivity, which is one reason regular checkups matter: a dentist can catch and fill decay before it reaches the nerve and causes serious pain.
+A [cavity](/plaque-and-cavities/) is a hole in the tooth created by acid-producing bacteria that ferment sugars and erode enamel and dentin. As decay progresses toward the nerve, the tooth becomes sensitive to sweets, temperature, and eventually pressure. Early cavities may cause only mild sensitivity, which is one reason regular checkups matter: a dentist can catch and fill decay before it reaches the nerve and causes serious pain.
 
 ### Cracked or chipped teeth
 
@@ -117,7 +136,7 @@ A telltale sign of sinus-related tooth pain is that it changes when you move you
 
 Hormonal shifts during pregnancy, menstruation, or menopause can increase blood flow to the gums and make them more reactive and prone to inflammation, sometimes producing temporary sensitivity. Pregnancy in particular is associated with pregnancy gingivitis, which makes gums more sensitive and prone to bleeding, so extra attention to gentle oral care during this time is worthwhile.
 
-Certain medications that reduce saliva flow can also contribute indirectly. Saliva is a natural buffer that neutralizes acids, delivers minerals that help re-harden enamel, and keeps the oral microbiome in check. A dry mouth from medications, dehydration, or medical conditions leaves teeth more vulnerable to acid wear and decay, and it allows harmful bacteria to flourish, both of which can lead to sensitivity over time. Staying well hydrated, chewing sugar-free gum to stimulate saliva, and discussing dry mouth with your dentist or doctor can help.
+Certain medications that reduce saliva flow can also contribute indirectly. Saliva is a natural buffer that neutralizes acids, delivers minerals that help re-harden enamel, and keeps the oral microbiome in check. A [dry mouth](/dry-mouth/) from medications, dehydration, or medical conditions leaves teeth more vulnerable to acid wear and decay, and it allows harmful bacteria to flourish, both of which can lead to sensitivity over time. Staying well hydrated, chewing sugar-free gum to stimulate saliva, and discussing dry mouth with your dentist or doctor can help.
 
 ## How to Relieve and Prevent Teeth Sensitivity
 

@@ -7,12 +7,23 @@ author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 14
 seo:
-  title: "Loose Tooth as an Adult? Here's What It Could Mean"
+  title: "Loose Tooth as an Adult? What It Could Mean"
   description: "A loose adult tooth is never normal, but it's not always a lost cause. Learn the real causes, what they mean, and when to see a dentist right away."
   primaryKeyword: "loose adult tooth"
   secondaryKeywords: []
   searchVolumeRange: "1K-10K"
   intent: "informational"
+faqs:
+  - question: "Is it normal for an adult tooth to feel loose?"
+    answer: "No. Unlike baby teeth, adult teeth are never supposed to feel loose. It's always worth a professional evaluation, though the cause — gum disease, grinding, trauma, or hormonal changes — determines how serious it is and whether it can be stabilized."
+  - question: "What's the most common cause of a loose adult tooth?"
+    answer: "Periodontitis, an advanced stage of gum disease driven by long-term bacterial imbalance along the gumline. Chronic inflammation from the immune system's response to that bacteria gradually breaks down the ligament and bone that anchor the tooth."
+  - question: "Can a loose tooth from grinding be reversed?"
+    answer: "Often, yes. Bite-related looseness tends to be more reversible than bone loss from gum disease, since reducing the excessive force — through a nightguard or bite correction — can allow the periodontal ligament to heal and tighten back up over time."
+  - question: "What should I do if my tooth was knocked out?"
+    answer: "Pick it up by the crown, rinse gently with water (no soap or scrubbing), and try to reinsert it into the socket if possible. If that's not possible, store it in milk or your own saliva and get to a dentist within 30 to 60 minutes — reimplantation success drops significantly after the first hour."
+  - question: "Can a Grade III loose tooth be saved?"
+    answer: "It depends on how much bone support remains. Grade III mobility, which includes vertical movement, indicates significant bone loss and a more guarded prognosis, though splinting or periodontal treatment can sometimes extend a tooth's function for years."
 ---
 
 Noticing that a permanent tooth wiggles when you press it with your tongue can be alarming in a way that's hard to put into words. Baby teeth are supposed to get loose and fall out—adult teeth are not. If you've just discovered this and your stomach dropped a little, take a breath. A loose adult tooth is always worth paying attention to, but it isn't automatically a sign that you're about to lose it. The cause matters enormously, and in many cases, the looseness is a symptom of something that can be slowed, stabilized, or even reversed if you act relatively soon.
@@ -20,6 +31,14 @@ Noticing that a permanent tooth wiggles when you press it with your tongue can b
 This article walks through what actually makes an adult tooth loosen, how dentists think about severity, what you can reasonably do at home while you wait for an appointment, and the specific warning signs that mean you shouldn't wait at all.
 
 ## Why Adult Teeth Are Not Supposed to Move
+
+<figure class="image-placeholder">
+  <div class="placeholder-box">
+    IMAGEN SUGERIDA: Corte transversal de un diente mostrando el ligamento periodontal, el hueso alveolar y la encía, con etiquetas señalando cada estructura de soporte.
+  </div>
+  <img src="" alt="Cross-section diagram of a tooth showing the periodontal ligament, alveolar bone, and gum tissue that together anchor the tooth in its socket" loading="lazy" />
+  <figcaption>A tooth loosens when one or more of its support structures — ligament, bone, or gum — is compromised.</figcaption>
+</figure>
 
 Your teeth aren't fused directly to your jawbone like a peg in a hole. Each tooth root sits inside a socket, suspended by a network of collagen fibers called the periodontal ligament. This ligament acts like a shock absorber, allowing microscopic movement during chewing while keeping the tooth firmly anchored. Surrounding and supporting all of this is the alveolar bone—the ridge of jawbone that literally exists to hold your teeth in place—and the gum tissue that seals everything off from the bacteria-filled environment of your mouth.
 
@@ -29,14 +48,14 @@ A tooth becomes loose when one or more of these support structures is compromise
 
 By far, the leading reason adults experience a loose tooth is periodontitis, an advanced stage of gum disease driven by a long-term imbalance in the bacteria living along the gumline.
 
-Everyone's mouth hosts a mix of bacterial species, and in a healthy mouth, this community exists in a relatively stable balance. Problems start when sticky plaque is allowed to accumulate at and below the gumline, particularly in the harder-to-reach areas between teeth and along the back molars. Left undisturbed, plaque hardens into tartar (calculus), which cannot be removed by brushing and creates a rough surface that harbors even more bacteria. Certain bacterial species that thrive in this low-oxygen, plaque-heavy environment—organisms like *Porphyromonas gingivalis* and other anaerobic species—trigger a chronic inflammatory response from your immune system.
+Everyone's [oral microbiome](/oral-microbiome/) hosts a mix of bacterial species, and in a healthy mouth, this community exists in a relatively stable balance. Problems start when sticky plaque is allowed to accumulate at and below the gumline, particularly in the harder-to-reach areas between teeth and along the back molars. Left undisturbed, plaque hardens into tartar (calculus), which cannot be removed by brushing and creates a rough surface that harbors even more bacteria. Certain bacterial species that thrive in this low-oxygen, plaque-heavy environment—organisms like *Porphyromonas gingivalis* and other anaerobic species—trigger a chronic inflammatory response from your immune system.
 
 That inflammation is actually the more destructive part of the process. Your body's immune response, in its effort to fight off the bacterial overgrowth, ends up breaking down the very collagen fibers and bone that hold your teeth in place. This is why periodontitis is sometimes described as an inflammatory disease with a bacterial trigger, rather than simply an infection. Over months and years, the periodontal ligament weakens, the gum tissue detaches from the tooth to form deepening "pockets," and the alveolar bone gradually resorbs. Once enough bone support is lost, the tooth—which once sat rigidly in a deep, well-supported socket—starts to have detectable mobility.
 
 Gum disease typically doesn't announce itself with pain until it's fairly advanced, which is part of why a loose tooth can feel like it came out of nowhere. In reality, it's often the visible tip of a slow-moving process that's been underway for years. Other clues that periodontitis may be behind a loose tooth include:
 
-- Gums that bleed easily when brushing or flossing
-- Persistent bad breath or a bad taste that doesn't go away with brushing
+- [Gums that bleed](/gum-health/) easily when brushing or flossing
+- Persistent [bad breath](/bad-breath/) or a bad taste that doesn't go away with brushing
 - Gums that look red, puffy, or have pulled away from the teeth (making teeth look "longer")
 - Pus or tenderness when pressing on the gums
 - Teeth that have shifted position or developed new gaps
@@ -92,7 +111,7 @@ These causes are far less common than gum disease, bruxism, or trauma, but they'
 
 ## How Dentists Grade Tooth Mobility
 
-To make sense of how serious a loose tooth is, dentists typically use a mobility grading system:
+To make sense of how serious a loose tooth is, dentists typically use a mobility grading system ([cross-sectional study on the Miller mobility index](https://pmc.ncbi.nlm.nih.gov/articles/PMC6388838/)):
 
 - **Grade I:** Slightly more movement than normal, detectable but subtle, usually side-to-side only.
 - **Grade II:** Moderate movement, up to about 1 millimeter in any direction, noticeable without special instruments.

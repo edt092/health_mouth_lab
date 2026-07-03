@@ -7,12 +7,23 @@ author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 15
 seo:
-  title: "Tooth Mobility Explained: When It's Serious and When It I..."
+  title: "Tooth Mobility Explained: Serious or Not?"
   description: "Tooth mobility can signal harmless pressure changes or serious gum disease. Learn the clinical grades, causes, and when loose teeth need a dentist."
   primaryKeyword: "tooth mobility"
   secondaryKeywords: []
   searchVolumeRange: "100-1K"
   intent: "informational"
+faqs:
+  - question: "How much tooth movement is considered normal?"
+    answer: "Every tooth has a small amount of physiological movement, made possible by the elasticity of the periodontal ligament. This is imperceptible in daily life. Movement becomes pathologic when it's visible to the eye or measurably exceeds this normal range."
+  - question: "What is the Miller Mobility Index?"
+    answer: "It's the standardized clinical scale dentists use to grade tooth mobility, from Grade 0 (physiologic movement only) through Grade III (severe mobility over 2mm, including the ability to depress the tooth vertically into its socket)."
+  - question: "Can a loose tooth from orthodontic treatment be a bad sign?"
+    answer: "No — mild mobility during active orthodontic treatment is normal and expected, since braces or aligners work precisely by inducing controlled bone remodeling. It should stabilize once the tooth reaches its new position."
+  - question: "What's the difference between vertical and horizontal tooth mobility?"
+    answer: "Horizontal mobility (side-to-side movement) can range from mild to severe depending on the grade. Vertical mobility — the ability to press the tooth down into its socket — is a more concerning sign that almost always indicates significant bone loss around the root."
+  - question: "Can a loose tooth be saved once diagnosed?"
+    answer: "Often, yes, particularly when caught early. Treatment depends on the cause: scaling and root planing for gum disease, a bite adjustment or nightguard for occlusal trauma, or splinting to stabilize a tooth while the ligament and bone recover."
 ---
 
 Noticing that a tooth wiggles slightly when you press on it with your tongue can trigger real alarm. Is it a sign that you're about to lose the tooth, or is it something far more benign that will resolve on its own? The truth is that a small degree of tooth mobility is actually normal biology, while more pronounced movement can be an early warning sign of periodontal breakdown. Understanding where a specific case falls on that spectrum requires looking at the underlying structures that hold teeth in place and what disrupts them.
@@ -25,7 +36,15 @@ Every tooth in your mouth has a small amount of physiological movement. This isn
 
 Because of the PDL's elasticity, every tooth normally moves somewhere between 0.05 and 0.1 millimeters horizontally when force is applied. This movement is imperceptible to you but measurable by a dentist using calibrated instruments. When mobility exceeds this microscopic baseline to the point that you or your dentist can visibly see or feel it, it's classified as pathologic — meaning something has changed in the supporting structures.
 
-Dentists typically use the **Miller Mobility Index**, a standardized clinical scale, to quantify what they're seeing:
+Dentists typically use the **Miller Mobility Index** ([cross-sectional study validating the Miller mobility index](https://pmc.ncbi.nlm.nih.gov/articles/PMC6388838/)), a standardized clinical scale, to quantify what they're seeing:
+
+<figure class="image-placeholder">
+  <div class="placeholder-box">
+    IMAGEN SUGERIDA: Diagrama de un diente mostrando las direcciones de movimiento evaluadas por el Índice de Movilidad de Miller: horizontal (vestibulolingual) y vertical (hundimiento en el alvéolo), con las 4 categorías (Grado 0-III) etiquetadas.
+  </div>
+  <img src="" alt="Diagram of a tooth showing the horizontal and vertical movement directions assessed by the Miller Mobility Index, labeled with Grade 0 through Grade III" loading="lazy" />
+  <figcaption>Vertical mobility — depressing the tooth into its socket — is the most concerning sign, almost always indicating significant bone loss.</figcaption>
+</figure>
 
 - **Grade 0**: Physiologic mobility only, not clinically detectable beyond the normal range.
 - **Grade I**: Slight mobility greater than normal, up to 1 mm of horizontal displacement.
@@ -42,7 +61,7 @@ Tooth mobility is a sign, not a diagnosis — it reflects an underlying process 
 
 By far the most common cause of pathologic mobility in adults is periodontitis, an inflammatory disease driven by bacterial plaque along and beneath the gumline. When the oral microbiome shifts toward a higher proportion of gram-negative anaerobic species — bacteria that thrive in low-oxygen environments like periodontal pockets — these organisms trigger a sustained immune response. The body's own inflammatory mediators, released to fight the bacterial challenge, end up breaking down collagen fibers in the periodontal ligament and resorbing the alveolar bone that supports the tooth root.
 
-As bone height decreases and the ligament attachment shortens, the tooth has less anchorage and more leverage against it, so mobility increases. This is a gradual process; mobility from periodontitis typically develops over months to years and is usually accompanied by other signs such as gum recession, bleeding on brushing, persistent bad breath, or visible pus at the gumline. In advanced cases, radiographs show bone loss extending down the root surface, sometimes reaching the root apex or furcation area (where multi-rooted teeth branch), both of which significantly worsen the mobility grade.
+As bone height decreases and the ligament attachment shortens, the tooth has less anchorage and more leverage against it, so mobility increases. This is a gradual process; mobility from periodontitis typically develops over months to years and is usually accompanied by other signs such as [gum recession](/gum-health/), bleeding on brushing, persistent [bad breath](/bad-breath/), or visible pus at the gumline. In advanced cases, radiographs show bone loss extending down the root surface, sometimes reaching the root apex or furcation area (where multi-rooted teeth branch), both of which significantly worsen the mobility grade.
 
 ### Occlusal Trauma
 
@@ -95,7 +114,7 @@ A useful mental model: physiological mobility feels like it belongs to the tooth
 
 ## The Role of the Oral Microbiome
 
-Since periodontal disease is the leading cause of pathologic mobility in adults, it's worth understanding the bacterial dynamics driving it, because this is where prevention has the most leverage. A healthy mouth hosts hundreds of bacterial species living in relative balance — a mix of aerobic and anaerobic organisms that coexist without triggering excessive inflammation. Dental plaque is a normal, unavoidable biofilm that forms constantly on tooth surfaces.
+Since periodontal disease is the leading cause of pathologic mobility in adults, it's worth understanding the bacterial dynamics driving it, because this is where prevention has the most leverage. A healthy [oral microbiome](/oral-microbiome/) hosts hundreds of bacterial species living in relative balance — a mix of aerobic and anaerobic organisms that coexist without triggering excessive inflammation. Dental plaque is a normal, unavoidable biofilm that forms constantly on tooth surfaces.
 
 Problems arise when that biofilm is allowed to mature undisturbed, particularly below the gumline where oxygen is scarce. In this environment, the microbial community shifts toward species like *Porphyromonas gingivalis*, *Tannerella forsythia*, and *Treponema denticola* — organisms strongly associated with periodontal tissue destruction. These bacteria don't just sit passively; they produce enzymes and toxins that directly damage gum tissue and provoke a disproportionate immune response, one that ends up causing more collateral damage to bone and ligament than the bacteria themselves would otherwise cause.
 
