@@ -7,12 +7,23 @@ author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 16
 seo:
-  title: "What Really Causes Cavities? It's Not Just Sugar"
+  title: "What Really Causes Cavities? Not Just Sugar"
   description: "Wondering what causes cavities? It's more than sugar. Learn how oral bacteria, pH, and dry mouth drive tooth decay—and how to protect your teeth."
   primaryKeyword: "what causes cavities"
   secondaryKeywords: []
   searchVolumeRange: "1K-10K"
   intent: "informational"
+faqs:
+  - question: "If sugar doesn't directly cause cavities, why does everyone say it does?"
+    answer: "Sugar is genuinely the preferred fuel for cavity-causing bacteria, so it's not wrong — it's incomplete. Cavities form when acid production from bacteria consistently outpaces your saliva's ability to repair enamel, and factors like eating frequency, saliva flow, and fluoride exposure matter just as much as total sugar intake."
+  - question: "Does eating sugar frequently matter more than eating a lot of it at once?"
+    answer: "Yes. Each exposure to fermentable carbohydrates triggers an acid attack lasting 20 to 60 minutes. Sipping a sugary drink over hours keeps your mouth in a near-constant acidic state, while consuming the same amount at one sitting gives saliva a chance to recover in between."
+  - question: "Can you get cavities without eating much sugar?"
+    answer: "Yes. Dry mouth, acidic foods and drinks (including sugar-free sodas), tooth anatomy, genetics, and certain medical conditions can all significantly raise cavity risk independent of sugar intake."
+  - question: "What is the critical pH for tooth decay?"
+    answer: "Enamel begins losing minerals (demineralizing) once the pH at the tooth surface drops to about 5.5 or below, a threshold produced by acid from bacteria fermenting carbohydrates. Saliva normally restores this balance through remineralization between meals."
+  - question: "Can oral probiotics help prevent cavities?"
+    answer: "Research is still developing, but restoring a healthier bacterial balance is an active area of study. It's considered a complement to proven fundamentals like fluoride, reduced sugar frequency, and good hygiene, not a replacement for them."
 ---
 
 If you have ever been told to cut back on sweets to protect your teeth, you have received advice that is only partly right. Sugar plays a role in tooth decay, but it is not the villain acting alone. In fact, you could eat a spoonful of sugar, rinse it away, and cause very little harm. Meanwhile, someone who rarely touches candy can still develop cavities year after year. The difference lies in a far more complex story happening on the surfaces of your teeth every hour of every day.
@@ -45,7 +56,15 @@ This is a crucial point that gets lost in the "sugar causes cavities" message. S
 
 ### Step two: acid lowers the pH at the tooth surface
 
-As bacteria pump out acid, the pH right at the tooth surface drops. When it falls below a critical threshold—roughly 5.5 for enamel—the environment becomes acidic enough to start pulling minerals out of the tooth. This is called demineralization.
+As bacteria pump out acid, the pH right at the tooth surface drops. When it falls below a critical threshold—roughly 5.5 for enamel ([research on demineralization kinetics and the critical pH threshold](https://pmc.ncbi.nlm.nih.gov/articles/PMC10127078/))—the environment becomes acidic enough to start pulling minerals out of the tooth. This is called demineralization.
+
+<figure class="image-placeholder">
+  <div class="placeholder-box">
+    IMAGEN SUGERIDA: Gráfico tipo "curva de Stephan" mostrando el pH bucal cayendo bruscamente tras consumir azúcar, cruzando la línea de pH crítico 5.5, y recuperándose gradualmente en 30-60 minutos.
+  </div>
+  <img src="" alt="Stephan curve graph showing oral pH dropping sharply after sugar consumption, crossing the critical pH 5.5 threshold, and gradually recovering over 30-60 minutes" loading="lazy" />
+  <figcaption>Every sugar exposure triggers an acid attack — what matters is how often this curve repeats each day.</figcaption>
+</figure>
 
 Enamel is made mostly of a crystalline mineral called hydroxyapatite, which is rich in calcium and phosphate. In an acidic environment, these minerals begin to dissolve out of the enamel and into the surrounding fluid. The tooth is literally losing part of its structure at a microscopic level.
 
@@ -75,7 +94,7 @@ What makes these species so damaging is not just that they make acid, but that t
 
 You might assume the goal is to eliminate as many oral bacteria as possible. It is not, and it cannot be. The mouth is one of the most densely populated microbial environments in the human body, and complete sterility is neither achievable nor desirable. Many resident species actively compete with harmful ones, produce compounds that discourage pathogens, and help maintain a neutral pH.
 
-This is why the modern understanding of oral health increasingly emphasizes the microbiome rather than a single germ. When beneficial and neutral bacteria dominate, they crowd out and suppress the acid-producers. When that balance breaks down—through frequent snacking, dry mouth, poor hygiene, or other disruptions—the harmful species gain ground. Research into whether restoring a healthier bacterial balance can reduce decay is one reason people have started asking [whether probiotics can help prevent cavities](/plaque-and-cavities/can-probiotics-prevent-cavities/), a question that reflects this shift toward thinking about the mouth as an ecosystem rather than a battlefield.
+This is why the modern understanding of oral health increasingly emphasizes the [microbiome](/oral-microbiome/) rather than a single germ. When beneficial and neutral bacteria dominate, they crowd out and suppress the acid-producers. When that balance breaks down—through frequent snacking, dry mouth, poor hygiene, or other disruptions—the harmful species gain ground. Research into whether restoring a healthier bacterial balance can reduce decay is one reason people have started asking [whether probiotics can help prevent cavities](/plaque-and-cavities/can-probiotics-prevent-cavities/), a question that reflects this shift toward thinking about the mouth as an ecosystem rather than a battlefield.
 
 ## Beyond Sugar: The Other Real Causes of Cavities
 
@@ -93,7 +112,7 @@ Grazing on snacks throughout the day, sipping sweetened coffee for hours, or nur
 
 Because saliva is the primary tool for neutralizing acid and remineralizing enamel, anything that reduces saliva flow dramatically raises cavity risk. This is one of the clearest examples of a cause that has nothing to do with sugar.
 
-Dry mouth, known clinically as xerostomia, can be caused by hundreds of common medications, including antihistamines, antidepressants, blood pressure drugs, and diuretics. It can also result from certain medical conditions, radiation therapy to the head and neck, dehydration, and simply aging. People who breathe through their mouths, especially at night, also experience reduced protective saliva.
+[Dry mouth](/dry-mouth/), known clinically as xerostomia, can be caused by hundreds of common medications, including antihistamines, antidepressants, blood pressure drugs, and diuretics. It can also result from certain medical conditions, radiation therapy to the head and neck, dehydration, and simply aging. People who breathe through their mouths, especially at night, also experience reduced protective saliva.
 
 When saliva is scarce, the mouth loses its ability to recover between acid attacks. Patients who develop dry mouth later in life often experience a sudden surge in cavities even though their diet has not changed at all, which vividly demonstrates that saliva—not sugar—is frequently the deciding factor.
 
@@ -107,7 +126,7 @@ This is why sugar-free sodas are not a free pass for your teeth. They may not fe
 
 Some teeth are simply more prone to decay because of their shape and location. The chewing surfaces of molars have deep grooves and pits where bacteria and food particles collect and where toothbrush bristles struggle to reach. These sites are among the most common places for cavities to start.
 
-Crowded or overlapping teeth create tight spaces that trap plaque and resist cleaning. Exposed root surfaces, which happen when gums recede, are especially vulnerable because roots are covered by cementum rather than enamel and demineralize at a higher pH. This is why older adults with gum recession often develop root cavities even with lifelong good habits.
+Crowded or overlapping teeth create tight spaces that trap plaque and resist cleaning. Exposed root surfaces, which happen when [gums recede](/gum-health/), are especially vulnerable because roots are covered by cementum rather than enamel and demineralize at a higher pH. This is why older adults with gum recession often develop root cavities even with lifelong good habits.
 
 ### Fluoride exposure
 
@@ -165,7 +184,7 @@ You should schedule a dental visit if you notice any of the following:
 - **A persistent ache or pain** in a tooth, particularly when biting down or after eating.
 - **Rough edges, pits, or holes** you can feel with your tongue or notice when brushing.
 - **Food consistently getting trapped** in a specific spot, which may indicate a developing cavity.
-- **Bad breath or a bad taste** that does not resolve with brushing.
+- **[Bad breath](/bad-breath/) or a bad taste** that does not resolve with brushing.
 
 Certain symptoms warrant prompt attention rather than waiting for a routine visit. Severe or throbbing tooth pain, swelling in the face or gums, sensitivity to pressure, fever alongside dental pain, or a foul discharge can indicate that decay has reached the nerve or caused an infection. Dental infections can occasionally spread and become serious, so these are not symptoms to tough out at home.
 
