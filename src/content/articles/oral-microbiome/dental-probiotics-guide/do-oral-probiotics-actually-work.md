@@ -2,6 +2,7 @@
 title: "Do Oral Probiotics Actually Work? Here's What the Research Shows"
 category: "oral-microbiome"
 subcategory: "dental-probiotics-guide"
+image: "/images/articles/oral-microbiome/do-oral-probiotics-actually-work.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -43,10 +44,7 @@ That distinction matters when you're evaluating whether these products are worth
 This is where honesty matters more than marketing enthusiasm. The research on oral probiotics is real, but it's strain-specific, condition-specific, and still evolving. Lumping "oral probiotics" together as one category is misleading, because a strain studied for bad breath may have no evidence at all for gum disease.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Gráfico de barras horizontal comparando la "fuerza de evidencia clínica" en tres categorías (mal aliento, salud de encías, riesgo de caries), con mal aliento mostrando la barra más larga/fuerte y caries la más corta/preliminar.
-  </div>
-  <img src="" alt="Horizontal bar chart comparing the strength of clinical evidence for oral probiotics across bad breath, gum health, and cavity risk" loading="lazy" />
+  <img src="/images/editorial/oral-microbiome/do-oral-probiotics-actually-work-1.webp" alt="Horizontal bar chart comparing the strength of clinical evidence for oral probiotics across bad breath, gum health, and cavity risk" loading="lazy" />
   <figcaption>The evidence for oral probiotics is strongest for bad breath, moderate for gum health, and still emerging for cavity risk.</figcaption>
 </figure>
 
@@ -76,6 +74,10 @@ If your expectation is that oral probiotics will replace brushing, flossing, pro
 
 It's also worth being honest about product quality variance. Not all oral probiotic supplements use clinically studied strains at effective colony-forming unit (CFU) counts, and some rely on generic "probiotic blend" labeling without specifying species or clinical dosing. This is one of the biggest reasons people try a product, feel nothing, and conclude the whole category doesn't work — when in reality, the specific product may not have contained a strain or dose with any published evidence behind it in the first place. If you're comparing options, it helps to look specifically at [which formulations include clinically studied strains at effective doses](/oral-microbiome/best-oral-probiotics/) rather than choosing based on packaging or price alone.
 
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>Many of the strategies above work by supporting a healthier balance of oral bacteria in the first place — which is exactly what <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is formulated to do, one daily dose at a time.</p>
+</aside>
+
 ## How Long Do Oral Probiotics Take to Work?
 
 This is the question most people actually want answered before they commit to buying anything, and it deserves a straight answer rather than a vague "results vary."
@@ -85,10 +87,7 @@ This is the question most people actually want answered before they commit to bu
 Based on the duration windows used in most clinical trials, here's what a reasonable expectation looks like:
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Línea de tiempo horizontal con cuatro hitos etiquetados "Semanas 1-2: colonización", "Semanas 3-4: mejora en mal aliento", "Semanas 6-12: mejora en salud de encías" y "Más de 12 semanas: mantenimiento", con iconos simples en cada punto.
-  </div>
-  <img src="" alt="Horizontal timeline showing the realistic weeks-based progression of oral probiotic results, from colonization through bad breath and gum health improvements" loading="lazy" />
+  <img src="/images/editorial/oral-microbiome/do-oral-probiotics-actually-work-2.webp" alt="Horizontal timeline showing the realistic weeks-based progression of oral probiotic results, from colonization through bad breath and gum health improvements" loading="lazy" />
   <figcaption>Oral probiotics work gradually — most clinical trials measure results in weeks, not days.</figcaption>
 </figure>
 

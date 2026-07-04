@@ -2,6 +2,7 @@
 title: "Dry Mouth and Bad Breath: Why They Almost Always Come Together"
 category: "dry-mouth"
 subcategory: "xerostomia-causes"
+image: "/images/articles/dry-mouth/dry-mouth-and-bad-breath.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -51,10 +52,7 @@ To understand why a dry mouth smells the way it does, it helps to know a bit abo
 Most chronic bad breath originates from anaerobic, gram-negative bacteria that live primarily on the back of the tongue, in periodontal pockets, and between teeth. These bacteria feed on proteins from food debris, dead cells, and mucus, breaking them down through a process called putrefaction. The byproducts of this process are volatile sulfur compounds (VSCs) — mainly hydrogen sulfide and methyl mercaptan — which produce that distinct rotten-egg or sulfurous smell associated with bad breath.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Diagrama circular mostrando el ciclo: "menos saliva" → "menos oxígeno y amortiguación" → "bacterias anaerobias se multiplican" → "compuestos de azufre volátiles" → "mal aliento", cerrando el círculo.
-  </div>
-  <img src="" alt="Circular diagram showing the cycle from reduced saliva to lower oxygen and buffering, to anaerobic bacteria multiplying, to volatile sulfur compounds, to bad breath" loading="lazy" />
+  <img src="/images/editorial/dry-mouth/dry-mouth-and-bad-breath-1.webp" alt="Circular diagram showing the cycle from reduced saliva to lower oxygen and buffering, to anaerobic bacteria multiplying, to volatile sulfur compounds, to bad breath" loading="lazy" />
   <figcaption>Dry mouth and bad breath share one continuous bacterial mechanism, not two separate problems.</figcaption>
 </figure>
 
@@ -100,6 +98,10 @@ Sjögren's syndrome, diabetes, autoimmune disorders, and prior radiation therapy
 ### Age-Related Changes
 
 Salivary gland tissue can become less efficient with age, and older adults are also more likely to be on multiple medications simultaneously — a combination that makes dry mouth and its accompanying breath changes more common later in life.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>Alongside the habit changes above, some people find it helps to pair their routine with an oral probiotic like <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a>, formulated to support a saliva-friendly bacterial balance.</p>
+</aside>
 
 ## Why Treating Only the Smell Doesn't Work
 

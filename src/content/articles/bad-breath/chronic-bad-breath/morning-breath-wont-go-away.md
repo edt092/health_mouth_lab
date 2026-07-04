@@ -2,6 +2,7 @@
 title: "Morning Breath Won't Go Away? Here's Why (and When to Worry)"
 category: "bad-breath"
 subcategory: "chronic-bad-breath"
+image: "/images/articles/bad-breath/morning-breath-wont-go-away.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -37,10 +38,7 @@ Morning breath is caused primarily by a drop in saliva production while you slee
 During the day, saliva flow is fairly constant and often stimulated further by eating, drinking, and talking. At night, saliva production naturally slows down significantly as part of your body's normal sleep physiology. Less saliva means less rinsing action, less oxygen circulating in the mouth, and a warmer, more stagnant environment. That combination is exactly what a certain group of oral bacteria thrives on.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Gráfico de línea mostrando el flujo salival a lo largo de 24 horas, con un descenso pronunciado durante las horas de sueño y una recuperación rápida tras despertar, beber agua y cepillarse.
-  </div>
-  <img src="" alt="Line graph showing saliva flow over a 24-hour period, with a sharp overnight drop during sleep and a quick recovery after waking" loading="lazy" />
+  <img src="/images/editorial/bad-breath/morning-breath-wont-go-away-1.webp" alt="Line graph showing saliva flow over a 24-hour period, with a sharp overnight drop during sleep and a quick recovery after waking" loading="lazy" />
   <figcaption>Saliva flow drops sharply overnight — the main reason nearly everyone experiences some degree of morning breath.</figcaption>
 </figure>
 
@@ -59,10 +57,7 @@ If you sleep with your mouth open, whether from nasal congestion, allergies, a d
 The back of the tongue is often the biggest single contributor to morning breath. Its surface is covered in tiny papillae that create a rough, textured landscape, perfect for trapping food debris, dead skin cells, and bacteria. This coating becomes more concentrated overnight because saliva isn't there to rinse it away. Studies on halitosis consistently identify the tongue's dorsal surface, especially toward the back, as the single most bacteria-dense area involved in bad breath, more so than the teeth or gums in people with otherwise healthy mouths.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Fotografía o ilustración macro de la superficie de la lengua mostrando la textura papilar, con una zona resaltada en el tercio posterior indicando mayor acumulación bacteriana.
-  </div>
-  <img src="" alt="Macro illustration of the tongue's papillated surface, highlighting the back third where bacterial buildup concentrates most" loading="lazy" />
+  <img src="/images/editorial/bad-breath/morning-breath-wont-go-away-2.webp" alt="Macro illustration of the tongue's papillated surface, highlighting the back third where bacterial buildup concentrates most" loading="lazy" />
   <figcaption>The tongue's textured surface, especially at the back, is the single largest reservoir of odor-producing bacteria.</figcaption>
 </figure>
 
@@ -103,6 +98,10 @@ Chronic sinus infections, allergies, and postnasal drip send mucus down the back
 ### Underlying Digestive or Systemic Causes
 
 Less commonly, persistent bad breath can be linked to acid reflux (GERD), which allows stomach contents and associated odors to travel back up the esophagus, or to systemic conditions like uncontrolled diabetes, kidney disease, or liver dysfunction, each of which can alter breath odor through distinct metabolic pathways rather than an oral bacterial imbalance. These causes are far less common than oral and dental sources, but they are worth ruling out if a dentist has confirmed your mouth itself is healthy and the odor still won't resolve.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>For breath issues that keep coming back no matter how often you brush, <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is formulated to address the bacteria actually producing the odor, not just cover it up.</p>
+</aside>
 
 ## How to Tell the Difference: A Practical Comparison
 

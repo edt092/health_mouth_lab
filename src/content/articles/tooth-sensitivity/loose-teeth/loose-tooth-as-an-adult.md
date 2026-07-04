@@ -2,6 +2,7 @@
 title: "Loose Tooth as an Adult? Here's What It Could Mean"
 category: "tooth-sensitivity"
 subcategory: "loose-teeth"
+image: "/images/articles/tooth-sensitivity/loose-tooth-as-an-adult.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -33,10 +34,7 @@ This article walks through what actually makes an adult tooth loosen, how dentis
 ## Why Adult Teeth Are Not Supposed to Move
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Corte transversal de un diente mostrando el ligamento periodontal, el hueso alveolar y la encía, con etiquetas señalando cada estructura de soporte.
-  </div>
-  <img src="" alt="Cross-section diagram of a tooth showing the periodontal ligament, alveolar bone, and gum tissue that together anchor the tooth in its socket" loading="lazy" />
+  <img src="/images/editorial/tooth-sensitivity/loose-tooth-as-an-adult-1.webp" alt="Cross-section diagram of a tooth showing the periodontal ligament, alveolar bone, and gum tissue that together anchor the tooth in its socket" loading="lazy" />
   <figcaption>A tooth loosens when one or more of its support structures — ligament, bone, or gum — is compromised.</figcaption>
 </figure>
 
@@ -92,6 +90,10 @@ Other hormonal shifts—including those related to menopause or hormonal contrac
 Because tooth stability depends directly on the density and health of the alveolar bone, conditions that reduce bone density elsewhere in the body can also affect the jaw. Osteoporosis, more common in postmenopausal women, has been associated with lower jawbone density and, in some studies, a higher risk of tooth loss when combined with existing gum disease. It's rarely the sole cause of a loose tooth on its own, but it can act as an accelerant, especially in someone who also has plaque-related gum inflammation.
 
 Certain osteoporosis medications (bisphosphonates) also have their own set of dental considerations, which is one more reason it's worth telling your dentist about your full medical history if you're dealing with unexplained tooth mobility.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>While the causes above are mostly mechanical or structural, the oral microbiome still plays a supporting role, which is where an oral probiotic like <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> can fit into a broader routine.</p>
+</aside>
 
 ## Diabetes and Systemic Inflammation
 

@@ -55,10 +55,18 @@ const articleLinks = allArticles.map((a) => ({
 
     {bridge && <BridgeCard entry={bridge} />}
 
-    <section aria-label="Articles" class="mt-8 space-y-2">
+    <section aria-label="Articles" class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
       {allArticles.map((a) => (
-        <a href={`/${category}/${a.data.subcategory}/${a.id.split('/').pop()}/`} class="block hover:text-brand-primary">
-          {a.data.title}
+        <a href={`/${category}/${a.data.subcategory}/${a.id.split('/').pop()}/`} class="overflow-hidden rounded-lg border border-brand-text/10 hover:border-brand-primary">
+          <img
+            src={a.data.image}
+            alt={a.data.title}
+            width="600"
+            height="400"
+            loading="lazy"
+            class="aspect-[3/2] w-full object-cover"
+          />
+          <p class="p-4 text-sm font-medium">{a.data.title}</p>
         </a>
       ))}
     </section>

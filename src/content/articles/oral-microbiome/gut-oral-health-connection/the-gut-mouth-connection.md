@@ -2,6 +2,7 @@
 title: "The Gut-Mouth Connection: How Your Gut Health Affects Your Teeth and Gums"
 category: "oral-microbiome"
 subcategory: "gut-oral-health-connection"
+image: "/images/articles/oral-microbiome/the-gut-mouth-connection.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -47,10 +48,7 @@ The mouth is itself home to one of the most diverse microbial ecosystems in the 
 The most well-documented mechanism linking gut health and oral health is systemic, low-grade inflammation. A healthy gut lining acts as a selective barrier, allowing nutrients through while keeping bacterial byproducts (like lipopolysaccharides, or LPS) out of the bloodstream. When gut dysbiosis damages this barrier—a condition often referred to as increased intestinal permeability—LPS and other inflammatory molecules can leak into circulation.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Diagrama de bucle bidireccional mostrando la boca y el intestino conectados por dos flechas curvas: una etiquetada "bacterias orales tragadas viajan al intestino" y otra "inflamación e intestino permeable afectan las encías", formando un ciclo circular.
-  </div>
-  <img src="" alt="Bidirectional loop diagram showing swallowed oral bacteria traveling to the gut, and gut inflammation and permeability affecting gum tissue" loading="lazy" />
+  <img src="/images/editorial/oral-microbiome/the-gut-mouth-connection-1.webp" alt="Bidirectional loop diagram showing swallowed oral bacteria traveling to the gut, and gut inflammation and permeability affecting gum tissue" loading="lazy" />
   <figcaption>The oral-gut axis is a two-way feedback loop, not a one-directional effect.</figcaption>
 </figure>
 
@@ -69,10 +67,7 @@ Additionally, a significant portion of the body's immune tissue [FUENTE SUGERIDA
 Studies using genetic sequencing have found that oral bacteria are commonly detected in stool samples, particularly in people with periodontal disease or inflammatory bowel conditions like Crohn's disease and ulcerative colitis ([research on Porphyromonas gingivalis and the oral-gut axis in IBD](https://pmc.ncbi.nlm.nih.gov/articles/PMC10968003/)). Species like *Klebsiella* and *Porphyromonas gingivalis*, typically associated with the mouth, have been found colonizing the guts of IBD patients, where they appear to promote intestinal inflammation.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Ilustración del tracto digestivo completo (boca a intestino) con puntos resaltados mostrando dónde bacterias como Porphyromonas gingivalis viajan desde la boca hasta colonizar el intestino, con una leyenda breve explicando el mecanismo.
-  </div>
-  <img src="" alt="Illustration of the full digestive tract from mouth to gut, highlighting how oral bacteria like Porphyromonas gingivalis travel and colonize the intestines" loading="lazy" />
+  <img src="/images/editorial/oral-microbiome/the-gut-mouth-connection-2.webp" alt="Illustration of the full digestive tract from mouth to gut, highlighting how oral bacteria like Porphyromonas gingivalis travel and colonize the intestines" loading="lazy" />
   <figcaption>Genetic sequencing studies have found oral bacteria colonizing the gut, especially in people with periodontal or inflammatory bowel disease.</figcaption>
 </figure>
 
@@ -81,6 +76,10 @@ This suggests that when the oral microbiome is out of balance, it's not a self-c
 ### Blood Sugar Regulation
 
 Gut bacteria play a substantial role in how the body metabolizes carbohydrates and regulates blood sugar. Certain patterns of gut dysbiosis are associated with insulin resistance and poor glycemic control. This matters for oral health because elevated blood sugar creates a glucose-rich environment in saliva, which favors the growth of acid-producing, cavity-causing bacteria like *Streptococcus mutans*. Elevated blood sugar also impairs the function of neutrophils, the immune cells responsible for fighting off bacterial infections in the gums, which helps explain why people with poorly controlled diabetes face substantially higher rates of both gum disease and dental decay.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>Many of the strategies above work by supporting a healthier balance of oral bacteria in the first place — which is exactly what <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is formulated to do, one daily dose at a time.</p>
+</aside>
 
 ## Signs Your Gut Health Might Be Affecting Your Mouth
 

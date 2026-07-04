@@ -2,6 +2,7 @@
 title: "Can Probiotics Help Prevent Cavities? Here's What We Know"
 category: "plaque-and-cavities"
 subcategory: "can-probiotics-prevent-cavities"
+image: "/images/articles/plaque-and-cavities/can-probiotics-help-prevent-cavities.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -35,10 +36,7 @@ Cavities are not random bad luck or simply the result of "bad genes" or "too muc
 Your mouth is home to hundreds of species of bacteria, part of your [oral microbiome](/oral-microbiome/), living together in a thin, structured film called dental plaque. In a healthy mouth, this community is diverse and relatively balanced, with acid-producing species kept in check by neutral and alkaline-producing ones.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Diagrama de balanza mostrando "desmineralización" en un platillo y "remineralización" en el otro, con la saliva y el flúor inclinando la balanza hacia la reparación.
-  </div>
-  <img src="" alt="Balance scale diagram showing demineralization on one side and remineralization on the other, with saliva and fluoride tipping the balance toward repair" loading="lazy" />
+  <img src="/images/editorial/plaque-and-cavities/can-probiotics-help-prevent-cavities-1.webp" alt="Balance scale diagram showing demineralization on one side and remineralization on the other, with saliva and fluoride tipping the balance toward repair" loading="lazy" />
   <figcaption>Cavities form when demineralization consistently outpaces remineralization — probiotics are one of several factors that can influence this balance.</figcaption>
 </figure> Problems start when that balance shifts.
 
@@ -88,6 +86,10 @@ It's tempting to want a simple answer to whether probiotics prevent cavities, bu
 Think of it less like a single intervention and more like landscaping an ecosystem. Cavities happen when acid-producing bacteria dominate the terrain. Fluoride hardens the enamel itself so it resists acid attack better. Reducing sugar frequency limits the fuel these bacteria have to work with. Brushing and flossing physically remove the biofilm before it matures into a stable, aggressive colony. Probiotics, in this analogy, are like introducing competing plant species that might crowd out the weeds, they can help tilt the balance, but they don't replace the need to also manage sunlight, water, and soil.
 
 This is also why the strain matters so much, and why not all "probiotic" products marketed for oral health are equivalent. A probiotic strain studied specifically for its interaction with *S. mutans* and oral biofilm is a very different product than a general digestive-health probiotic that happens to be repackaged for oral use. If someone is exploring this option, it's worth reading into which specific strains a given product uses and what those strains have actually been studied for, which is one reason people researching this topic often end up comparing formulations through resources like this detailed [breakdown of how oral probiotics interact with cavity-causing bacteria](/plaque-and-cavities/best-probiotic-for-cavity-prevention/), where the strain-level evidence is explored in more depth.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>Brushing and flossing remove plaque mechanically — <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is formulated to work alongside that routine by supporting a less cavity-prone bacterial balance.</p>
+</aside>
 
 ## Who Might Benefit Most From Oral Probiotics
 

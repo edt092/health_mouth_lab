@@ -2,6 +2,7 @@
 title: "Dental Biofilm 101: What It Is and Why Brushing Alone Won't Remove It"
 category: "plaque-and-cavities"
 subcategory: "dental-biofilm"
+image: "/images/articles/plaque-and-cavities/dental-biofilm-101.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -43,10 +44,7 @@ In your mouth, this matrix is made largely of polysaccharides that certain bacte
 Biofilm formation on teeth follows a fairly predictable sequence ([research on oral biofilm development mechanisms](https://pmc.ncbi.nlm.nih.gov/articles/PMC7835112/)), and understanding the stages helps explain why timing matters so much for oral hygiene.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Línea de tiempo horizontal con 4 etapas ilustradas: "Minutos: se forma la película adquirida", "Horas: colonizadores tempranos se adhieren", "24-72h: co-agregación y diversificación", "3-5 días: maduración y cambio hacia especies dañinas".
-  </div>
-  <img src="" alt="Horizontal timeline illustrating the four stages of dental biofilm formation: pellicle formation in minutes, early colonizer attachment in hours, co-aggregation at 24-72 hours, and maturation at 3-5 days" loading="lazy" />
+  <img src="/images/editorial/plaque-and-cavities/dental-biofilm-101-1.webp" alt="Horizontal timeline illustrating the four stages of dental biofilm formation: pellicle formation in minutes, early colonizer attachment in hours, co-aggregation at 24-72 hours, and maturation at 3-5 days" loading="lazy" />
   <figcaption>Biofilm formation follows a predictable timeline — which is exactly why consistent, repeated disruption matters more than one thorough cleaning.</figcaption>
 </figure>
 
@@ -97,6 +95,10 @@ Beneficial and neutral bacteria in a well-balanced biofilm compete with harmful 
 Problems arise not simply because bacteria are present, but because the balance of the ecosystem shifts. Frequent sugar and refined carbohydrate intake feeds acid-producing bacteria disproportionately, letting them outcompete more neutral species. Dry mouth reduces saliva's buffering and antimicrobial effects, letting biofilm mature undisturbed. Smoking, certain medications, and chronic inflammation can all tip the balance further toward disease-associated species. Dentists and researchers increasingly describe this shift using the "ecological plaque hypothesis" — the idea that dental disease results less from the mere presence of bacteria and more from a disruptive shift in the community's composition, a concept known as dysbiosis.
 
 This is a meaningfully different way of thinking about oral care than "kill all the germs." The goal isn't a bacteria-free mouth — that's neither achievable nor desirable. The goal is a stable, balanced microbial ecosystem where protective species have the upper hand.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>Brushing and flossing remove plaque mechanically — <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is formulated to work alongside that routine by supporting a less cavity-prone bacterial balance.</p>
+</aside>
 
 ## The Connection to Gum Disease and Cavities
 

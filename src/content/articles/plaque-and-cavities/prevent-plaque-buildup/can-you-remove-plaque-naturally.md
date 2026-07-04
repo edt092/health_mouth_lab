@@ -2,6 +2,7 @@
 title: "Can You Remove Plaque Naturally? What Works and What Doesn't"
 category: "plaque-and-cavities"
 subcategory: "prevent-plaque-buildup"
+image: "/images/articles/plaque-and-cavities/can-you-remove-plaque-naturally.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -35,10 +36,7 @@ This article separates the home remedies with little or no real evidence behind 
 Plaque is a biofilm — a thin, sticky layer of bacteria, saliva proteins, and food particles that forms continuously on your teeth. It's not a random film; it's a structured community of microorganisms that attach to the tooth surface, multiply, and build a protective matrix around themselves. Within hours of brushing, bacteria already begin recolonizing your teeth. That's not a sign you're doing something wrong — it's simply how the [oral microbiome](/oral-microbiome/) works.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Cuadrícula visual con iconos de remedios caseros comunes (aceite de coco, bicarbonato, carbón activado, vinagre, cúrcuma) con un semáforo de color (verde/amarillo/rojo) indicando el nivel de evidencia científica de cada uno.
-  </div>
-  <img src="" alt="Grid of common home remedies for plaque (oil, baking soda, charcoal, vinegar, turmeric) with a color-coded indicator showing the level of scientific evidence for each" loading="lazy" />
+  <img src="/images/editorial/plaque-and-cavities/can-you-remove-plaque-naturally-1.webp" alt="Grid of common home remedies for plaque (oil, baking soda, charcoal, vinegar, turmeric) with a color-coded indicator showing the level of scientific evidence for each" loading="lazy" />
   <figcaption>Not all "natural" plaque remedies are created equal — some have real evidence, others carry real risk.</figcaption>
 </figure>
 
@@ -95,6 +93,10 @@ The tongue's surface harbors a significant reservoir of bacteria, including spec
 ### Professional Cleanings
 
 Once plaque mineralizes into tartar, no home remedy — natural or otherwise — can remove it. Tartar has to be scaled off by a dental professional using specialized instruments. This is why twice-yearly cleanings aren't just a formality; they remove the calculus deposits that home care physically cannot touch, particularly along the gumline and behind lower front teeth, where tartar tends to accumulate fastest.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>Brushing and flossing remove plaque mechanically — <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is formulated to work alongside that routine by supporting a less cavity-prone bacterial balance.</p>
+</aside>
 
 ## Diet: The Overlooked "Natural" Lever
 

@@ -100,28 +100,15 @@ article .prose li {
   margin-bottom: 1rem;
 }
 
-/* Placeholders de imagen (REDISEÑO_POST.md §3) — visibles a propósito en el
-   entorno de edición para que el equipo sepa qué falta reemplazar por la
-   imagen real. El <img> vacío no rompe layout porque el box ya reserva espacio. */
+/* Imágenes editoriales in-article (REDISEÑO_POST.md §3). */
 .image-placeholder {
   margin: 2rem 0;
 }
-.image-placeholder .placeholder-box {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 220px;
-  padding: 1.5rem;
-  border: 2px dashed #0b6e4f;
-  border-radius: 0.5rem;
-  background: #eef6f2;
-  color: #0b6e4f;
-  font-weight: 600;
-  font-size: 15px;
-  text-align: center;
-}
 .image-placeholder img {
-  display: none;
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
 }
 .image-placeholder figcaption {
   margin-top: 0.5rem;

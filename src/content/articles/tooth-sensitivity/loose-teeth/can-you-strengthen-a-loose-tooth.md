@@ -2,6 +2,7 @@
 title: "Can You Strengthen a Loose Tooth? What Actually Helps"
 category: "tooth-sensitivity"
 subcategory: "loose-teeth"
+image: "/images/articles/tooth-sensitivity/can-you-strengthen-a-loose-tooth.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -51,10 +52,7 @@ Understanding which of these applies to your situation matters enormously, becau
 ## The Role of Gum Health and Oral Bacteria
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Ilustración de un diente con movilidad leve rodeado de encía inflamada, con flechas mostrando el proceso de "splinting" (unión a dientes vecinos con un alambre delgado) como método de estabilización.
-  </div>
-  <img src="" alt="Illustration of a slightly mobile tooth surrounded by inflamed gum tissue, with arrows showing the splinting process of bonding it to neighboring teeth with a thin wire" loading="lazy" />
+  <img src="/images/editorial/tooth-sensitivity/can-you-strengthen-a-loose-tooth-1.webp" alt="Illustration of a slightly mobile tooth surrounded by inflamed gum tissue, with arrows showing the splinting process of bonding it to neighboring teeth with a thin wire" loading="lazy" />
   <figcaption>Splinting stabilizes a loose tooth by redistributing chewing force to its neighbors while the ligament and bone recover.</figcaption>
 </figure>
 
@@ -108,6 +106,10 @@ When a tooth is loose but the surrounding bone loss isn't severe, a dentist may 
 ### 7. Manage Underlying Medical Conditions
 
 If a loose tooth is connected to something systemic, such as osteoporosis, uncontrolled diabetes, or a hormonal condition, treating that underlying condition is part of the picture. Diabetes in particular has a well-documented bidirectional relationship with gum disease: elevated blood sugar impairs the immune response to oral bacteria and slows healing, while gum inflammation can make blood sugar harder to control. Working with both a physician and a dentist matters in these cases.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>While the causes above are mostly mechanical or structural, the oral microbiome still plays a supporting role, which is where an oral probiotic like <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> can fit into a broader routine.</p>
+</aside>
 
 ## What Doesn't Work (and Might Delay Real Treatment)
 

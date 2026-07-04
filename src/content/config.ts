@@ -31,6 +31,7 @@ const articles = defineCollection({
     title: z.string(),
     category: CATEGORY,
     subcategory: z.string(),
+    image: z.string(),
     publishDate: z.date(),
     updatedDate: z.date().optional(),
     author: z.string(),

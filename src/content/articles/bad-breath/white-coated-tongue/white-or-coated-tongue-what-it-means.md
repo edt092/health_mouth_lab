@@ -2,6 +2,7 @@
 title: "White or Coated Tongue: What It Means and How to Fix It"
 category: "bad-breath"
 subcategory: "white-coated-tongue"
+image: "/images/articles/bad-breath/white-or-coated-tongue-what-it-means.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -37,10 +38,7 @@ The surface of your tongue is not smooth like the inside of your cheek. It's cov
 This is, in essence, a biofilm — a structured community of bacteria (and sometimes yeast) living in a self-produced protective matrix, similar in concept to dental plaque but sitting on the tongue's papillae instead of your teeth. The color comes from a combination of trapped debris, keratin buildup on elongated papillae, and the sheer density of microorganisms reflecting light differently than healthy pink tissue.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Vista macro de las papilas linguales mostrando una biopelícula acumulada entre ellas, con una leyenda comparando papilas limpias (rosadas) versus papilas con acumulación (blanquecinas/amarillentas).
-  </div>
-  <img src="" alt="Macro view of tongue papillae showing biofilm buildup trapped between them, comparing clean pink papillae to coated whitish ones" loading="lazy" />
+  <img src="/images/editorial/bad-breath/white-or-coated-tongue-what-it-means-1.webp" alt="Macro view of tongue papillae showing biofilm buildup trapped between them, comparing clean pink papillae to coated whitish ones" loading="lazy" />
   <figcaption>The white coating is a biofilm trapped between the tongue's papillae, not a sign of poor internal health.</figcaption>
 </figure>
 
@@ -98,6 +96,10 @@ Because the same bacteria responsible for the visible white film also metabolize
 
 This is why so many people who address their tongue coating notice their breath improves as a direct result, and vice versa: people focused on fixing bad breath often discover that the tongue, not the teeth or gums, was the primary source all along. The relationship works both ways because they share the same root cause, an imbalance between odor-neutral and odor-producing bacterial populations in the mouth's microbiome. For a deeper look at how oral bacteria balance affects breath specifically, this guide on [choosing an effective oral probiotic for bad breath](/bad-breath/best-probiotic-for-bad-breath/) walks through how targeted bacterial strains can help rebalance that ecosystem rather than just masking odor temporarily.
 
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>For breath issues that keep coming back no matter how often you brush, <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is formulated to address the bacteria actually producing the odor, not just cover it up.</p>
+</aside>
+
 ## How to Fix a White or Coated Tongue
 
 The good news is that most cases respond well to a combination of mechanical cleaning, hydration, and consistent oral hygiene habits. Here's what actually makes a measurable difference.
@@ -114,10 +116,7 @@ Brushing your teeth alone does very little for the tongue's surface. You need a 
 If scraping feels too intense at first, a soft-bristled toothbrush used gently on the tongue is a reasonable starting point, though most people find a proper scraper more effective and more comfortable once they get used to the sensation.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Fotografía o ilustración antes/después de una lengua limpiada con raspador, mostrando la capa blanquecina en un lado y la superficie rosada limpia en el otro.
-  </div>
-  <img src="" alt="Before-and-after illustration of a tongue showing the white coating on one half and the clean pink surface after scraping on the other" loading="lazy" />
+  <img src="/images/editorial/bad-breath/white-or-coated-tongue-what-it-means-2.webp" alt="Before-and-after illustration of a tongue showing the white coating on one half and the clean pink surface after scraping on the other" loading="lazy" />
   <figcaption>Consistent daily scraping, not just brushing, is what actually lifts the biofilm off the tongue's surface.</figcaption>
 </figure>
 

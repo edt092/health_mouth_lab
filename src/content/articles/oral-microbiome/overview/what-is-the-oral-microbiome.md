@@ -2,6 +2,7 @@
 title: "What Is the Oral Microbiome (And Why It Controls Almost Everything in Your Mouth)"
 category: "oral-microbiome"
 subcategory: "overview"
+image: "/images/articles/oral-microbiome/what-is-the-oral-microbiome.webp"
 publishDate: 2026-07-02
 updatedDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
@@ -50,10 +51,7 @@ Each of these microhabitats supports its own preferred mix of species. Some bact
 The bacteria in your mouth rarely float around as loose individuals. Instead, they organize themselves into structured communities called biofilms. The dental plaque you can feel with your tongue when you have not brushed is the most familiar example of a biofilm. Far from being a random smear of gunk, plaque is a sophisticated, layered structure where different species live in specific arrangements, share nutrients, and even communicate with one another through chemical signals.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Diagrama en corte transversal de un biofilm dental (placa) sobre el esmalte, mostrando capas de distintas especies bacterianas incrustadas en una matriz protectora, con flechas señalando "matriz protectora", "bacterias productoras de ácido" y "superficie del esmalte".
-  </div>
-  <img src="" alt="Cross-section diagram of a dental biofilm showing layered bacterial species embedded in a protective matrix on tooth enamel" loading="lazy" />
+  <img src="/images/editorial/oral-microbiome/what-is-the-oral-microbiome-1.webp" alt="Cross-section diagram of a dental biofilm showing layered bacterial species embedded in a protective matrix on tooth enamel" loading="lazy" />
   <figcaption>Dental plaque is a structured biofilm, not a random layer of bacteria.</figcaption>
 </figure>
 
@@ -72,10 +70,7 @@ One of the most valuable functions of a healthy microbiome is something scientis
 The acidity level in your mouth is one of the most important factors in whether your teeth stay strong or begin to break down. Certain beneficial bacteria help buffer acids and keep the environment closer to neutral. Some species even produce compounds that actively neutralize acid or generate substances that help remineralize tooth enamel. When the balance tips toward acid-loving, acid-producing bacteria, the pH in your mouth can drop low enough to start dissolving the mineral structure of your teeth. A stable microbiome helps prevent those dangerous acidic swings.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Ilustración tipo escala de pH mostrando el cambio de un ambiente bucal neutro (pH 7, favorable a bacterias beneficiosas) a uno ácido (pH por debajo de 5.5, favorable a bacterias productoras de caries), con iconos de alimentos azucarados desencadenando el cambio.
-  </div>
-  <img src="" alt="pH scale illustration showing the mouth shifting from a neutral, healthy state to an acidic, decay-favoring state after sugar consumption" loading="lazy" />
+  <img src="/images/editorial/oral-microbiome/what-is-the-oral-microbiome-2.webp" alt="pH scale illustration showing the mouth shifting from a neutral, healthy state to an acidic, decay-favoring state after sugar consumption" loading="lazy" />
   <figcaption>A shift from neutral to acidic pH is what allows decay-causing bacteria to gain the upper hand.</figcaption>
 </figure>
 
@@ -92,10 +87,7 @@ Some oral bacteria produce nitric oxide precursors that your body uses to help r
 The scientific term for a disrupted microbial community is dysbiosis. It describes a state where the balance has shifted, harmful species have grown too numerous, beneficial species have declined, or the overall diversity has collapsed. Dysbiosis is the common thread that runs through almost every oral health complaint. Once you understand it, the connections between seemingly unrelated symptoms start to make sense.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Gráfico comparativo de dos círculos o "burbujas" de composición bacteriana: uno etiquetado "Eubiosis" (diverso, con muchas especies beneficiosas en verde) y otro etiquetado "Disbiosis" (dominado por pocas especies dañinas en rojo, menor diversidad).
-  </div>
-  <img src="" alt="Side-by-side comparison diagram of a diverse, balanced eubiotic bacterial community versus a dysbiotic community dominated by harmful species" loading="lazy" />
+  <img src="/images/editorial/oral-microbiome/what-is-the-oral-microbiome-3.webp" alt="Side-by-side comparison diagram of a diverse, balanced eubiotic bacterial community versus a dysbiotic community dominated by harmful species" loading="lazy" />
   <figcaption>Eubiosis versus dysbiosis: the same mouth, two very different bacterial communities.</figcaption>
 </figure>
 
@@ -106,6 +98,10 @@ The key insight is that most oral diseases are not caused by a single invading g
 Many everyday factors can tip your oral microbiome toward dysbiosis. A diet high in sugar and refined carbohydrates feeds the acid-producing bacteria that thrive on those foods, giving them a competitive edge. Dry mouth, whether from medications, dehydration, or breathing through your mouth, reduces the protective flow of saliva and lets harmful species flourish. Smoking dramatically alters the community and starves beneficial oxygen-loving bacteria. Even the overuse of harsh antibacterial mouthwashes can backfire by wiping out helpful species along with harmful ones, leaving a disrupted community that may recover in an unhealthy configuration.
 
 Stress, poor sleep, hormonal changes, and certain medical conditions can all influence the balance as well. This is why oral health is never fully separate from overall health. Your mouth microbiome responds to the same lifestyle factors that affect the rest of your body.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>Many of the strategies above work by supporting a healthier balance of oral bacteria in the first place — which is exactly what <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is formulated to do, one daily dose at a time.</p>
+</aside>
 
 ## The Six Connections: How the Microbiome Controls Almost Everything
 
@@ -138,10 +134,7 @@ Sensitivity to hot, cold, or sweet foods is often the visible tip of deeper micr
 Saliva is one of the most underappreciated guardians of your oral microbiome. It washes away food particles, buffers acids, delivers minerals to your teeth, and contains antimicrobial compounds. When saliva flow drops, whether from medication, aging, or certain conditions, the whole ecosystem suffers. The protective effects fade, acid lingers longer, and harmful species gain an advantage. Dry mouth and dysbiosis feed into each other, which is why people with chronic dry mouth often face a cascade of other problems, from decay to bad breath. Understanding this connection helps explain why simply drinking more water and stimulating saliva can have such broad benefits. See our in-depth guide on [dry mouth causes and treatment](/dry-mouth/).
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Esquema ilustrado del rol de la saliva alrededor de un diente, con etiquetas mostrando sus cuatro funciones: "arrastra partículas de comida", "amortigua el ácido", "aporta minerales (calcio y fosfato)" y "contiene compuestos antimicrobianos".
-  </div>
-  <img src="" alt="Illustrated diagram of a tooth surrounded by saliva, labeling its four protective roles: washing away food particles, buffering acid, delivering minerals, and providing antimicrobial defense" loading="lazy" />
+  <img src="/images/editorial/oral-microbiome/what-is-the-oral-microbiome-4.webp" alt="Illustrated diagram of a tooth surrounded by saliva, labeling its four protective roles: washing away food particles, buffering acid, delivering minerals, and providing antimicrobial defense" loading="lazy" />
   <figcaption>Saliva is one of the oral microbiome's most important, and most overlooked, regulators.</figcaption>
 </figure>
 

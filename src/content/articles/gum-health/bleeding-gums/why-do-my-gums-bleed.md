@@ -2,6 +2,7 @@
 title: "Why Do My Gums Bleed When I Brush?"
 category: "gum-health"
 subcategory: "bleeding-gums"
+image: "/images/articles/gum-health/why-do-my-gums-bleed.webp"
 publishDate: 2026-01-15
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -31,10 +32,7 @@ Bleeding gums when you brush are your body's earliest warning sign — not a sig
 The most frequent cause is plaque buildup along the gumline, which triggers an inflammatory response. But recurring bleeding, especially when your brushing habits haven't changed, often points to a deeper imbalance in your [oral microbiome](/oral-microbiome/) rather than a mechanical problem.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Ilustración simple de un cepillo de dientes junto a una encía sana (rosada) y una encía inflamada (roja, sangrando), con una flecha señalando la línea de la encía como zona de acumulación de placa.
-  </div>
-  <img src="" alt="Simple illustration comparing healthy pink gum tissue to inflamed, bleeding gum tissue along the gumline" loading="lazy" />
+  <img src="/images/editorial/gum-health/why-do-my-gums-bleed-1.webp" alt="Simple illustration comparing healthy pink gum tissue to inflamed, bleeding gum tissue along the gumline" loading="lazy" />
   <figcaption>Bleeding gums signal inflammation from bacterial buildup, not a brushing mistake.</figcaption>
 </figure>
 

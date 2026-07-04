@@ -2,6 +2,7 @@
 title: "How to Fix Dry Mouth: What Actually Helps Long-Term"
 category: "dry-mouth"
 subcategory: "dry-mouth-at-night"
+image: "/images/articles/dry-mouth/how-to-fix-dry-mouth.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -73,15 +74,16 @@ Long-term improvement generally comes down to a few overlapping strategies:
 
 **5. Supporting the oral microbiome directly.** This is the piece most dry mouth advice skips entirely, and it matters more than people expect. Because saliva's antibacterial and buffering functions are compromised in dry mouth, the bacterial communities in your mouth shift toward species that produce more acid and more odor compounds. Addressing this shift directly, rather than only trying to increase saliva volume, is where a lot of long-term relief actually comes from. For a deeper breakdown of specific product categories and how they compare, this guide on the [most effective long-term treatments for dry mouth](/dry-mouth/best-treatment-for-dry-mouth/) walks through options in more detail.
 
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>Alongside the habit changes above, some people find it helps to pair their routine with an oral probiotic like <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a>, formulated to support a saliva-friendly bacterial balance.</p>
+</aside>
+
 ## The Oral Microbiome Connection Most People Miss
 
 It is worth slowing down on this point because it explains why some people do everything "right" for dry mouth, drinking more water, using lozenges, avoiding alcohol-based mouthwash, and still deal with recurring [bad breath](/bad-breath/) or a string of new [cavities](/plaque-and-cavities/).
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Tabla comparativa de dos columnas: "Alivio rápido" (agua, chicle, sustitutos de saliva) versus "Solución de raíz" (revisar medicación, tratar respiración bucal, apoyar el microbioma oral), con iconos de reloj vs. ancla.
-  </div>
-  <img src="" alt="Two-column comparison table contrasting quick relief methods for dry mouth against root-cause solutions" loading="lazy" />
+  <img src="/images/editorial/dry-mouth/how-to-fix-dry-mouth-1.webp" alt="Two-column comparison table contrasting quick relief methods for dry mouth against root-cause solutions" loading="lazy" />
   <figcaption>Quick relief and a real fix are different things — most people need both, but only one actually resolves the problem.</figcaption>
 </figure>
 

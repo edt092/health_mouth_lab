@@ -2,6 +2,7 @@
 title: "Halitosis Explained: The Real Root Causes of Chronic Bad Breath"
 category: "bad-breath"
 subcategory: "halitosis-causes"
+image: "/images/articles/bad-breath/halitosis-explained-root-causes.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -41,10 +42,7 @@ The distinction matters because the two categories have different implications. 
 Nearly all bad breath odor comes from a specific group of compounds called volatile sulfur compounds, or VSCs. The three most important are hydrogen sulfide (which smells like rotten eggs), methyl mercaptan (which smells like decaying cabbage or feces), and dimethyl sulfide (a sweeter, more sickly odor). These gases are byproducts of bacteria breaking down proteins.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Diagrama con tres iconos moleculares simples representando los tres compuestos volátiles de azufre (sulfuro de hidrógeno, metil mercaptano, dimetil sulfuro), cada uno con su nombre y una breve descripción del olor asociado.
-  </div>
-  <img src="" alt="Diagram of the three volatile sulfur compounds behind bad breath: hydrogen sulfide, methyl mercaptan, and dimethyl sulfide, each labeled with its characteristic odor" loading="lazy" />
+  <img src="/images/editorial/bad-breath/halitosis-explained-root-causes-1.webp" alt="Diagram of the three volatile sulfur compounds behind bad breath: hydrogen sulfide, methyl mercaptan, and dimethyl sulfide, each labeled with its characteristic odor" loading="lazy" />
   <figcaption>Bad breath odor comes down to three main volatile sulfur compounds produced by bacteria.</figcaption>
 </figure>
 
@@ -108,6 +106,10 @@ While the vast majority of halitosis originates in the mouth, roughly ten percen
 
 Less commonly, bad breath can reflect conditions further afield. Acid reflux and GERD can bring odor up from the digestive tract. Poorly controlled diabetes can produce a fruity odor from ketones. Advanced liver or kidney disease can create characteristic breath odors as waste products accumulate in the body. These systemic causes are relatively rare, but they are important because breath odor can occasionally be an early warning sign of a condition that needs medical attention.
 
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>For breath issues that keep coming back no matter how often you brush, <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is formulated to address the bacteria actually producing the odor, not just cover it up.</p>
+</aside>
+
 ## Why Mints, Mouthwash, and Gum Fail Long Term
 
 If you have relied on breath products for years without real improvement, it is not because you are doing something wrong. It is because most of these products address the symptom rather than the cause, and some may even make matters worse.
@@ -161,10 +163,7 @@ Does the odor persist despite excellent oral hygiene and a healthy mouth, or is 
 ### The scientific self-test
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Ilustración paso a paso (3 viñetas) del autotest de la muñeca: 1) lamer la muñeca, 2) esperar unos segundos a que seque, 3) oler la zona, con iconos simples y numerados.
-  </div>
-  <img src="" alt="Three-step illustrated guide to the wrist-lick self-test for detecting bad breath at home" loading="lazy" />
+  <img src="/images/editorial/bad-breath/halitosis-explained-root-causes-2.webp" alt="Three-step illustrated guide to the wrist-lick self-test for detecting bad breath at home" loading="lazy" />
   <figcaption>A simple at-home test: lick your wrist, let it dry, then smell it — a rough proxy for how your breath actually smells to others.</figcaption>
 </figure>
 

@@ -2,6 +2,7 @@
 title: "5 Signs Your Oral Microbiome Is Out of Balance"
 category: "oral-microbiome"
 subcategory: "oral-flora-balance"
+image: "/images/articles/oral-microbiome/signs-your-oral-microbiome-is-out-of-balance.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -50,10 +51,7 @@ A healthy subgingival microbiome is dominated by aerobic and facultative bacteri
 If you notice these signs, it doesn't necessarily mean you have advanced gum disease. Gingivitis is common and, importantly, reversible with improved hygiene and professional cleanings. But it is a direct signal that your oral bacterial community needs attention. For a deeper look at causes and treatment options, see our full guide to [gum health and gum disease](/gum-health/).
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Ilustración de un corte transversal del surco gingival (sulcus) mostrando encía sana en verde a un lado y encía inflamada/enrojecida con bacterias anaerobias acumulándose al otro lado, con etiqueta "Porphyromonas gingivalis y Fusobacterium nucleatum".
-  </div>
-  <img src="" alt="Cross-section illustration comparing a healthy gum sulcus to an inflamed one with anaerobic bacteria buildup" loading="lazy" />
+  <img src="/images/editorial/oral-microbiome/signs-your-oral-microbiome-is-out-of-balance-1.webp" alt="Cross-section illustration comparing a healthy gum sulcus to an inflamed one with anaerobic bacteria buildup" loading="lazy" />
   <figcaption>Gum bleeding often starts with an anaerobic bacterial shift in the sulcus, the space between tooth and gum.</figcaption>
 </figure>
 
@@ -98,6 +96,10 @@ Hundreds of medications, including common antihistamines, antidepressants, blood
 
 If dry mouth is chronic and unrelated to an obvious cause like a cold or dehydration, it's worth mentioning to both your dentist and physician, since it may relate to medication, an underlying condition, or reduced salivary gland function. Read our full breakdown of [dry mouth causes and treatment](/dry-mouth/) for more.
 
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>Many of the strategies above work by supporting a healthier balance of oral bacteria in the first place — which is exactly what <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is formulated to do, one daily dose at a time.</p>
+</aside>
+
 ## 4. New or Recurring Cavities Despite Good Oral Hygiene
 
 One of the more confusing signs of oral microbiome imbalance is developing a cavity, or several, despite brushing twice daily, flossing, and generally taking care of your teeth. This scenario is common enough that dentists have a name for the underlying dynamic: it's rarely about effort and almost always about the composition of the oral bacterial community and the frequency of acid exposure.
@@ -138,10 +140,7 @@ Because taste changes and oral burning sensations can also stem from nutritional
 ## Understanding the Bigger Picture: Why These Signs Cluster Together
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Diagrama tipo "rueda" con el microbioma oral en el centro y cinco radios etiquetados con cada señal (encías, aliento, boca seca, caries, sensibilidad del gusto), mostrando flechas bidireccionales entre ellos para representar la interconexión.
-  </div>
-  <img src="" alt="Hub-and-spoke diagram showing the oral microbiome at the center connecting to five interrelated warning signs: gum changes, bad breath, dry mouth, cavities, and taste changes" loading="lazy" />
+  <img src="/images/editorial/oral-microbiome/signs-your-oral-microbiome-is-out-of-balance-2.webp" alt="Hub-and-spoke diagram showing the oral microbiome at the center connecting to five interrelated warning signs: gum changes, bad breath, dry mouth, cavities, and taste changes" loading="lazy" />
   <figcaption>These five signs rarely occur in isolation — they're connected expressions of the same underlying imbalance.</figcaption>
 </figure>
 

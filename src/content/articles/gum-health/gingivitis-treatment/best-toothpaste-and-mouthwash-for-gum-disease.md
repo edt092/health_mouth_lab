@@ -2,6 +2,7 @@
 title: "Best Toothpaste and Mouthwash for Gum Disease: What Actually Works (and What Is Just Marketing)"
 category: "gum-health"
 subcategory: "gingivitis-treatment"
+image: "/images/articles/gum-health/best-toothpaste-and-mouthwash-for-gum-disease.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -45,10 +46,7 @@ This matters for product selection because it means the most effective toothpast
 Ordinary sodium fluoride is excellent for cavity prevention, but it does very little for gum inflammation. Stannous fluoride is different. It has documented antibacterial and anti-inflammatory properties in addition to its cavity-fighting function, and several clinical trials have shown that stannous fluoride toothpastes reduce gingival bleeding and plaque more effectively than standard fluoride formulas ([randomized clinical trial comparing stannous fluoride to sodium fluoride toothpaste](https://pmc.ncbi.nlm.nih.gov/articles/PMC8436562/), showing benefits measurable within two to three weeks).
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Gráfico de barras comparando la reducción del índice gingival entre pasta dental con flúor estañoso versus flúor de sodio estándar tras 2-3 semanas de uso.
-  </div>
-  <img src="" alt="Bar chart comparing gingival index reduction between stannous fluoride and standard sodium fluoride toothpaste after 2-3 weeks of use" loading="lazy" />
+  <img src="/images/editorial/gum-health/best-toothpaste-and-mouthwash-for-gum-disease-1.webp" alt="Bar chart comparing gingival index reduction between stannous fluoride and standard sodium fluoride toothpaste after 2-3 weeks of use" loading="lazy" />
   <figcaption>Stannous fluoride toothpastes show measurably greater gingivitis reduction than standard fluoride formulas.</figcaption>
 </figure> If you are specifically shopping for a toothpaste because of bleeding or inflamed gums, stannous fluoride is one of the few ingredients with a genuinely strong evidence base behind the "best toothpaste for gum disease" search.
 
@@ -89,6 +87,10 @@ As mentioned above, thymol and eucalyptol-based rinses (the category popularized
 ### Alcohol-Free vs. Alcohol-Based Formulas
 
 This is where marketing and evidence genuinely intersect. Alcohol in mouthwash was traditionally used as a carrier and preservative, but it can be drying to oral tissue and, for people with already inflamed or sensitive gums, can increase discomfort. Alcohol-free versions of the same active ingredients (CPC, essential oils) tend to perform comparably in plaque and gingivitis reduction while being gentler on tissue, which is why most dentists now recommend alcohol-free formulas for anyone dealing with active gum irritation.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>If bleeding, swelling or receding gums are part of what brought you here, an oral probiotic like <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is designed to target the bacterial imbalance behind those symptoms, not just mask them.</p>
+</aside>
 
 ## What's Mostly Marketing
 

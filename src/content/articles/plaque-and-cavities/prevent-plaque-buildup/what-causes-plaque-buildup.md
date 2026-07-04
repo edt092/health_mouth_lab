@@ -2,6 +2,7 @@
 title: "What Causes Plaque Buildup (And Why It Keeps Coming Back)"
 category: "plaque-and-cavities"
 subcategory: "prevent-plaque-buildup"
+image: "/images/articles/plaque-and-cavities/what-causes-plaque-buildup.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -33,10 +34,7 @@ You brush your teeth, feel that smooth, clean surface with your tongue, and by t
 Plaque is a biofilm — a thin, sticky layer made up of bacteria, saliva proteins, and food particles that adheres to the surfaces of your teeth. It's not simply "dirt" sitting on the enamel. It's closer to a miniature ecosystem, similar in concept to the slimy film you might find on a rock in a slow-moving stream. Within hours of brushing, bacteria that are naturally present in your mouth begin attaching to a thin protein layer (called the pellicle) that forms on clean tooth enamel almost immediately after exposure to saliva.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Secuencia de 3 imágenes mostrando la formación de placa: diente limpio, diente con una fina película invisible tras minutos, y diente con placa visible tras varias horas.
-  </div>
-  <img src="" alt="Three-image sequence showing plaque formation: a clean tooth, a tooth with an invisible thin film after minutes, and a tooth with visible plaque after several hours" loading="lazy" />
+  <img src="/images/editorial/plaque-and-cavities/what-causes-plaque-buildup-1.webp" alt="Three-image sequence showing plaque formation: a clean tooth, a tooth with an invisible thin film after minutes, and a tooth with visible plaque after several hours" loading="lazy" />
   <figcaption>Plaque begins reforming within minutes of brushing — it's a continuous process, not a one-time buildup.</figcaption>
 </figure>
 
@@ -93,6 +91,10 @@ Every time you eat, you're feeding the bacteria in your mouth, not just yourself
 This is arguably the most important — and least discussed — reason plaque keeps returning. Brushing and flossing are mechanical actions: they physically disrupt and remove plaque, but they don't necessarily change the underlying composition of your oral microbiome. If your mouth's bacterial ecosystem naturally skews toward higher levels of *S. mutans* or other acid-producing, plaque-forming species, you're essentially resetting the battlefield every night, only to have the same imbalanced population regroup and rebuild throughout the following day.
 
 Think of it like mowing a lawn full of weeds. Mowing keeps the weeds short and out of sight temporarily, but it doesn't address the root system underneath. Similarly, brushing away plaque without addressing the bacterial imbalance that produces it means you're managing the symptom, not the underlying cause.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>Brushing and flossing remove plaque mechanically — <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is formulated to work alongside that routine by supporting a less cavity-prone bacterial balance.</p>
+</aside>
 
 ## The Role of Bacterial Imbalance in Chronic Plaque Buildup
 

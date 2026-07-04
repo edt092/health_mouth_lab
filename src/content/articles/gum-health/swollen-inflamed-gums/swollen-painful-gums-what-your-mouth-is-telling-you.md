@@ -2,6 +2,7 @@
 title: "Swollen, Painful Gums? Here's What Your Mouth Is Trying to Tell You"
 category: "gum-health"
 subcategory: "swollen-inflamed-gums"
+image: "/images/articles/gum-health/swollen-painful-gums-what-your-mouth-is-telling-you.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -51,10 +52,7 @@ The encouraging part is that gingivitis is typically reversible. Unlike more adv
 To really understand gum inflammation, it helps to zoom out and look at the [oral microbiome](/oral-microbiome/) as a whole. Your mouth hosts hundreds of species of bacteria, along with fungi and other microorganisms, that live on your teeth, tongue, cheeks, and gums.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Fotografía o ilustración comparativa de una encía sana (rosada, firme) junto a una encía inflamada (roja, hinchada, brillante), con etiquetas señalando las diferencias visuales.
-  </div>
-  <img src="" alt="Side-by-side comparison of healthy pink, firm gum tissue versus red, swollen, shiny inflamed gum tissue" loading="lazy" />
+  <img src="/images/editorial/gum-health/swollen-painful-gums-what-your-mouth-is-telling-you-1.webp" alt="Side-by-side comparison of healthy pink, firm gum tissue versus red, swollen, shiny inflamed gum tissue" loading="lazy" />
   <figcaption>Swelling, redness, and tenderness are your immune system's visible response to bacterial imbalance.</figcaption>
 </figure> This isn't an infection waiting to happen; it's a normal, even essential, part of human biology. Many of these microbial species help break down food, regulate pH, and even help crowd out harmful bacteria simply by occupying space and resources.
 
@@ -101,6 +99,10 @@ Crowns, fillings, or dentures that don't fit quite right can create small ledges
 ### Systemic Conditions
 
 Gum inflammation is sometimes a visible sign of something happening elsewhere in the body. Uncontrolled diabetes, for example, impairs the body's ability to fight bacterial infection and is strongly linked to more severe gum disease. Autoimmune conditions and certain blood disorders can also present with gum symptoms. This is part of why persistent gum inflammation deserves professional attention rather than indefinite home management.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>If bleeding, swelling or receding gums are part of what brought you here, an oral probiotic like <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is designed to target the bacterial imbalance behind those symptoms, not just mask them.</p>
+</aside>
 
 ## Reading Your Symptoms: What Different Signs May Suggest
 

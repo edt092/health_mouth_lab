@@ -2,6 +2,7 @@
 title: "Gum Recession: Can You Actually Reverse It, or Just Stop It?"
 category: "gum-health"
 subcategory: "gum-recession"
+image: "/images/articles/gum-health/can-you-reverse-gum-recession.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -45,10 +46,7 @@ People often assume gum recession is simply a sign of "getting older," but age i
 The most common driver of gum recession is periodontal disease — an inflammatory condition triggered by an imbalance in the bacteria living along and beneath your gumline. Your mouth naturally hosts hundreds of bacterial species, part of your [oral microbiome](/oral-microbiome/), most of them harmless or even helpful.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Ilustración lateral de un diente mostrando la progresión de la recesión gingival en tres etapas: encía normal cubriendo la raíz, recesión leve, y recesión avanzada exponiendo la raíz amarillenta.
-  </div>
-  <img src="" alt="Side view illustration of a tooth showing three stages of gum recession: normal coverage, mild recession, and advanced recession exposing the yellowish root surface" loading="lazy" />
+  <img src="/images/editorial/gum-health/can-you-reverse-gum-recession-1.webp" alt="Side view illustration of a tooth showing three stages of gum recession: normal coverage, mild recession, and advanced recession exposing the yellowish root surface" loading="lazy" />
   <figcaption>Recession creeps forward gradually, which is why it's often unnoticed until it's fairly advanced.</figcaption>
 </figure> Problems start when plaque builds up faster than your oral care routine and saliva can manage it, allowing pathogenic species — bacteria like *Porphyromonas gingivalis* and other gram-negative anaerobes — to multiply in the low-oxygen environment of the gum pocket.
 
@@ -99,6 +97,10 @@ Stopping tobacco use improves blood flow to gum tissue and allows your immune sy
 ### Orthodontic or Restorative Correction
 
 When misalignment is pushing a tooth outside its bony housing, orthodontic treatment to reposition the tooth — sometimes combined with a gum graft — can address the structural root cause rather than just managing symptoms.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>If bleeding, swelling or receding gums are part of what brought you here, an oral probiotic like <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is designed to target the bacterial imbalance behind those symptoms, not just mask them.</p>
+</aside>
 
 ## What Can Sometimes Be Improved, Even If Not Fully Reversed
 

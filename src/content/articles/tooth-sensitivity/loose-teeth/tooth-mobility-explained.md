@@ -2,6 +2,7 @@
 title: "Tooth Mobility Explained: When It's Serious and When It Isn't"
 category: "tooth-sensitivity"
 subcategory: "loose-teeth"
+image: "/images/articles/tooth-sensitivity/tooth-mobility-explained.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -39,10 +40,7 @@ Because of the PDL's elasticity, every tooth normally moves somewhere between 0.
 Dentists typically use the **Miller Mobility Index** ([cross-sectional study validating the Miller mobility index](https://pmc.ncbi.nlm.nih.gov/articles/PMC6388838/)), a standardized clinical scale, to quantify what they're seeing:
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Diagrama de un diente mostrando las direcciones de movimiento evaluadas por el Índice de Movilidad de Miller: horizontal (vestibulolingual) y vertical (hundimiento en el alvéolo), con las 4 categorías (Grado 0-III) etiquetadas.
-  </div>
-  <img src="" alt="Diagram of a tooth showing the horizontal and vertical movement directions assessed by the Miller Mobility Index, labeled with Grade 0 through Grade III" loading="lazy" />
+  <img src="/images/editorial/tooth-sensitivity/tooth-mobility-explained-1.webp" alt="Diagram of a tooth showing the horizontal and vertical movement directions assessed by the Miller Mobility Index, labeled with Grade 0 through Grade III" loading="lazy" />
   <figcaption>Vertical mobility — depressing the tooth into its socket — is the most concerning sign, almost always indicating significant bone loss.</figcaption>
 </figure>
 
@@ -99,6 +97,10 @@ This clinical measurement is paired with several other diagnostic tools:
 - **Pulp vitality testing**: in cases following trauma, checking whether the nerve inside the tooth is still responsive, since a tooth can be structurally mobile while its pulp health is a separate concern.
 
 Because mobility can fluctuate — worse after a night of clenching, slightly better after a course of deep cleaning — dentists often track it over multiple visits rather than making a permanent judgment from a single measurement. A tooth with Grade I mobility that has been stable for two years is a very different clinical picture from a tooth that moved from Grade 0 to Grade II over three months.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>While the causes above are mostly mechanical or structural, the oral microbiome still plays a supporting role, which is where an oral probiotic like <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> can fit into a broader routine.</p>
+</aside>
 
 ## Is Some Tooth Movement Normal?
 

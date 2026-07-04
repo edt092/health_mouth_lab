@@ -2,6 +2,7 @@
 title: "Why Do Your Gums Bleed When You Brush? The Real Culprit (It's Not Your Toothbrush)"
 category: "gum-health"
 subcategory: "bleeding-gums"
+image: "/images/articles/gum-health/why-do-your-gums-bleed-when-you-brush.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -43,10 +44,7 @@ This is why so many people get frustrated: they switch to a soft-bristled brush,
 Your mouth hosts an enormous, complex community of bacteria — the [oral microbiome](/oral-microbiome/) — and in a healthy mouth, this community exists in a relatively stable balance.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Diagrama de corte transversal del surco gingival mostrando bacterias gram-negativas anaerobias acumulándose en un ambiente bajo en oxígeno, con vasos sanguíneos dilatados en la encía circundante.
-  </div>
-  <img src="" alt="Cross-section diagram of the gingival sulcus showing anaerobic gram-negative bacteria accumulating in a low-oxygen environment with dilated blood vessels in surrounding gum tissue" loading="lazy" />
+  <img src="/images/editorial/gum-health/why-do-your-gums-bleed-when-you-brush-1.webp" alt="Cross-section diagram of the gingival sulcus showing anaerobic gram-negative bacteria accumulating in a low-oxygen environment with dilated blood vessels in surrounding gum tissue" loading="lazy" />
   <figcaption>Dilated, inflamed blood vessels — not brushing technique — are why gums bleed so easily.</figcaption>
 </figure> Some of these bacterial species are harmless or even beneficial, helping to crowd out more problematic ones and supporting a neutral pH. But when oral hygiene lapses even slightly, or when certain risk factors are present, that balance can shift.
 
@@ -85,6 +83,10 @@ The concerning news is that if gingivitis is ignored — often because people as
 Part of the reason gingivitis is so widespread is that it's not painful in its early stages. Bleeding is often the only symptom, and because it's mild and doesn't hurt, it's easy to dismiss or explain away. "I probably brushed too hard" is a much less alarming explanation than "I have an active bacterial infection in my gum tissue," so it's the one most people default to, even though it's usually not accurate.
 
 This is compounded by the fact that many people only see a dentist once or twice a year, meaning gingivitis can develop, progress, and even begin transitioning toward periodontitis between visits without professional monitoring. Understanding that bleeding is a legitimate clinical signal, not a cosmetic inconvenience or a hygiene technique flaw, is the first step toward taking it seriously enough to address the actual cause.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>If bleeding, swelling or receding gums are part of what brought you here, an oral probiotic like <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is designed to target the bacterial imbalance behind those symptoms, not just mask them.</p>
+</aside>
 
 ## Other Factors That Influence Gum Bleeding
 

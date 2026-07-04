@@ -2,6 +2,7 @@
 title: "Why Are My Teeth Suddenly Sensitive? Common Causes Explained"
 category: "tooth-sensitivity"
 subcategory: "teeth-sensitivity-causes"
+image: "/images/articles/tooth-sensitivity/why-are-my-teeth-suddenly-sensitive.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -39,10 +40,7 @@ Dentin is not solid. It is riddled with thousands of microscopic channels called
 This mechanism is called the [hydrodynamic theory of dentin sensitivity](https://pmc.ncbi.nlm.nih.gov/articles/PMC3585766/), and it explains why sensitive teeth typically react most strongly to temperature changes and sweets.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Corte transversal microscópico de un diente mostrando los túbulos dentinarios abiertos conectando la superficie expuesta con el nervio pulpar, con flechas indicando el flujo de fluido que desencadena el dolor.
-  </div>
-  <img src="" alt="Microscopic cross-section of a tooth showing open dentinal tubules connecting the exposed surface to the pulp nerve, with arrows indicating fluid flow that triggers pain" loading="lazy" />
+  <img src="/images/editorial/tooth-sensitivity/why-are-my-teeth-suddenly-sensitive-1.webp" alt="Microscopic cross-section of a tooth showing open dentinal tubules connecting the exposed surface to the pulp nerve, with arrows indicating fluid flow that triggers pain" loading="lazy" />
   <figcaption>Exposed dentinal tubules let hot, cold, or sweet stimuli reach the nerve — this is the mechanism behind that sharp, short-lived pain.</figcaption>
 </figure> The pain is usually quick and stops soon after the trigger is removed. If your discomfort lingers for minutes, throbs, or occurs without any obvious trigger, that points to a different problem and deserves professional evaluation.
 
@@ -95,6 +93,10 @@ Bruxism, the medical term for grinding and clenching, is a hidden cause of sensi
 The constant grinding force wears down enamel on the chewing surfaces, exposing dentin. Clenching also puts enormous stress on teeth, which can cause tiny flexing at the gumline that fractures and chips away enamel over time, creating notches similar to those from aggressive brushing. In more severe cases, grinding can cause hairline cracks in the tooth that make it sensitive to temperature and pressure.
 
 Stress is a major trigger for bruxism, though it can also relate to bite alignment, sleep disorders, and certain medications. Signs to watch for include a sore jaw in the morning, headaches around the temples, flattened or shortened teeth, and increased sensitivity across multiple teeth at once. A custom night guard from your dentist cushions the teeth and is the standard protective measure, while stress management and treating any underlying sleep issues address the root cause.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>While the causes above are mostly mechanical or structural, the oral microbiome still plays a supporting role, which is where an oral probiotic like <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> can fit into a broader routine.</p>
+</aside>
 
 ## Dental Work and Whitening Treatments
 

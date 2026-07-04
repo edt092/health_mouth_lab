@@ -2,6 +2,7 @@
 title: "How to Keep Your Gums Healthy for Good (Not Just Until Your Next Cleaning)"
 category: "gum-health"
 subcategory: "overview"
+image: "/images/articles/gum-health/how-to-keep-your-gums-healthy-for-good.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -39,10 +40,7 @@ The most important thing healthy gums do is nothing dramatic. They don't bleed w
 If you run your tongue along the gumline of healthy gums, the transition from gum to tooth feels smooth and tight. There's a shallow, natural groove between the gum and each tooth called the gingival sulcus—in healthy tissue it measures about 1 to 3 millimeters deep. When gums become diseased, that groove deepens into what dentists call a "pocket," and those pockets are where trouble accumulates.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Diagrama comparativo de un diente con encía sana (surco gingival de 1-3mm) junto a un diente con bolsa periodontal profunda (más de 4mm) llena de bacterias y placa.
-  </div>
-  <img src="" alt="Comparison diagram of a tooth with a healthy 1-3mm gingival sulcus next to a tooth with a deep periodontal pocket filled with bacteria and plaque" loading="lazy" />
+  <img src="/images/editorial/gum-health/how-to-keep-your-gums-healthy-for-good-1.webp" alt="Comparison diagram of a tooth with a healthy 1-3mm gingival sulcus next to a tooth with a deep periodontal pocket filled with bacteria and plaque" loading="lazy" />
   <figcaption>A shallow, healthy sulcus versus a deepened periodontal pocket where bacteria accumulate undisturbed.</figcaption>
 </figure>
 
@@ -95,10 +93,7 @@ As pockets deepen and bone continues to recede, teeth may begin to feel loose, s
 The sobering statistic is that nearly half of American adults over 30 have some form of periodontitis ([NIDCR data on periodontal disease in adults](https://www.nidcr.nih.gov/research/data-statistics/periodontal-disease/adults)), and the prevalence rises sharply with age.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Gráfico de barras mostrando el aumento de la prevalencia de periodontitis por grupo de edad (30+, 45+, 65+), basado en datos de encuestas nacionales de salud.
-  </div>
-  <img src="" alt="Bar chart showing periodontitis prevalence rising by age group in US adults, based on national health survey data" loading="lazy" />
+  <img src="/images/editorial/gum-health/how-to-keep-your-gums-healthy-for-good-2.webp" alt="Bar chart showing periodontitis prevalence rising by age group in US adults, based on national health survey data" loading="lazy" />
   <figcaption>Nearly half of US adults over 30 have some form of periodontitis, with prevalence rising sharply after 65.</figcaption>
 </figure> The encouraging counterpoint is that the progression is slow, predictable, and preventable at every stage if you intervene. Nobody wakes up with advanced gum disease overnight. It's the accumulation of small, daily neglects—and it responds to the accumulation of small, daily good habits.
 
@@ -115,6 +110,10 @@ The most common is aggressive brushing. Scrubbing hard with a stiff-bristled bru
 ### Why recession matters and what you can do
 
 Unlike gingivitis, gum tissue does not grow back once it recedes. This makes prevention especially important. The practical takeaways: use a soft-bristled toothbrush, brush gently at a 45-degree angle to the gumline rather than scrubbing sideways, and consider an electric toothbrush with a pressure sensor if you tend to bear down hard. If you grind your teeth, a nightguard can protect both enamel and gum tissue. And if recession is already progressing, a dentist or periodontist can evaluate whether a gum graft is warranted to cover exposed roots and prevent further loss.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>If bleeding, swelling or receding gums are part of what brought you here, an oral probiotic like <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is designed to target the bacterial imbalance behind those symptoms, not just mask them.</p>
+</aside>
 
 ## How to Keep Gums Healthy: The Daily Foundation
 

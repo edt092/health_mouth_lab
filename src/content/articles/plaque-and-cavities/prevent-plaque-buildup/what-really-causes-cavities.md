@@ -2,6 +2,7 @@
 title: "What Really Causes Cavities? It's Not Just Sugar"
 category: "plaque-and-cavities"
 subcategory: "prevent-plaque-buildup"
+image: "/images/articles/plaque-and-cavities/what-really-causes-cavities.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -59,10 +60,7 @@ This is a crucial point that gets lost in the "sugar causes cavities" message. S
 As bacteria pump out acid, the pH right at the tooth surface drops. When it falls below a critical threshold—roughly 5.5 for enamel ([research on demineralization kinetics and the critical pH threshold](https://pmc.ncbi.nlm.nih.gov/articles/PMC10127078/))—the environment becomes acidic enough to start pulling minerals out of the tooth. This is called demineralization.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Gráfico tipo "curva de Stephan" mostrando el pH bucal cayendo bruscamente tras consumir azúcar, cruzando la línea de pH crítico 5.5, y recuperándose gradualmente en 30-60 minutos.
-  </div>
-  <img src="" alt="Stephan curve graph showing oral pH dropping sharply after sugar consumption, crossing the critical pH 5.5 threshold, and gradually recovering over 30-60 minutes" loading="lazy" />
+  <img src="/images/editorial/plaque-and-cavities/what-really-causes-cavities-1.webp" alt="Stephan curve graph showing oral pH dropping sharply after sugar consumption, crossing the critical pH 5.5 threshold, and gradually recovering over 30-60 minutes" loading="lazy" />
   <figcaption>Every sugar exposure triggers an acid attack — what matters is how often this curve repeats each day.</figcaption>
 </figure>
 
@@ -95,6 +93,10 @@ What makes these species so damaging is not just that they make acid, but that t
 You might assume the goal is to eliminate as many oral bacteria as possible. It is not, and it cannot be. The mouth is one of the most densely populated microbial environments in the human body, and complete sterility is neither achievable nor desirable. Many resident species actively compete with harmful ones, produce compounds that discourage pathogens, and help maintain a neutral pH.
 
 This is why the modern understanding of oral health increasingly emphasizes the [microbiome](/oral-microbiome/) rather than a single germ. When beneficial and neutral bacteria dominate, they crowd out and suppress the acid-producers. When that balance breaks down—through frequent snacking, dry mouth, poor hygiene, or other disruptions—the harmful species gain ground. Research into whether restoring a healthier bacterial balance can reduce decay is one reason people have started asking [whether probiotics can help prevent cavities](/plaque-and-cavities/best-probiotic-for-cavity-prevention/), a question that reflects this shift toward thinking about the mouth as an ecosystem rather than a battlefield.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>Brushing and flossing remove plaque mechanically — <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is formulated to work alongside that routine by supporting a less cavity-prone bacterial balance.</p>
+</aside>
 
 ## Beyond Sugar: The Other Real Causes of Cavities
 

@@ -8,31 +8,37 @@ export const CATEGORY_META = {
     label: 'Gum Health',
     title: 'Gum Health: Causes, Symptoms & How to Fix Them',
     description: 'Understand bleeding, swollen and receding gums, and what actually restores gum health.',
+    image: '/images/categories/gum-health.webp',
   },
   'bad-breath': {
     label: 'Bad Breath',
     title: 'Bad Breath (Halitosis): Root Causes & Real Fixes',
     description: 'Why bad breath happens even after brushing, and how to fix it for good.',
+    image: '/images/categories/bad-breath.webp',
   },
   'oral-microbiome': {
     label: 'Oral Microbiome',
     title: 'Oral Microbiome: The Root Cause Behind Most Mouth Problems',
     description: 'How your oral microbiome drives gum health, breath and cavities.',
+    image: '/images/categories/oral-microbiome.webp',
   },
   'dry-mouth': {
     label: 'Dry Mouth',
     title: 'Dry Mouth (Xerostomia): Causes & Treatment',
     description: 'Why your mouth is dry, at night or all day, and how to fix it.',
+    image: '/images/categories/dry-mouth.webp',
   },
   'plaque-and-cavities': {
     label: 'Plaque & Cavities',
     title: 'Plaque, Biofilm & Cavities: What Causes Them',
     description: 'How plaque and dental biofilm form, and how to prevent cavities.',
+    image: '/images/categories/plaque-and-cavities.webp',
   },
   'tooth-sensitivity': {
     label: 'Tooth Sensitivity',
     title: 'Tooth Sensitivity & Loose Teeth: Causes & Solutions',
     description: 'Why teeth feel loose or sensitive, and what actually helps.',
+    image: '/images/categories/tooth-sensitivity.webp',
   },
 } as const;
 

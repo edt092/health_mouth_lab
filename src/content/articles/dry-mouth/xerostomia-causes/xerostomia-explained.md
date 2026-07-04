@@ -2,6 +2,7 @@
 title: "Xerostomia Explained: The Medical Causes Behind Chronic Dry Mouth"
 category: "dry-mouth"
 subcategory: "xerostomia-causes"
+image: "/images/articles/dry-mouth/xerostomia-explained.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -37,10 +38,7 @@ Xerostomia refers to the perception of oral dryness, which is technically distin
 Unstimulated whole salivary flow in healthy adults typically runs between 0.3 and 0.4 milliliters per minute, and clinicians often consider flow rates below 0.1 mL/min unstimulated (or below 0.7 mL/min stimulated) to represent true hyposalivation ([NIH StatPearls overview of xerostomia](https://www.ncbi.nlm.nih.gov/books/NBK545287/)). Symptoms of xerostomia tend to become noticeable once flow drops to roughly 50 percent of normal output.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Escala horizontal tipo termómetro mostrando el rango de flujo salival normal (0.3-0.4 mL/min) hasta el umbral de hiposalivación (≤0.1 mL/min), con marcadores de color (verde a rojo).
-  </div>
-  <img src="" alt="Horizontal scale showing normal unstimulated salivary flow range versus the hyposalivation threshold, color-coded from green to red" loading="lazy" />
+  <img src="/images/editorial/dry-mouth/xerostomia-explained-1.webp" alt="Horizontal scale showing normal unstimulated salivary flow range versus the hyposalivation threshold, color-coded from green to red" loading="lazy" />
   <figcaption>Hyposalivation is clinically defined at a specific flow-rate threshold, not just a subjective feeling of dryness.</figcaption>
 </figure> This is why some people can have early salivary gland dysfunction for months or years before they notice anything wrong.
 
@@ -85,6 +83,10 @@ Other systemic conditions linked to xerostomia include:
 Head and neck radiation therapy is one of the most severe and well-documented causes of xerostomia. Salivary gland acinar cells are highly radiosensitive, and even moderate radiation doses to the head and neck can cause substantial, sometimes permanent, loss of functional glandular tissue. Patients undergoing radiation for oral, oropharyngeal, or other head and neck cancers frequently experience xerostomia that begins within the first couple of weeks of treatment and can persist for years afterward, particularly if the parotid glands were within the radiation field. Modern intensity-modulated radiation therapy (IMRT) techniques attempt to spare salivary tissue where oncologically feasible, which has meaningfully reduced the severity of this side effect compared to older radiation approaches.
 
 Chemotherapy can cause a milder, usually more temporary xerostomia through direct cytotoxic effects on rapidly dividing cells, including salivary acinar cells, and through associated mucositis.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>Alongside the habit changes above, some people find it helps to pair their routine with an oral probiotic like <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a>, formulated to support a saliva-friendly bacterial balance.</p>
+</aside>
 
 ## Dehydration, Habits, and Lifestyle Contributors
 

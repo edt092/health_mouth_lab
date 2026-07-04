@@ -4,6 +4,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { buildBreadcrumbSchema } from '../utils/schema';
 import { CATEGORY_META, CATEGORY_SLUGS } from '../data/categories';
+import { AFFILIATE_URL, AFFILIATE_LINK_ATTRS } from '../data/affiliate';
 ---
 <Layout
   title="Healthy Mouth Lab — Understand Your Oral Microbiome"
@@ -43,10 +44,35 @@ import { CATEGORY_META, CATEGORY_SLUGS } from '../data/categories';
 
   <section aria-label="Browse by symptom" class="grid gap-3 px-6 py-8 md:grid-cols-3">
     {CATEGORY_SLUGS.map((slug) => (
-      <a href={`/${slug}/`} class="rounded-lg border border-brand-text/10 p-4 hover:border-brand-primary">
-        {CATEGORY_META[slug].label}
+      <a href={`/${slug}/`} class="overflow-hidden rounded-lg border border-brand-text/10 hover:border-brand-primary">
+        <img
+          src={CATEGORY_META[slug].image}
+          alt={CATEGORY_META[slug].label}
+          width="480"
+          height="320"
+          loading="lazy"
+          class="aspect-[3/2] w-full object-cover"
+        />
+        <p class="p-4 font-medium">{CATEGORY_META[slug].label}</p>
       </a>
     ))}
+  </section>
+
+  <section aria-label="Recommended solution" class="mx-6 my-12 rounded-lg border border-brand-text/10 bg-brand-primary/5 px-6 py-10 text-center">
+    <p class="text-xs font-semibold uppercase tracking-wide text-brand-primary">Root-cause support</p>
+    <h2 class="mx-auto mt-2 max-w-xl text-2xl font-bold">
+      Rebalance your oral microbiome with Dentabiome
+    </h2>
+    <p class="mx-auto mt-2 max-w-xl text-sm text-brand-text/70">
+      The dentist-formulated oral probiotic behind the fixes in this guide — for gum health, fresh breath and dry mouth.
+    </p>
+    <a
+      href={AFFILIATE_URL}
+      {...AFFILIATE_LINK_ATTRS}
+      class="mt-5 inline-block rounded-md bg-brand-primary px-6 py-3 font-medium text-white hover:opacity-90"
+    >
+      Get Dentabiome Today →
+    </a>
   </section>
 
   <Footer slot="footer" />

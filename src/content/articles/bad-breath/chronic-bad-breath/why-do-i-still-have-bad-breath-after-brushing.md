@@ -2,6 +2,7 @@
 title: "Why Do I Still Have Bad Breath After Brushing? 5 Hidden Causes"
 category: "bad-breath"
 subcategory: "chronic-bad-breath"
+image: "/images/articles/bad-breath/why-do-i-still-have-bad-breath-after-brushing.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -50,10 +51,7 @@ Signs this is your primary issue include:
 - A mild "furry" or coated sensation on the tongue, especially in the morning
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Ilustración de un perfil de lengua mostrando el tercio posterior con una capa blanquecina de bacterias resaltada, comparada con la superficie limpia y sana del resto de la lengua.
-  </div>
-  <img src="" alt="Illustration of a tongue profile highlighting the bacterial coating on the back third compared to the cleaner front surface" loading="lazy" />
+  <img src="/images/editorial/bad-breath/why-do-i-still-have-bad-breath-after-brushing-1.webp" alt="Illustration of a tongue profile highlighting the bacterial coating on the back third compared to the cleaner front surface" loading="lazy" />
   <figcaption>The back third of the tongue is the area a toothbrush struggles to reach — and where odor-causing bacteria concentrate most.</figcaption>
 </figure>
 
@@ -102,6 +100,10 @@ This is where interest in oral probiotics has grown substantially in recent year
 
 It's worth noting that not all probiotic supplements are created equal for this purpose—general digestive probiotics are not the same as strains specifically studied for oral colonization, so this is an area where the specific strain matters more than the broad category of product.
 
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>For breath issues that keep coming back no matter how often you brush, <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is formulated to address the bacteria actually producing the odor, not just cover it up.</p>
+</aside>
+
 ## Cause #5: Non-Oral Sources (Sinus, Throat, and Digestive Factors)
 
 While the vast majority of chronic bad breath cases originate in the mouth, a meaningful minority come from elsewhere, and this is a cause worth knowing about if you've addressed everything above with no improvement.
@@ -123,10 +125,7 @@ This is precisely why standard advice—brush more, floss more, use mouthwash—
 This doesn't mean brushing is pointless—far from it. Good mechanical hygiene remains foundational and prevents plaque buildup, cavities, and gum disease from getting worse. But if you've had excellent brushing habits for months or years and still deal with bad breath even after brushing, it's a strong signal that the remaining issue lies in one of the areas mechanical brushing doesn't reach: the back of the tongue, below the gumline, the bacterial ecosystem itself, or a source entirely outside the mouth.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Diagrama de árbol de decisión simple con la pregunta "¿Sigue el mal aliento después de cepillarse?" ramificándose en las 5 causas (lengua, encías, boca seca, microbioma, no oral), cada rama con un ícono distintivo.
-  </div>
-  <img src="" alt="Simple decision-tree diagram branching from persistent bad breath after brushing into the five possible causes: tongue, gums, dry mouth, microbiome, and non-oral sources" loading="lazy" />
+  <img src="/images/editorial/bad-breath/why-do-i-still-have-bad-breath-after-brushing-2.webp" alt="Simple decision-tree diagram branching from persistent bad breath after brushing into the five possible causes: tongue, gums, dry mouth, microbiome, and non-oral sources" loading="lazy" />
   <figcaption>Five hidden causes, one starting question: does the smell come back within an hour or two of brushing?</figcaption>
 </figure>
 

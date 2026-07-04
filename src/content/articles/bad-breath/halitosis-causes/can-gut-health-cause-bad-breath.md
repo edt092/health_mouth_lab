@@ -2,6 +2,7 @@
 title: "Can Gut Health Really Cause Bad Breath? What the Science Says"
 category: "bad-breath"
 subcategory: "halitosis-causes"
+image: "/images/articles/bad-breath/can-gut-health-cause-bad-breath.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -35,10 +36,7 @@ Understanding this distinction matters because it changes what you should actual
 To evaluate whether gut health plays a role, it helps to understand the mechanism behind bad breath in the first place. The vast majority of chronic halitosis cases, estimated at 85 to 90 percent in clinical research ([review of halitosis diagnosis and management](https://pmc.ncbi.nlm.nih.gov/articles/PMC3633265/)), originate in the mouth itself, not the digestive tract.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Gráfico circular (pie chart) mostrando la proporción 90%/10% entre casos de mal aliento de origen oral versus origen no oral (sinusal, digestivo, sistémico).
-  </div>
-  <img src="" alt="Pie chart showing that roughly 90% of chronic bad breath cases originate in the mouth, versus 10% from sinus, digestive, or systemic sources" loading="lazy" />
+  <img src="/images/editorial/bad-breath/can-gut-health-cause-bad-breath-1.webp" alt="Pie chart showing that roughly 90% of chronic bad breath cases originate in the mouth, versus 10% from sinus, digestive, or systemic sources" loading="lazy" />
   <figcaption>The large majority of chronic bad breath traces back to the mouth, not the gut.</figcaption>
 </figure>
 
@@ -64,10 +62,7 @@ Here's what current research and clinical understanding actually support:
 One of the most persistent myths is that bad breath comes from odors "wafting up" from the stomach. Anatomically, this is unlikely in most people. The esophagus is normally collapsed and closed off by the lower esophageal sphincter, which acts as a one-way valve. Under typical conditions, gas and odor from the stomach don't have a direct pathway to the mouth.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Diagrama anatómico simple del esófago y estómago mostrando el esfínter esofágico inferior cerrado en condiciones normales, versus abierto/débil durante el reflujo (GERD).
-  </div>
-  <img src="" alt="Simple anatomical diagram of the esophagus and stomach showing the lower esophageal sphincter closed normally versus weakened during acid reflux" loading="lazy" />
+  <img src="/images/editorial/bad-breath/can-gut-health-cause-bad-breath-2.webp" alt="Simple anatomical diagram of the esophagus and stomach showing the lower esophageal sphincter closed normally versus weakened during acid reflux" loading="lazy" />
   <figcaption>Under normal conditions, the lower esophageal sphincter blocks stomach odors from reaching the mouth — reflux is the main exception.</figcaption>
 </figure>
 
@@ -90,6 +85,10 @@ Certain foods, garlic, onions, some spices, and high-protein diets, are well doc
 Emerging research on the gut-mouth axis suggests the relationship actually flows both ways, and arguably the mouth-to-gut direction is better supported by current evidence than the reverse. Bacteria from an imbalanced oral microbiome, particularly from periodontal disease, get swallowed constantly and can influence gut bacterial populations, potentially contributing to inflammation elsewhere in the body. So rather than gut health being the hidden cause of bad breath, the science more often points to oral bacterial imbalance being a potential contributor to gut bacterial imbalance, not the other way around.
 
 Taken together, this research paints a more nuanced picture than the simple claim that "bad gut health causes bad breath." Digestive issues can occasionally contribute to breath odor through specific, identifiable mechanisms, but for the overwhelming majority of people dealing with chronic bad breath, the source is oral bacterial activity, not the gut microbiome.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>For breath issues that keep coming back no matter how often you brush, <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is formulated to address the bacteria actually producing the odor, not just cover it up.</p>
+</aside>
 
 ## The Same Root Mechanism, Two Different Symptoms
 

@@ -2,6 +2,7 @@
 title: "How to Restore a Healthy Oral Microbiome Naturally"
 category: "oral-microbiome"
 subcategory: "oral-flora-balance"
+image: "/images/articles/oral-microbiome/how-to-restore-a-healthy-oral-microbiome-naturally.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -70,10 +71,7 @@ Plaque is a structured biofilm, not a loose layer of debris. Bacteria within it 
 Electric brushes with rotation-oscillation action have consistently outperformed manual brushing in clinical trials for plaque and gingivitis reduction ([Cochrane systematic review of powered vs. manual toothbrushes](https://www.cochrane.org/evidence/CD002281_poweredelectric-toothbrushes-compared-manual-toothbrushes-maintaining-oral-health)), largely because they maintain more consistent pressure and time on task.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Ilustración comparativa lado a lado de un cepillo manual y uno eléctrico oscilante, con un pequeño gráfico o icono mostrando "~21% más reducción de placa" junto al cepillo eléctrico.
-  </div>
-  <img src="" alt="Side-by-side comparison of a manual toothbrush and an oscillating electric toothbrush, illustrating the greater plaque reduction of powered brushes" loading="lazy" />
+  <img src="/images/editorial/oral-microbiome/how-to-restore-a-healthy-oral-microbiome-naturally-1.webp" alt="Side-by-side comparison of a manual toothbrush and an oscillating electric toothbrush, illustrating the greater plaque reduction of powered brushes" loading="lazy" />
   <figcaption>Rotation-oscillation electric toothbrushes show a modest but consistent edge over manual brushing in clinical trials.</figcaption>
 </figure>
 
@@ -88,6 +86,10 @@ Roughly a third of tooth surface area is between the teeth, an area toothbrush b
 ### Be strategic about mouthwash
 
 This is where good intentions sometimes backfire. Antiseptic mouthwashes containing high concentrations of alcohol or chlorhexidine are effective at killing bacteria indiscriminately, which is useful for short-term post-surgical use but problematic for long-term daily use. Wiping out the microbiome broadly, without distinguishing beneficial from harmful species, can create an ecological vacuum that opportunistic or pathogenic bacteria recolonize first, sometimes leaving you worse off than before. If you use mouthwash daily, look for alcohol-free formulations, and consider that some of the newer probiotic- or prebiotic-based rinses are designed specifically to support commensal bacteria rather than eliminate everything.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>Many of the strategies above work by supporting a healthier balance of oral bacteria in the first place — which is exactly what <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> is formulated to do, one daily dose at a time.</p>
+</aside>
 
 ## Step 3: Protect and Support Your Saliva
 

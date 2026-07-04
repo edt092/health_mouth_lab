@@ -2,6 +2,7 @@
 title: "Why Is My Mouth So Dry at Night? Causes and Fixes"
 category: "dry-mouth"
 subcategory: "dry-mouth-at-night"
+image: "/images/articles/dry-mouth/why-is-my-mouth-so-dry-at-night.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -31,10 +32,7 @@ Waking up at 2 a.m. with a tongue that feels stuck to the roof of your mouth is 
 ## Why Dry Mouth Is Worse at Night
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Ilustración de una persona durmiendo con la boca ligeramente abierta, con flechas mostrando el flujo de aire secando la superficie bucal, comparada con una respiración nasal cerrada al lado.
-  </div>
-  <img src="" alt="Illustration comparing a person sleeping with mouth open, drying oral tissue, versus closed-mouth nasal breathing" loading="lazy" />
+  <img src="/images/editorial/dry-mouth/why-is-my-mouth-so-dry-at-night-1.webp" alt="Illustration comparing a person sleeping with mouth open, drying oral tissue, versus closed-mouth nasal breathing" loading="lazy" />
   <figcaption>Mouth breathing during sleep accelerates the natural overnight drop in saliva.</figcaption>
 </figure>
 
@@ -95,10 +93,7 @@ Seasonal allergies, chronic sinusitis, or even a stuffy nose from a common cold 
 It's worth taking a moment to explain why this isn't purely a comfort issue. Your mouth hosts hundreds of species of bacteria in a generally stable, competitive balance. Saliva is one of the main forces keeping that balance in check—diluting acid, delivering antibacterial compounds, and physically clearing debris. When saliva flow drops for an extended stretch, as it does every night for people with xerostomia, acid-tolerant and acid-producing bacteria get a longer, uninterrupted window to work on your enamel and along the gumline.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Ilustración de un diente mostrando puntos de riesgo por sequedad bucal prolongada: caries cerca de la línea de la encía, esmalte debilitado y encía irritada, cada uno con una pequeña etiqueta.
-  </div>
-  <img src="" alt="Illustration of a tooth showing the risk points from prolonged dry mouth: cavities near the gumline, weakened enamel, and irritated gum tissue" loading="lazy" />
+  <img src="/images/editorial/dry-mouth/why-is-my-mouth-so-dry-at-night-2.webp" alt="Illustration of a tooth showing the risk points from prolonged dry mouth: cavities near the gumline, weakened enamel, and irritated gum tissue" loading="lazy" />
   <figcaption>Extended hours without saliva's protection each night adds up to real risk over months and years.</figcaption>
 </figure>
 
@@ -111,6 +106,10 @@ Over months and years, this can show up as:
 - A burning or raw feeling on the tongue, especially toward the back, sometimes described as "dry tongue syndrome"
 
 This is also why dentists tend to take dry mouth seriously as a diagnostic clue rather than dismissing it as a minor annoyance. A dentist who notices a pattern of cavities along the gumline in someone with otherwise good oral hygiene will often ask about sleep, medications, and nasal breathing before assuming the issue is simply brushing technique.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>Alongside the habit changes above, some people find it helps to pair their routine with an oral probiotic like <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a>, formulated to support a saliva-friendly bacterial balance.</p>
+</aside>
 
 ## Fixes That Actually Address the Cause
 

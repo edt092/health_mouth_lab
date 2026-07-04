@@ -5,6 +5,7 @@ import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import { buildBreadcrumbSchema, buildProductSchema, buildFAQSchema } from '../../utils/schema';
+import { AFFILIATE_URL, AFFILIATE_LINK_ATTRS } from '../../data/affiliate';
 
 const entry = await getEntry('product', 'dentabiome');
 if (!entry) throw new Error('Missing product entry: dentabiome');
@@ -43,11 +44,25 @@ const breadcrumbItems = [
     <p class="mt-1 text-sm text-brand-text/60">
       ★ {entry.data.rating.value} ({entry.data.rating.count} reviews) · ${entry.data.price} {entry.data.currency}
     </p>
+
+    <a
+      href={AFFILIATE_URL}
+      {...AFFILIATE_LINK_ATTRS}
+      class="mt-4 inline-block rounded-md bg-brand-primary px-6 py-3 font-medium text-white hover:opacity-90"
+    >
+      Get Dentabiome Today →
+    </a>
+    <p class="mt-2 text-xs text-brand-text/60">30-day money-back guarantee</p>
+
     <div class="prose mt-6 max-w-measure">
       <Content />
     </div>
 
-    <a href="/dentabiome/reviews/" class="mt-4 inline-block underline">Read verified reviews →</a>
+    <nav aria-label="Learn more" class="mt-4 flex flex-wrap gap-x-4 gap-y-1 text-sm">
+      <a href="/dentabiome/how-it-works/" class="underline">How it works</a>
+      <a href="/dentabiome/reviews/" class="underline">Read verified reviews</a>
+      <a href="/dentabiome/vs-parodontax/" class="underline">Dentabiome vs. Parodontax</a>
+    </nav>
 
     <section aria-label="Frequently asked questions" class="mt-10 space-y-4">
       <h2 class="text-xl font-semibold">FAQ</h2>
@@ -58,6 +73,14 @@ const breadcrumbItems = [
         </div>
       ))}
     </section>
+
+    <a
+      href={AFFILIATE_URL}
+      {...AFFILIATE_LINK_ATTRS}
+      class="mt-10 inline-block rounded-md bg-brand-primary px-6 py-3 font-medium text-white hover:opacity-90"
+    >
+      Get Dentabiome Today →
+    </a>
   </div>
 
   <Footer slot="footer" />

@@ -2,6 +2,7 @@
 title: "Dry Mouth Causes: 7 Reasons Your Mouth Won't Stop Feeling Dry"
 category: "dry-mouth"
 subcategory: "xerostomia-causes"
+image: "/images/articles/dry-mouth/dry-mouth-causes-7-reasons.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -35,10 +36,7 @@ The good news is that dry mouth is rarely a mystery once you understand what sal
 Before diving into causes, it helps to be precise about terms. The medical name for the sensation of a dry mouth is xerostomia. Interestingly, xerostomia refers to the subjective feeling of dryness, which does not always perfectly track with how much saliva you're actually producing. Some people feel parched even when their salivary glands are working reasonably well, while others produce genuinely reduced saliva, a condition called salivary gland hypofunction.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Diagrama anatómico simple de la cabeza y cuello mostrando la ubicación de las tres glándulas salivales principales (parótida, submandibular y sublingual), cada una etiquetada.
-  </div>
-  <img src="" alt="Simple anatomical diagram of the head and neck showing the location of the three major salivary glands: parotid, submandibular, and sublingual" loading="lazy" />
+  <img src="/images/editorial/dry-mouth/dry-mouth-causes-7-reasons-1.webp" alt="Simple anatomical diagram of the head and neck showing the location of the three major salivary glands: parotid, submandibular, and sublingual" loading="lazy" />
   <figcaption>Three major paired glands, plus hundreds of minor ones, produce the saliva your mouth depends on.</figcaption>
 </figure>
 
@@ -49,10 +47,7 @@ Saliva does a lot of quiet, unglamorous work. It contains enzymes that begin dig
 With that foundation in place, let's look at what's most likely behind your symptoms.
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Cuadrícula de 7 iconos simples representando cada causa (medicamentos, deshidratación, respiración bucal, edad/hormonas, microbioma, condiciones médicas, estilo de vida), numerados del 1 al 7.
-  </div>
-  <img src="" alt="Grid of seven simple icons representing each dry mouth cause: medications, dehydration, mouth breathing, age/hormones, microbiome imbalance, medical conditions, and lifestyle factors" loading="lazy" />
+  <img src="/images/editorial/dry-mouth/dry-mouth-causes-7-reasons-2.webp" alt="Grid of seven simple icons representing each dry mouth cause: medications, dehydration, mouth breathing, age/hormones, microbiome imbalance, medical conditions, and lifestyle factors" loading="lazy" />
   <figcaption>Seven distinct causes, often overlapping — identifying yours is the first step to real relief.</figcaption>
 </figure>
 
@@ -111,6 +106,10 @@ Hormonal changes are relevant across life stages, not just in older age. Many wo
 ### Managing age and hormone-related dryness
 
 Because these causes often overlap with medications and other factors, the approach is usually layered. Staying well hydrated, using saliva-stimulating products, and maintaining excellent oral hygiene all help. For menopause-related dryness, some people find relief improves when broader hormonal symptoms are addressed with their physician. The key point is that persistent dryness at any age deserves attention rather than being written off as an unavoidable part of getting older.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>Alongside the habit changes above, some people find it helps to pair their routine with an oral probiotic like <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a>, formulated to support a saliva-friendly bacterial balance.</p>
+</aside>
 
 ## 5. An Imbalanced Oral Microbiome
 

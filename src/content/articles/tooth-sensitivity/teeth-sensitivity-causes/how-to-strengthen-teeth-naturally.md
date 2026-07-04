@@ -2,6 +2,7 @@
 title: "How to Strengthen Teeth Naturally (Without Waiting for a Cavity)"
 category: "tooth-sensitivity"
 subcategory: "teeth-sensitivity-causes"
+image: "/images/articles/tooth-sensitivity/how-to-strengthen-teeth-naturally.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 medicalReviewer: "Dr. Jane Smith, DDS"
@@ -41,10 +42,7 @@ This is why "strengthening" teeth naturally isn't really about hardening enamel 
 ## The Oral Microbiome's Role in Enamel Health
 
 <figure class="image-placeholder">
-  <div class="placeholder-box">
-    IMAGEN SUGERIDA: Diagrama de ciclo mostrando la desmineralización (pérdida de minerales tras comer algo ácido) y la remineralización (la saliva redepositando calcio y fosfato) en un ciclo continuo a lo largo del día.
-  </div>
-  <img src="" alt="Cycle diagram showing demineralization (mineral loss after acidic food) and remineralization (saliva redepositing calcium and phosphate) as a continuous daily cycle" loading="lazy" />
+  <img src="/images/editorial/tooth-sensitivity/how-to-strengthen-teeth-naturally-1.webp" alt="Cycle diagram showing demineralization (mineral loss after acidic food) and remineralization (saliva redepositing calcium and phosphate) as a continuous daily cycle" loading="lazy" />
   <figcaption>Enamel repairs itself continuously through this cycle — the goal is supporting the conditions that let it work, not "hardening" enamel from the outside.</figcaption>
 </figure>
 
@@ -87,6 +85,10 @@ Saliva does more heavy lifting for your teeth than most people realize. Beyond c
 Chronic [dry mouth](/dry-mouth/) — from medications, mouth breathing, dehydration, or certain medical conditions — removes this protective buffer and is one of the most underappreciated risk factors for rapid [cavity](/plaque-and-cavities/) development, even in people with otherwise good habits. If you wake up with a dry mouth, take medications known to reduce saliva (common with antihistamines, antidepressants, and blood pressure medications), or breathe through your mouth at night, this is worth mentioning to a dentist, since it changes the risk calculus significantly.
 
 Simple ways to support healthy saliva flow include staying well hydrated throughout the day, chewing sugar-free gum (particularly with xylitol, discussed below), and treating nasal congestion or airway issues that force mouth breathing.
+
+<aside class="my-8 rounded-md border-l-4 border-brand-primary bg-brand-primary/5 px-5 py-4 text-sm text-brand-text/80">
+  <p>While the causes above are mostly mechanical or structural, the oral microbiome still plays a supporting role, which is where an oral probiotic like <a href="https://getdentabiome.com/discovery?hopId=5e151041-fe3e-4aca-99fa-c50580113ca6&hop=edwinner92" target="_blank" rel="sponsored noopener" class="font-semibold text-brand-primary underline">Dentabiome</a> can fit into a broader routine.</p>
+</aside>
 
 ## Xylitol and Other Natural Compounds Worth Knowing About
 

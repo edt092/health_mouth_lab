@@ -5,6 +5,7 @@ import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import { buildBreadcrumbSchema } from '../../../utils/schema';
+import { AFFILIATE_URL, AFFILIATE_LINK_ATTRS } from '../../../data/affiliate';
 
 // Un solo archivo resuelve las dos "hojas" de nivel 2 de la silo: la subcategoría
 // (listado de artículos) y la página puente (comercial). Se distinguen por `type`
@@ -73,10 +74,18 @@ const breadcrumbItems = [
     <p class="mt-2 text-brand-text/70">{description}</p>
 
     {props.type === 'subcategory' ? (
-      <section aria-label="Articles" class="mt-8 space-y-2">
+      <section aria-label="Articles" class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {articlesInNode.map((a) => (
-          <a href={`/${category}/${node}/${a.id.split('/').pop()}/`} class="block hover:text-brand-primary">
-            {a.data.title}
+          <a href={`/${category}/${node}/${a.id.split('/').pop()}/`} class="overflow-hidden rounded-lg border border-brand-text/10 hover:border-brand-primary">
+            <img
+              src={a.data.image}
+              alt={a.data.title}
+              width="600"
+              height="400"
+              loading="lazy"
+              class="aspect-[3/2] w-full object-cover"
+            />
+            <p class="p-4 text-sm font-medium">{a.data.title}</p>
           </a>
         ))}
       </section>
@@ -85,8 +94,15 @@ const breadcrumbItems = [
         <ul class="list-disc space-y-1 pl-5">
           {props.entry.data.comparisonCriteria.map((c: string) => <li>{c}</li>)}
         </ul>
-        <a href="/dentabiome/" class="mt-6 inline-block rounded-md bg-brand-primary px-6 py-3 font-medium text-white">
-          See Dentabiome →
+        <a
+          href={AFFILIATE_URL}
+          {...AFFILIATE_LINK_ATTRS}
+          class="mt-6 inline-block rounded-md bg-brand-primary px-6 py-3 font-medium text-white hover:opacity-90"
+        >
+          Get Dentabiome →
+        </a>
+        <a href="/dentabiome/" class="mt-3 block text-sm font-medium text-brand-primary underline">
+          Learn more about Dentabiome
         </a>
       </section>
     )}

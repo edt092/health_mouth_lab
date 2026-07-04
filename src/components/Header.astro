@@ -2,6 +2,7 @@
 // Menú sticky con las 6 categorías del silo — heurístico 6 (reconocer, no recordar)
 // y regla del informe SEO: la home enlaza a las 6 categorías desde el menú principal.
 import { CATEGORY_META, CATEGORY_SLUGS } from '../data/categories';
+import { AFFILIATE_URL, AFFILIATE_LINK_ATTRS } from '../data/affiliate';
 ---
 <header class="sticky top-0 z-40 flex items-center justify-between gap-4 border-b border-brand-text/10 bg-brand-bg/95 px-6 py-3 backdrop-blur">
   <a href="/" class="font-semibold text-brand-primary">Healthy Mouth Lab</a>
@@ -16,7 +17,8 @@ import { CATEGORY_META, CATEGORY_SLUGS } from '../data/categories';
 
   <!-- Único CTA persistente del header (heurístico 8: un solo CTA compitiendo) -->
   <a
-    href="/dentabiome/"
+    href={AFFILIATE_URL}
+    {...AFFILIATE_LINK_ATTRS}
     class="rounded-md bg-brand-primary px-4 py-2 text-sm font-medium text-white hover:opacity-90"
   >
     Shop Dentabiome
