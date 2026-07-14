@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
-import { buildBreadcrumbSchema } from '../utils/schema';
+import { buildBreadcrumbSchema, buildOrganizationSchema, buildWebSiteSchema } from '../utils/schema';
 import { CATEGORY_META, CATEGORY_SLUGS } from '../data/categories';
 import { AFFILIATE_URL, AFFILIATE_LINK_ATTRS } from '../data/affiliate';
 ---
@@ -12,7 +12,11 @@ import { AFFILIATE_URL, AFFILIATE_LINK_ATTRS } from '../data/affiliate';
   description="In-depth guides on gum health, bad breath, dry mouth and the oral microbiome — and the probiotic that addresses the root cause."
   canonicalPath="/"
   pageType="website"
-  schema={buildBreadcrumbSchema([{ name: 'Home', url: '/' }])}
+  schema={[
+    buildOrganizationSchema(),
+    buildWebSiteSchema(),
+    buildBreadcrumbSchema([{ name: 'Home', url: '/' }]),
+  ]}
 >
   <Header slot="header" />
 

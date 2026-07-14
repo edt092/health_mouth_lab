@@ -2,7 +2,6 @@
 name: "Dentabiome"
 price: 39.00
 currency: "USD"
-availability: "InStock"
 editorialReview:
   score: 4.0
   scale: 5

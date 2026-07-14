@@ -4,23 +4,60 @@
 import { CATEGORY_META, CATEGORY_SLUGS } from '../data/categories';
 import { AFFILIATE_URL, AFFILIATE_LINK_ATTRS } from '../data/affiliate';
 ---
-<header class="sticky top-0 z-40 flex items-center justify-between gap-4 border-b border-brand-text/10 bg-brand-bg/95 px-6 py-3 backdrop-blur">
-  <a href="/" class="font-semibold text-brand-primary">Healthy Mouth Lab</a>
+<header class="sticky top-0 z-40 border-b border-brand-text/10 bg-brand-bg/95 backdrop-blur">
+  <!--
+    Menú móvil: checkbox-hack puro CSS (input + label + peer-checked), sin
+    JavaScript de cliente. El sitio no tiene JS propio y eso es una fortaleza
+    (LCP/INP casi perfectos, ver auditoría de rendimiento) — no la rompemos
+    por un menú.
+  -->
+  <input type="checkbox" id="mobile-nav-toggle" class="peer hidden" />
 
-  <nav aria-label="Main navigation" class="hidden md:block">
-    <ul class="flex gap-5 text-sm">
+  <div class="flex items-center justify-between gap-4 px-6 py-3">
+    <a href="/" class="font-semibold text-brand-primary">Healthy Mouth Lab</a>
+
+    <nav aria-label="Main navigation" class="hidden md:block">
+      <ul class="flex gap-5 text-sm">
+        {CATEGORY_SLUGS.map((slug) => (
+          <li><a href={`/${slug}/`} class="hover:text-brand-primary">{CATEGORY_META[slug].label}</a></li>
+        ))}
+      </ul>
+    </nav>
+
+    <div class="flex items-center gap-3">
+      <!-- Único CTA persistente del header (heurístico 8: un solo CTA compitiendo) -->
+      <a
+        href={AFFILIATE_URL}
+        {...AFFILIATE_LINK_ATTRS}
+        class="rounded-md bg-brand-primary px-4 py-2 text-sm font-medium text-white hover:opacity-90"
+      >
+        Shop Dentabiome
+      </a>
+
+      <label
+        for="mobile-nav-toggle"
+        class="flex h-9 w-9 shrink-0 cursor-pointer items-center justify-center rounded-md border border-brand-text/20 md:hidden"
+        aria-label="Open menu"
+      >
+        <span class="sr-only">Menu</span>
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <line x1="3" y1="6" x2="21" y2="6"></line>
+          <line x1="3" y1="12" x2="21" y2="12"></line>
+          <line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </label>
+    </div>
+  </div>
+
+  <nav
+    aria-label="Mobile navigation"
+    class="hidden border-t border-brand-text/10 px-6 py-4 peer-checked:block md:hidden"
+  >
+    <ul class="space-y-3 text-sm">
       {CATEGORY_SLUGS.map((slug) => (
-        <li><a href={`/${slug}/`} class="hover:text-brand-primary">{CATEGORY_META[slug].label}</a></li>
+        <li><a href={`/${slug}/`} class="block hover:text-brand-primary">{CATEGORY_META[slug].label}</a></li>
       ))}
+      <li><a href="/dentabiome/" class="block hover:text-brand-primary">Dentabiome</a></li>
     </ul>
   </nav>
-
-  <!-- Único CTA persistente del header (heurístico 8: un solo CTA compitiendo) -->
-  <a
-    href={AFFILIATE_URL}
-    {...AFFILIATE_LINK_ATTRS}
-    class="rounded-md bg-brand-primary px-4 py-2 text-sm font-medium text-white hover:opacity-90"
-  >
-    Shop Dentabiome
-  </a>
 </header>

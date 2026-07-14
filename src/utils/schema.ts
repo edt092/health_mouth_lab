@@ -22,6 +22,30 @@ export function buildBreadcrumbSchema(items: BreadcrumbItem[]) {
   };
 }
 
+// Entidad sitewide — solo se emite una vez, en la home (no en cada página:
+// Google no lo requiere por página, y duplicarlo no aporta nada).
+export function buildOrganizationSchema() {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'Healthy Mouth Lab',
+    url: SITE_URL,
+    logo: `${SITE_URL}/favicon.svg`,
+    description:
+      'Independent, editorially-run content site about oral health — gum health, bad breath, dry mouth, plaque and cavities, tooth sensitivity, and the oral microbiome.',
+  };
+}
+
+export function buildWebSiteSchema() {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'Healthy Mouth Lab',
+    url: SITE_URL,
+    publisher: { '@type': 'Organization', name: 'Healthy Mouth Lab' },
+  };
+}
+
 export function buildArticleSchema(opts: {
   title: string;
   description: string;
@@ -55,10 +79,13 @@ export function buildArticleSchema(opts: {
 export function buildProductSchema(opts: {
   name: string;
   description: string;
-  price: number;
-  currency: string;
-  availability: 'InStock' | 'OutOfStock' | 'PreOrder';
   url: string;
+  // Sin `offers` (price/availability): Healthy Mouth Lab no vende ni despacha
+  // Dentabiome — es una página afiliada, no el punto de venta. Afirmar
+  // `availability: InStock` o un precio aquí sería un dato que no podemos
+  // garantizar ni actualizar, y un riesgo de política de Merchant/rich-results
+  // de Google. El precio real y la disponibilidad viven en getdentabiome.com.
+  //
   // Un único Review editorial (propio, verificable), NUNCA un AggregateRating
   // fabricado sin reseñas de clientes reales detrás. Ver /dentabiome/reviews/.
   review: {
@@ -74,13 +101,7 @@ export function buildProductSchema(opts: {
     '@type': 'Product',
     name: opts.name,
     description: opts.description,
-    offers: {
-      '@type': 'Offer',
-      price: opts.price,
-      priceCurrency: opts.currency,
-      availability: `https://schema.org/${opts.availability}`,
-      url: `${SITE_URL}${opts.url}`,
-    },
+    url: `${SITE_URL}${opts.url}`,
     review: {
       '@type': 'Review',
       reviewRating: {

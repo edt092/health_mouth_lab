@@ -45,6 +45,18 @@ const articleLinks = allArticles.map((a) => ({
     <h1 class="text-3xl font-bold">{meta.title}</h1>
     <p class="mt-2 text-brand-text/70">{meta.description}</p>
 
+    <div class="prose mt-6 max-w-measure">
+      <p class="font-medium">{meta.quickAnswer}</p>
+      <p>{meta.overview}</p>
+    </div>
+
+    <section aria-label="When to see a dentist" class="mt-6 max-w-measure rounded-lg border border-brand-text/10 bg-brand-primary/5 p-5">
+      <h2 class="text-sm font-semibold uppercase tracking-wide text-brand-primary">See a dentist if</h2>
+      <ul class="mt-2 list-disc space-y-1 pl-5 text-sm text-brand-text/80">
+        {meta.seeADentistIf.map((item) => <li>{item}</li>)}
+      </ul>
+    </section>
+
     <section aria-label="Subcategories" class="mt-8 grid gap-3 md:grid-cols-2">
       {subcategories.map((sub) => (
         <a href={`/${category}/${sub}/`} class="rounded-lg border border-brand-text/10 p-4 capitalize hover:border-brand-primary">

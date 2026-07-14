@@ -76,7 +76,6 @@ const product = defineCollection({
     name: z.string(),
     price: z.number(),
     currency: z.string().default('USD'),
-    availability: z.enum(['InStock', 'OutOfStock', 'PreOrder']),
     // Reemplaza el antiguo `rating` (AggregateRating fabricado sin reseñas reales
     // detrás). Este es un Review editorial único, propio y verificable — no un
     // agregado de reseñas de clientes que no existen. Ver /dentabiome/reviews/.
