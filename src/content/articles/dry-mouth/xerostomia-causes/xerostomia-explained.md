@@ -5,7 +5,6 @@ subcategory: "xerostomia-causes"
 image: "/images/articles/dry-mouth/xerostomia-explained.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 12
 seo:
   title: "Xerostomia Explained: Medical Causes of Dry Mouth"

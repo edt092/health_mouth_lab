@@ -2,13 +2,14 @@
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
 import { buildBreadcrumbSchema } from '../utils/schema';
 import { CATEGORY_META, CATEGORY_SLUGS } from '../data/categories';
 import { AFFILIATE_URL, AFFILIATE_LINK_ATTRS } from '../data/affiliate';
 ---
 <Layout
   title="Healthy Mouth Lab — Understand Your Oral Microbiome"
-  description="Dentist-reviewed guides on gum health, bad breath, dry mouth and the oral microbiome — and the probiotic that addresses the root cause."
+  description="In-depth guides on gum health, bad breath, dry mouth and the oral microbiome — and the probiotic that addresses the root cause."
   canonicalPath="/"
   pageType="website"
   schema={buildBreadcrumbSchema([{ name: 'Home', url: '/' }])}
@@ -19,7 +20,7 @@ import { AFFILIATE_URL, AFFILIATE_LINK_ATTRS } from '../data/affiliate';
     <h1 class="mx-auto max-w-3xl text-4xl font-bold leading-tight">
       Understand Your Oral Microbiome. Fix the Cause, Not the Symptom.
     </h1>
-    <p class="mt-4 text-brand-text/70">Dentist-reviewed content. No jargon.</p>
+    <p class="mt-4 text-brand-text/70">Research-backed content. No jargon.</p>
     <a
       href="/oral-microbiome/"
       class="mt-6 inline-block rounded-md bg-brand-primary px-6 py-3 font-medium text-white"
@@ -27,7 +28,7 @@ import { AFFILIATE_URL, AFFILIATE_LINK_ATTRS } from '../data/affiliate';
       Explore the Oral Microbiome
     </a>
     <p class="mt-6 text-sm text-brand-text/60">
-      ✓ Dentist-reviewed &nbsp; ✓ 30-day guarantee &nbsp; ✓ 10,000+ users
+      ✓ Research-backed &nbsp; ✓ 30-day guarantee &nbsp; ✓ 10,000+ users
     </p>
   </section>
 
@@ -73,6 +74,9 @@ import { AFFILIATE_URL, AFFILIATE_LINK_ATTRS } from '../data/affiliate';
     >
       Get Dentabiome Today →
     </a>
+    <div class="mx-auto mt-4 max-w-xl">
+      <AffiliateDisclosure />
+    </div>
   </section>
 
   <Footer slot="footer" />

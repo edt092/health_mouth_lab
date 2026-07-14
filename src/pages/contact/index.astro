@@ -1,0 +1,97 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { buildBreadcrumbSchema } from '../../utils/schema';
+
+const breadcrumbItems = [
+  { name: 'Home', url: '/' },
+  { name: 'Contact', url: '/contact/' },
+];
+
+// Formulario estático detectado por Netlify en build (sin backend/JS propio).
+// El envío llega al dashboard de Netlify — el email de notificación se
+// configura ahí (Site settings > Forms), no en este código.
+---
+<Layout
+  title="Contact Us | Healthy Mouth Lab"
+  description="Get in touch with the Healthy Mouth Lab editorial team."
+  canonicalPath="/contact/"
+  pageType="website"
+  schema={buildBreadcrumbSchema(breadcrumbItems)}
+>
+  <Header slot="header" />
+  <Breadcrumbs items={breadcrumbItems} />
+
+  <div class="mx-auto max-w-measure px-6 py-8">
+    <h1 class="text-3xl font-bold">Contact Us</h1>
+    <p class="mt-4 text-brand-text/80">
+      Spotted something inaccurate, have a question about a guide, or want to reach the editorial team? Send us
+      a message below.
+    </p>
+
+    <form
+      name="contact"
+      method="POST"
+      data-netlify="true"
+      netlify-honeypot="bot-field"
+      class="mt-8 space-y-4"
+    >
+      <input type="hidden" name="form-name" value="contact" />
+      <p class="hidden">
+        <label>
+          Don't fill this out if you're human: <input name="bot-field" />
+        </label>
+      </p>
+
+      <div>
+        <label for="name" class="block text-sm font-medium">Name</label>
+        <input
+          type="text"
+          id="name"
+          name="name"
+          required
+          class="mt-1 w-full rounded-md border border-brand-text/20 px-3 py-2"
+        />
+      </div>
+
+      <div>
+        <label for="email" class="block text-sm font-medium">Email</label>
+        <input
+          type="email"
+          id="email"
+          name="email"
+          required
+          class="mt-1 w-full rounded-md border border-brand-text/20 px-3 py-2"
+        />
+      </div>
+
+      <div>
+        <label for="message" class="block text-sm font-medium">Message</label>
+        <textarea
+          id="message"
+          name="message"
+          rows="6"
+          required
+          class="mt-1 w-full rounded-md border border-brand-text/20 px-3 py-2"
+        ></textarea>
+      </div>
+
+      <button
+        type="submit"
+        class="rounded-md bg-brand-primary px-6 py-3 font-medium text-white hover:opacity-90"
+      >
+        Send Message
+      </button>
+    </form>
+
+    <p class="mt-6 text-xs text-brand-text/60">
+      By submitting this form, you agree to our <a href="/privacy-policy/" class="underline">Privacy Policy</a>.
+      This form is not for medical questions or emergencies — please contact a licensed dentist or physician for
+      those.
+    </p>
+  </div>
+
+  <Footer slot="footer" />
+</Layout>

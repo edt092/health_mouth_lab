@@ -5,7 +5,6 @@ subcategory: "halitosis-causes"
 image: "/images/articles/bad-breath/halitosis-explained-root-causes.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 16
 seo:
   title: "Halitosis Explained: Real Root Causes of Bad Breath"

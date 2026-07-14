@@ -5,7 +5,6 @@ subcategory: "can-probiotics-prevent-cavities"
 image: "/images/articles/plaque-and-cavities/can-probiotics-help-prevent-cavities.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 13
 seo:
   title: "Can Probiotics Help Prevent Cavities?"

@@ -5,7 +5,6 @@ subcategory: "bleeding-gums"
 image: "/images/articles/gum-health/why-do-your-gums-bleed-when-you-brush.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 14
 seo:
   title: "Why Do Your Gums Bleed When You Brush? Real Cause"

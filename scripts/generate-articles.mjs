@@ -24,7 +24,11 @@ const PRICE_PER_MTOK = {
 };
 
 const AUTHOR = 'Healthy Mouth Lab Editorial Team';
-const MEDICAL_REVIEWER = 'Dr. Jane Smith, DDS';
+// No hay un MEDICAL_REVIEWER: el anterior ("Dr. Jane Smith, DDS") era un nombre
+// fijo no verificable, repetido en cada artículo. No se reemplaza por otro
+// inventado — ver AUDITORÍA §Crítico. Si se consigue un revisor real y
+// verificable, agregar su nombre aquí y el campo `medicalReviewer` de vuelta
+// al schema de `articles` en src/content/config.ts.
 
 // Los 30 artículos de ideas_blog.md — categoría, subcategoría, slug, título, keywords,
 // volumen e intención tal como quedaron definidos en el informe SEO. `pillar: true`
@@ -193,7 +197,7 @@ const ARTICLES = [
     angle: 'Cierre solution-aware del cluster, el más próximo a la página puente.' },
 ];
 
-const SYSTEM_PROMPT = `You are a medical content writer for Healthy Mouth Lab, an oral-health information site whose blog funnels informed readers toward Dentabiome, an oral probiotic supplement. You write dentist-reviewed, evidence-based articles.
+const SYSTEM_PROMPT = `You are a medical content writer for Healthy Mouth Lab, an oral-health information site whose blog funnels informed readers toward Dentabiome, an oral probiotic supplement. You write evidence-based articles grounded in cited research. Never claim or imply the article was reviewed by a dentist or any medical professional — there is no such reviewer; do not write phrases like "dentist-reviewed," "our dentists recommend," or similar.
 
 Non-negotiable rules:
 - Length: 2500 to 3500 words in the article body.
@@ -311,7 +315,6 @@ category: ${yamlStr(article.category)}
 subcategory: ${yamlStr(article.subcategory)}
 publishDate: ${today}
 author: ${yamlStr(AUTHOR)}
-medicalReviewer: ${yamlStr(MEDICAL_REVIEWER)}
 readingTime: ${readingTime}
 seo:
   title: ${yamlStr(slugTitleForSeo(article.title))}

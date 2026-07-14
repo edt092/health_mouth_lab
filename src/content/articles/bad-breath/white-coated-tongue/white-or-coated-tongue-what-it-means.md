@@ -5,7 +5,6 @@ subcategory: "white-coated-tongue"
 image: "/images/articles/bad-breath/white-or-coated-tongue-what-it-means.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 13
 seo:
   title: "White or Coated Tongue: Causes & How to Fix It"

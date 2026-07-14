@@ -5,7 +5,6 @@ subcategory: "prevent-plaque-buildup"
 image: "/images/articles/plaque-and-cavities/what-really-causes-cavities.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 16
 seo:
   title: "What Really Causes Cavities? Not Just Sugar"

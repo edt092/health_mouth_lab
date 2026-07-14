@@ -5,7 +5,6 @@ subcategory: "gum-recession"
 image: "/images/articles/gum-health/can-you-reverse-gum-recession.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 12
 seo:
   title: "Gum Recession: Can You Reverse or Just Stop It?"

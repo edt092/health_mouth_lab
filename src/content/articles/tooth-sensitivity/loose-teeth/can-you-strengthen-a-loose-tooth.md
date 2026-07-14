@@ -5,7 +5,6 @@ subcategory: "loose-teeth"
 image: "/images/articles/tooth-sensitivity/can-you-strengthen-a-loose-tooth.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 13
 seo:
   title: "Can You Strengthen a Loose Tooth?"

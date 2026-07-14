@@ -5,7 +5,6 @@ subcategory: "xerostomia-causes"
 image: "/images/articles/dry-mouth/dry-mouth-and-bad-breath.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 11
 seo:
   title: "Dry Mouth and Bad Breath: Why They Come Together"

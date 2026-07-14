@@ -5,7 +5,6 @@ subcategory: "xerostomia-causes"
 image: "/images/articles/dry-mouth/dry-mouth-causes-7-reasons.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 16
 seo:
   title: "Dry Mouth Causes: 7 Reasons Your Mouth Feels Dry"

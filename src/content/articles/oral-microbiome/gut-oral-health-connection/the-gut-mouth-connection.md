@@ -5,7 +5,6 @@ subcategory: "gut-oral-health-connection"
 image: "/images/articles/oral-microbiome/the-gut-mouth-connection.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 12
 seo:
   title: "The Gut-Mouth Connection: How They Affect Each Other"

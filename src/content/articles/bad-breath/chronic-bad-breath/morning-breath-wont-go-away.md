@@ -5,11 +5,10 @@ subcategory: "chronic-bad-breath"
 image: "/images/articles/bad-breath/morning-breath-wont-go-away.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 13
 seo:
   title: "Morning Breath Won't Go Away? Why (and When to Worry)"
-  description: "Learn why morning bad breath happens, how it differs from chronic halitosis, and what your oral microbiome has to do with it. Dentist-reviewed guide."
+  description: "Learn why morning bad breath happens, how it differs from chronic halitosis, and what your oral microbiome has to do with it."
   primaryKeyword: "morning bad breath"
   secondaryKeywords: ["why do i have bad breath all the time"]
   searchVolumeRange: "100-1K"

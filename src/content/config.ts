@@ -35,7 +35,9 @@ const articles = defineCollection({
     publishDate: z.date(),
     updatedDate: z.date().optional(),
     author: z.string(),
-    medicalReviewer: z.string(),
+    // Antes había un `medicalReviewer` fijo ("Dr. Jane Smith, DDS") repetido en
+    // los 31 artículos — no correspondía a una persona real verificable. Se quitó
+    // en vez de reemplazarlo por otro nombre inventado; ver AUDITORÍA §Crítico.
     readingTime: z.number(),
     seo: seoSchema,
     // FAQPage (REDISEÑO_POST.md §6): 4-6 preguntas basadas en el contenido real
@@ -50,7 +52,20 @@ const bridges = defineCollection({
   schema: z.object({
     title: z.string(),
     category: CATEGORY,
-    comparisonCriteria: z.array(z.string()),
+    // Antes era z.array(z.string()) — una lista de criterios sin explicación
+    // ni verdicto, la típica "página puente" vacía. Ahora cada criterio explica
+    // por qué importa y da el estatus honesto de Dentabiome contra ese criterio
+    // ('unverified' cuando no pudimos confirmarlo públicamente — nunca 'meets'
+    // por defecto). No compara contra marcas de terceros con nombre propio.
+    comparisonCriteria: z.array(
+      z.object({
+        label: z.string(),
+        why: z.string(),
+        dentabiomeStatus: z.enum(['meets', 'partial', 'unverified']),
+        dentabiomeNote: z.string(),
+      })
+    ),
+    verdict: z.string(),
     seo: seoSchema,
   }),
 });
@@ -62,7 +77,19 @@ const product = defineCollection({
     price: z.number(),
     currency: z.string().default('USD'),
     availability: z.enum(['InStock', 'OutOfStock', 'PreOrder']),
-    rating: z.object({ value: z.number(), count: z.number() }),
+    // Reemplaza el antiguo `rating` (AggregateRating fabricado sin reseñas reales
+    // detrás). Este es un Review editorial único, propio y verificable — no un
+    // agregado de reseñas de clientes que no existen. Ver /dentabiome/reviews/.
+    editorialReview: z.object({
+      score: z.number(),
+      scale: z.number().default(5),
+      reviewer: z.string(),
+      datePublished: z.date(),
+      summary: z.string(),
+      criteria: z.array(
+        z.object({ label: z.string(), score: z.number(), notes: z.string() })
+      ),
+    }),
     faqs: z.array(z.object({ question: z.string(), answer: z.string() })),
     seo: seoSchema,
   }),

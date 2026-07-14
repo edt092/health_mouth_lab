@@ -5,7 +5,6 @@ subcategory: "swollen-inflamed-gums"
 image: "/images/articles/gum-health/swollen-painful-gums-what-your-mouth-is-telling-you.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 12
 seo:
   title: "Swollen, Painful Gums? What Your Mouth Is Telling You"

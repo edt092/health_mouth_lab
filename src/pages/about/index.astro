@@ -1,0 +1,66 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import AffiliateDisclosure from '../../components/AffiliateDisclosure.astro';
+import { buildBreadcrumbSchema } from '../../utils/schema';
+
+const breadcrumbItems = [
+  { name: 'Home', url: '/' },
+  { name: 'About', url: '/about/' },
+];
+---
+<Layout
+  title="About Healthy Mouth Lab | Healthy Mouth Lab"
+  description="Who runs Healthy Mouth Lab, how we choose what to cover, and how the site is funded."
+  canonicalPath="/about/"
+  pageType="website"
+  schema={buildBreadcrumbSchema(breadcrumbItems)}
+>
+  <Header slot="header" />
+  <Breadcrumbs items={breadcrumbItems} />
+
+  <div class="mx-auto max-w-measure px-6 py-8">
+    <h1 class="text-3xl font-bold">About Healthy Mouth Lab</h1>
+
+    <div class="prose mt-6 max-w-none">
+      <p>
+        Healthy Mouth Lab is an independent, editorially-run content site about oral health — gum health, bad
+        breath, dry mouth, plaque and cavities, tooth sensitivity, and the oral microbiome that connects all of
+        them. We publish guides written and reviewed by our editorial team, aimed at explaining the underlying
+        causes of common mouth problems rather than just listing surface-level tips.
+      </p>
+
+      <h2>How the site is funded</h2>
+      <p>
+        Healthy Mouth Lab is supported through an affiliate partnership with Dentabiome, an oral probiotic
+        supplement. Where we recommend it, we may earn a commission on qualifying purchases at no extra cost to
+        you.
+      </p>
+      <AffiliateDisclosure />
+      <p>
+        This relationship does not change what we publish. Where we cover Dentabiome specifically, we score it
+        against explicit criteria and disclose plainly what we could and could not independently verify — see
+        our <a href="/dentabiome/reviews/">full editorial review</a> for the methodology.
+      </p>
+
+      <h2>Editorial approach</h2>
+      <p>
+        Content on this site is written and reviewed by the Healthy Mouth Lab editorial team. It is intended for
+        general educational purposes and is not a substitute for professional dental or medical advice — see our
+        <a href="/terms/">Terms of Use</a> for details. If you have a specific dental concern, consult a licensed
+        dentist or physician.
+      </p>
+
+      <h2>Questions or corrections</h2>
+      <p>
+        If you spot something inaccurate or out of date, or just want to reach us, visit our
+        <a href="/contact/">contact page</a>. Our <a href="/privacy-policy/">Privacy Policy</a> explains what
+        happens with any information you send us.
+      </p>
+    </div>
+  </div>
+
+  <Footer slot="footer" />
+</Layout>

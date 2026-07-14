@@ -5,11 +5,10 @@ subcategory: "gingivitis-treatment"
 image: "/images/articles/gum-health/best-toothpaste-and-mouthwash-for-gum-disease.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 13
 seo:
   title: "Best Toothpaste and Mouthwash for Gum Disease"
-  description: "Looking for the best toothpaste for gum disease? A dentist-reviewed breakdown of which active ingredients actually work and which are just marketing hype."
+  description: "Looking for the best toothpaste for gum disease? A breakdown of which active ingredients actually work and which are just marketing hype."
   primaryKeyword: "best toothpaste for gum disease"
   secondaryKeywords: ["best mouthwash for gums"]
   searchVolumeRange: "1K-10K"

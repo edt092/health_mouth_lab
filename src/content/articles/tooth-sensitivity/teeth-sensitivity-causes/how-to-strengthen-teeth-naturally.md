@@ -5,7 +5,6 @@ subcategory: "teeth-sensitivity-causes"
 image: "/images/articles/tooth-sensitivity/how-to-strengthen-teeth-naturally.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 12
 seo:
   title: "How to Strengthen Teeth Naturally"

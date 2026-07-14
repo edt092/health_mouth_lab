@@ -5,7 +5,6 @@ subcategory: "oral-flora-balance"
 image: "/images/articles/oral-microbiome/how-to-restore-a-healthy-oral-microbiome-naturally.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 13
 seo:
   title: "How to Restore a Healthy Oral Microbiome Naturally"

@@ -41,7 +41,6 @@ const breadcrumbItems = [
       title: entry.data.title,
       description: entry.data.seo.description,
       author: entry.data.author,
-      reviewer: entry.data.medicalReviewer,
       datePublished: entry.data.publishDate,
       dateModified: entry.data.updatedDate ?? entry.data.publishDate,
       url: canonicalPath,
@@ -55,7 +54,7 @@ const breadcrumbItems = [
   <article class="mx-auto max-w-measure px-6 py-8">
     <h1 class="text-h1">{entry.data.title}</h1>
     <p class="mt-2 text-sm text-brand-text/60">
-      By {entry.data.author} · Reviewed by {entry.data.medicalReviewer} · {entry.data.readingTime} min read
+      By {entry.data.author} · Fact-checked against cited sources · {entry.data.readingTime} min read
     </p>
     <div class="prose mt-6 max-w-none">
       <Content />

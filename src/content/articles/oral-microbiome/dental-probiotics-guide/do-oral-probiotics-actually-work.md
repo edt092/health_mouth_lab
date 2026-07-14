@@ -5,7 +5,6 @@ subcategory: "dental-probiotics-guide"
 image: "/images/articles/oral-microbiome/do-oral-probiotics-actually-work.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 13
 seo:
   title: "Do Oral Probiotics Actually Work? What Research Shows"

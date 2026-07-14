@@ -26,20 +26,21 @@ export function buildArticleSchema(opts: {
   title: string;
   description: string;
   author: string;
-  reviewer: string;
   datePublished: Date;
   dateModified: Date;
   url: string;
   image?: string;
 }) {
+  // Sin `reviewedBy`: apuntaba a "Dr. Jane Smith, DDS", un nombre no verificable
+  // reutilizado en todos los artículos. No se reemplaza por otra persona
+  // inventada — el autor real (Organization) es el único crédito honesto.
   return {
     '@context': 'https://schema.org',
     '@type': 'BlogPosting',
     headline: opts.title,
     description: opts.description,
     image: `${SITE_URL}${opts.image ?? '/images/og-default.jpg'}`,
-    author: { '@type': 'Person', name: opts.author },
-    reviewedBy: { '@type': 'Person', name: opts.reviewer, jobTitle: 'Dentist' },
+    author: { '@type': 'Organization', name: opts.author },
     publisher: {
       '@type': 'Organization',
       name: 'Healthy Mouth Lab',
@@ -57,9 +58,16 @@ export function buildProductSchema(opts: {
   price: number;
   currency: string;
   availability: 'InStock' | 'OutOfStock' | 'PreOrder';
-  ratingValue: number;
-  ratingCount: number;
   url: string;
+  // Un único Review editorial (propio, verificable), NUNCA un AggregateRating
+  // fabricado sin reseñas de clientes reales detrás. Ver /dentabiome/reviews/.
+  review: {
+    ratingValue: number;
+    bestRating: number;
+    author: string;
+    reviewBody: string;
+    datePublished: Date;
+  };
 }) {
   return {
     '@context': 'https://schema.org',
@@ -73,11 +81,44 @@ export function buildProductSchema(opts: {
       availability: `https://schema.org/${opts.availability}`,
       url: `${SITE_URL}${opts.url}`,
     },
-    aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue: opts.ratingValue,
-      reviewCount: opts.ratingCount,
+    review: {
+      '@type': 'Review',
+      reviewRating: {
+        '@type': 'Rating',
+        ratingValue: opts.review.ratingValue,
+        bestRating: opts.review.bestRating,
+      },
+      author: { '@type': 'Organization', name: opts.review.author },
+      reviewBody: opts.review.reviewBody,
+      datePublished: opts.review.datePublished.toISOString(),
     },
+  };
+}
+
+// Review editorial independiente para /dentabiome/reviews/ — standalone, con
+// itemReviewed propio (a diferencia del `review` anidado en buildProductSchema).
+export function buildReviewSchema(opts: {
+  itemName: string;
+  reviewBody: string;
+  ratingValue: number;
+  bestRating: number;
+  author: string;
+  datePublished: Date;
+  url: string;
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Review',
+    itemReviewed: { '@type': 'Product', name: opts.itemName },
+    reviewRating: {
+      '@type': 'Rating',
+      ratingValue: opts.ratingValue,
+      bestRating: opts.bestRating,
+    },
+    author: { '@type': 'Organization', name: opts.author },
+    reviewBody: opts.reviewBody,
+    datePublished: opts.datePublished.toISOString(),
+    url: `${SITE_URL}${opts.url}`,
   };
 }
 

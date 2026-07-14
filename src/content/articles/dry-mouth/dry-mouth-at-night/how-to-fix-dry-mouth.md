@@ -5,7 +5,6 @@ subcategory: "dry-mouth-at-night"
 image: "/images/articles/dry-mouth/how-to-fix-dry-mouth.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 13
 seo:
   title: "How to Fix Dry Mouth: What Helps Long-Term"

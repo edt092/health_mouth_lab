@@ -5,7 +5,6 @@ subcategory: "overview"
 image: "/images/articles/gum-health/how-to-keep-your-gums-healthy-for-good.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 17
 seo:
   title: "How to Keep Your Gums Healthy for Good"

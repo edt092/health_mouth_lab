@@ -5,7 +5,6 @@ subcategory: "teeth-sensitivity-causes"
 image: "/images/articles/tooth-sensitivity/why-are-my-teeth-suddenly-sensitive.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 15
 seo:
   title: "Why Are My Teeth Suddenly Sensitive? Causes"

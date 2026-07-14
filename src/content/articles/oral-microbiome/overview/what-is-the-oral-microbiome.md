@@ -6,7 +6,6 @@ image: "/images/articles/oral-microbiome/what-is-the-oral-microbiome.webp"
 publishDate: 2026-07-02
 updatedDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 16
 seo:
   title: "What Is the Oral Microbiome? A Complete Guide"

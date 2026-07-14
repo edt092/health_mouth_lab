@@ -4,6 +4,7 @@ import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import AffiliateDisclosure from '../../components/AffiliateDisclosure.astro';
 import { buildBreadcrumbSchema, buildProductSchema, buildFAQSchema } from '../../utils/schema';
 import { AFFILIATE_URL, AFFILIATE_LINK_ATTRS } from '../../data/affiliate';
 
@@ -29,9 +30,14 @@ const breadcrumbItems = [
       price: entry.data.price,
       currency: entry.data.currency,
       availability: entry.data.availability,
-      ratingValue: entry.data.rating.value,
-      ratingCount: entry.data.rating.count,
       url: '/dentabiome/',
+      review: {
+        ratingValue: entry.data.editorialReview.score,
+        bestRating: entry.data.editorialReview.scale,
+        author: entry.data.editorialReview.reviewer,
+        reviewBody: entry.data.editorialReview.summary,
+        datePublished: entry.data.editorialReview.datePublished,
+      },
     }),
     buildFAQSchema(entry.data.faqs),
   ]}
@@ -42,7 +48,8 @@ const breadcrumbItems = [
   <div class="px-6 py-8">
     <h1 class="text-3xl font-bold">{entry.data.name}</h1>
     <p class="mt-1 text-sm text-brand-text/60">
-      ★ {entry.data.rating.value} ({entry.data.rating.count} reviews) · ${entry.data.price} {entry.data.currency}
+      Our Rating: {entry.data.editorialReview.score}/{entry.data.editorialReview.scale} (Editorial Review)
+      · ${entry.data.price} {entry.data.currency}
     </p>
 
     <a
@@ -53,6 +60,9 @@ const breadcrumbItems = [
       Get Dentabiome Today →
     </a>
     <p class="mt-2 text-xs text-brand-text/60">30-day money-back guarantee</p>
+    <div class="mt-2 max-w-measure">
+      <AffiliateDisclosure />
+    </div>
 
     <div class="prose mt-6 max-w-measure">
       <Content />
@@ -60,8 +70,7 @@ const breadcrumbItems = [
 
     <nav aria-label="Learn more" class="mt-4 flex flex-wrap gap-x-4 gap-y-1 text-sm">
       <a href="/dentabiome/how-it-works/" class="underline">How it works</a>
-      <a href="/dentabiome/reviews/" class="underline">Read verified reviews</a>
-      <a href="/dentabiome/vs-parodontax/" class="underline">Dentabiome vs. Parodontax</a>
+      <a href="/dentabiome/reviews/" class="underline">Read our full review</a>
     </nav>
 
     <section aria-label="Frequently asked questions" class="mt-10 space-y-4">

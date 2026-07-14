@@ -5,7 +5,6 @@ subcategory: "prevent-plaque-buildup"
 image: "/images/articles/plaque-and-cavities/what-causes-plaque-buildup.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 13
 seo:
   title: "What Causes Plaque Buildup (And Why It Returns)"

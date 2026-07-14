@@ -5,7 +5,6 @@ subcategory: "loose-teeth"
 image: "/images/articles/tooth-sensitivity/loose-tooth-as-an-adult.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 14
 seo:
   title: "Loose Tooth as an Adult? What It Could Mean"

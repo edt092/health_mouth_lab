@@ -5,7 +5,6 @@ subcategory: "loose-teeth"
 image: "/images/articles/tooth-sensitivity/tooth-mobility-explained.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 15
 seo:
   title: "Tooth Mobility Explained: Serious or Not?"

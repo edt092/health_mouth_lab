@@ -5,7 +5,6 @@ subcategory: "dental-biofilm"
 image: "/images/articles/plaque-and-cavities/dental-biofilm-101.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
-medicalReviewer: "Dr. Jane Smith, DDS"
 readingTime: 13
 seo:
   title: "Dental Biofilm 101: Why Brushing Alone Isn't Enough"

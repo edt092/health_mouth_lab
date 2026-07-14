@@ -4,8 +4,16 @@ import Layout from '../../../layouts/Layout.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import AffiliateDisclosure from '../../../components/AffiliateDisclosure.astro';
 import { buildBreadcrumbSchema } from '../../../utils/schema';
 import { AFFILIATE_URL, AFFILIATE_LINK_ATTRS } from '../../../data/affiliate';
+
+const STATUS_LABEL = { meets: 'Meets', partial: 'Partially meets', unverified: 'Unverified' } as const;
+const STATUS_CLASS = {
+  meets: 'bg-green-100 text-green-800',
+  partial: 'bg-amber-100 text-amber-800',
+  unverified: 'bg-brand-text/10 text-brand-text/70',
+} as const;
 
 // Un solo archivo resuelve las dos "hojas" de nivel 2 de la silo: la subcategoría
 // (listado de artículos) y la página puente (comercial). Se distinguen por `type`
@@ -90,14 +98,28 @@ const breadcrumbItems = [
         ))}
       </section>
     ) : (
-      <section aria-label="Comparison" class="mt-8">
-        <ul class="list-disc space-y-1 pl-5">
-          {props.entry.data.comparisonCriteria.map((c: string) => <li>{c}</li>)}
-        </ul>
+      <section aria-label="Comparison" class="mt-8 space-y-4">
+        {props.entry.data.comparisonCriteria.map((c) => (
+          <div class="border-b border-brand-text/10 pb-4">
+            <div class="flex flex-wrap items-center justify-between gap-2">
+              <h3 class="font-medium">{c.label}</h3>
+              <span class={`rounded-full px-2.5 py-0.5 text-xs font-semibold ${STATUS_CLASS[c.dentabiomeStatus]}`}>
+                Dentabiome: {STATUS_LABEL[c.dentabiomeStatus]}
+              </span>
+            </div>
+            <p class="mt-1 text-sm text-brand-text/70">{c.why}</p>
+            <p class="mt-1 text-sm text-brand-text/60">{c.dentabiomeNote}</p>
+          </div>
+        ))}
+
+        <p class="max-w-measure font-medium text-brand-text/90">{props.entry.data.verdict}</p>
+
+        <AffiliateDisclosure />
+
         <a
           href={AFFILIATE_URL}
           {...AFFILIATE_LINK_ATTRS}
-          class="mt-6 inline-block rounded-md bg-brand-primary px-6 py-3 font-medium text-white hover:opacity-90"
+          class="mt-2 inline-block rounded-md bg-brand-primary px-6 py-3 font-medium text-white hover:opacity-90"
         >
           Get Dentabiome →
         </a>
