@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://healthymouthlab.online/sitemap-index.xml
+IndexNow: https://healthymouthlab.online/e7c80c9083b14e4ca65f9c42f4ab05b9.txt

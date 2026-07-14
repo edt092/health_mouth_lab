@@ -84,14 +84,15 @@ const breadcrumbItems = [
 
     {props.type === 'subcategory' ? (
       <section aria-label="Articles" class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {articlesInNode.map((a) => (
+        {articlesInNode.map((a, i) => (
           <a href={`/${category}/${node}/${a.id.split('/').pop()}/`} class="overflow-hidden rounded-lg border border-brand-text/10 hover:border-brand-primary">
             <Image
               src={a.data.image}
               alt={a.data.title}
               widths={[300, 600]}
               sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
-              loading="lazy"
+              loading={i === 0 ? 'eager' : 'lazy'}
+              fetchpriority={i === 0 ? 'high' : 'auto'}
               class="aspect-[3/2] w-full object-cover"
             />
             <p class="p-4 text-sm font-medium">{a.data.title}</p>

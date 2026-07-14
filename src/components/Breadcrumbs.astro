@@ -6,10 +6,16 @@ interface Props {
 }
 const { items } = Astro.props;
 ---
-<nav aria-label="Breadcrumb" class="px-6 py-4 text-sm text-brand-text/70">
-  <ol class="flex flex-wrap gap-1">
+<!--
+  overflow-x-auto + flex-nowrap en vez de flex-wrap: en páginas de nivel 4
+  (Home / categoría / subcategoría / artículo) el breadcrumb se partía en dos
+  líneas en móvil (hallazgo #21). Ahora es una tira de una sola línea con
+  scroll horizontal si no cabe, sin perder ningún nivel.
+-->
+<nav aria-label="Breadcrumb" class="overflow-x-auto px-6 py-4 text-sm text-brand-text/70">
+  <ol class="flex flex-nowrap items-center gap-1 whitespace-nowrap">
     {items.map((item, i) => (
-      <li class="flex items-center gap-1">
+      <li class="flex shrink-0 items-center gap-1">
         {i > 0 && <span aria-hidden="true">/</span>}
         {i < items.length - 1 ? (
           <a href={item.url} class="hover:text-brand-primary">{item.name}</a>

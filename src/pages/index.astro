@@ -49,14 +49,15 @@ import { AFFILIATE_URL, AFFILIATE_LINK_ATTRS } from '../data/affiliate';
   </section>
 
   <section aria-label="Browse by symptom" class="grid gap-3 px-6 py-8 md:grid-cols-3">
-    {CATEGORY_SLUGS.map((slug) => (
+    {CATEGORY_SLUGS.map((slug, i) => (
       <a href={`/${slug}/`} class="overflow-hidden rounded-lg border border-brand-text/10 hover:border-brand-primary">
         <Image
           src={CATEGORY_META[slug].image}
           alt={CATEGORY_META[slug].label}
           widths={[240, 480]}
           sizes="(min-width: 768px) 33vw, 100vw"
-          loading="lazy"
+          loading={i === 0 ? 'eager' : 'lazy'}
+          fetchpriority={i === 0 ? 'high' : 'auto'}
           class="aspect-[3/2] w-full object-cover"
         />
         <p class="p-4 font-medium">{CATEGORY_META[slug].label}</p>

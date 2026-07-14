@@ -17,7 +17,8 @@
     "test:a11y": "playwright test tests/a11y",
     "test:seo": "node tests/seo/validate-silo-links.mjs",
     "lighthouse": "lhci autorun",
-    "generate:articles": "node scripts/generate-articles.mjs"
+    "generate:articles": "node scripts/generate-articles.mjs",
+    "submit:indexnow": "node scripts/submit-indexnow.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.110.0",
