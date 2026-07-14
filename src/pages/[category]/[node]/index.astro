@@ -8,6 +8,7 @@ import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import AffiliateDisclosure from '../../../components/AffiliateDisclosure.astro';
 import { buildBreadcrumbSchema } from '../../../utils/schema';
 import { AFFILIATE_URL, AFFILIATE_LINK_ATTRS } from '../../../data/affiliate';
+import { SUBCATEGORY_META } from '../../../data/subcategories';
 
 const STATUS_LABEL = { meets: 'Meets', partial: 'Partially meets', unverified: 'Unverified' } as const;
 const STATUS_CLASS = {
@@ -48,6 +49,7 @@ const props = Astro.props as Props;
 
 let title: string;
 let description: string;
+let intro: string | undefined;
 let articlesInNode: CollectionEntry<'articles'>[] = [];
 
 if (props.type === 'subcategory') {
@@ -55,8 +57,15 @@ if (props.type === 'subcategory') {
     'articles',
     (a) => a.data.category === category && a.data.subcategory === node,
   );
-  title = node.replace(/-/g, ' ');
-  description = `Everything about ${title} — causes, symptoms and what actually helps.`;
+  // Antes: title = slug crudo sin formato (ej. "bleeding gums"), description =
+  // el mismo boilerplate en las 19 subcategorías. Ahora cada una tiene su
+  // propio título correctamente formateado, meta descripción única, y un
+  // párrafo de introducción específico a lo que agrupan sus artículos
+  // (hallazgo #4 de la auditoría SEO). Ver src/data/subcategories.ts.
+  const meta = SUBCATEGORY_META[`${category}/${node}`];
+  title = meta.label;
+  description = meta.description;
+  intro = meta.intro;
 } else {
   title = props.entry.data.title;
   description = props.entry.data.seo.description;
@@ -79,8 +88,9 @@ const breadcrumbItems = [
   <Breadcrumbs items={breadcrumbItems} />
 
   <div class="px-6 py-8">
-    <h1 class="text-3xl font-bold capitalize">{title}</h1>
+    <h1 class="text-3xl font-bold">{title}</h1>
     <p class="mt-2 text-brand-text/70">{description}</p>
+    {intro && <p class="prose mt-4 max-w-measure text-brand-text/80">{intro}</p>}
 
     {props.type === 'subcategory' ? (
       <section aria-label="Articles" class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
