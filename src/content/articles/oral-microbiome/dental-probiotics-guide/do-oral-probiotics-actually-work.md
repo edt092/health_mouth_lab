@@ -2,7 +2,7 @@
 title: "Do Oral Probiotics Actually Work? Here's What the Research Shows"
 category: "oral-microbiome"
 subcategory: "dental-probiotics-guide"
-image: "/images/articles/oral-microbiome/do-oral-probiotics-actually-work.webp"
+image: "../../../../assets/images/articles/oral-microbiome/do-oral-probiotics-actually-work.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 13

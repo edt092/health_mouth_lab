@@ -2,7 +2,7 @@
 title: "Why Do My Gums Bleed When I Brush?"
 category: "gum-health"
 subcategory: "bleeding-gums"
-image: "/images/articles/gum-health/why-do-my-gums-bleed.webp"
+image: "../../../../assets/images/articles/gum-health/why-do-my-gums-bleed.webp"
 publishDate: 2026-01-15
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 6

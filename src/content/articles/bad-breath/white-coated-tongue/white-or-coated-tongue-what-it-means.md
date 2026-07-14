@@ -2,7 +2,7 @@
 title: "White or Coated Tongue: What It Means and How to Fix It"
 category: "bad-breath"
 subcategory: "white-coated-tongue"
-image: "/images/articles/bad-breath/white-or-coated-tongue-what-it-means.webp"
+image: "../../../../assets/images/articles/bad-breath/white-or-coated-tongue-what-it-means.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 13

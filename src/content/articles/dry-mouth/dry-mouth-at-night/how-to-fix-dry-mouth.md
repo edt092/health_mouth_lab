@@ -2,7 +2,7 @@
 title: "How to Fix Dry Mouth: What Actually Helps Long-Term"
 category: "dry-mouth"
 subcategory: "dry-mouth-at-night"
-image: "/images/articles/dry-mouth/how-to-fix-dry-mouth.webp"
+image: "../../../../assets/images/articles/dry-mouth/how-to-fix-dry-mouth.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 13

@@ -2,7 +2,7 @@
 title: "Xerostomia Explained: The Medical Causes Behind Chronic Dry Mouth"
 category: "dry-mouth"
 subcategory: "xerostomia-causes"
-image: "/images/articles/dry-mouth/xerostomia-explained.webp"
+image: "../../../../assets/images/articles/dry-mouth/xerostomia-explained.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 12

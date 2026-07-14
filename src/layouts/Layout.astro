@@ -4,6 +4,7 @@ import '../styles/global.css';
 // Layout base único para las 3 plantillas del silo (Home/Categoría/Artículo/Producto).
 // Toda la lógica SEO (meta, OG, canonical, JSON-LD) vive aquí para que ninguna página
 // pueda "olvidarse" de implementarla — es infraestructura, no una decisión por página.
+// JSON-LD dinámico por tipo de página: ver src/utils/schema.ts.
 interface Props {
   title: string;
   description: string;
@@ -54,7 +55,6 @@ const schemaBlocks = Array.isArray(schema) ? schema : schema ? [schema] : [];
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImageURL} />
 
-    <!-- Schema.org JSON-LD dinámico (ver INFORME_ARQUITECTURA_SEO_DENTABIOME.md §4.2) -->
     {schemaBlocks.map((block) => (
       <script type="application/ld+json" set:html={JSON.stringify(block)} />
     ))}

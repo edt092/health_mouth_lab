@@ -2,7 +2,7 @@
 title: "Morning Breath Won't Go Away? Here's Why (and When to Worry)"
 category: "bad-breath"
 subcategory: "chronic-bad-breath"
-image: "/images/articles/bad-breath/morning-breath-wont-go-away.webp"
+image: "../../../../assets/images/articles/bad-breath/morning-breath-wont-go-away.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 13

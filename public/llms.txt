@@ -1,0 +1,18 @@
+# Healthy Mouth Lab
+
+> Independent, editorially-run content site about oral health: gum health, bad breath, dry mouth, plaque and cavities, tooth sensitivity, and the oral microbiome that connects all of them. Content is written and reviewed by the Healthy Mouth Lab editorial team; it is educational and does not replace professional dental advice. The site is supported by an affiliate partnership with Dentabiome — see /terms/ for the full disclosure.
+
+## Pillar guides
+
+- [Oral Microbiome](https://healthymouthlab.online/oral-microbiome/): The root-cause mechanism behind gum health, bad breath, dry mouth and cavity risk.
+- [Gum Health](https://healthymouthlab.online/gum-health/): Bleeding, swollen and receding gums — causes and what actually helps.
+- [Bad Breath](https://healthymouthlab.online/bad-breath/): Why bad breath persists after brushing, and how to fix it.
+- [Dry Mouth](https://healthymouthlab.online/dry-mouth/): Causes of xerostomia and what to do about it.
+- [Plaque & Cavities](https://healthymouthlab.online/plaque-and-cavities/): How plaque and biofilm form, and how cavities actually develop.
+- [Tooth Sensitivity](https://healthymouthlab.online/tooth-sensitivity/): Sensitivity vs. tooth mobility, and their distinct causes.
+
+## About this site
+
+- [About](https://healthymouthlab.online/about/): Who runs the site and how it's funded.
+- [Editorial review methodology](https://healthymouthlab.online/dentabiome/reviews/): How we score the one product we cover, and what we could/couldn't verify.
+- [Terms of Use](https://healthymouthlab.online/terms/): Medical disclaimer and affiliate disclosure.

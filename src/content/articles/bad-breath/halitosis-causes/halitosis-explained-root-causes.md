@@ -2,7 +2,7 @@
 title: "Halitosis Explained: The Real Root Causes of Chronic Bad Breath"
 category: "bad-breath"
 subcategory: "halitosis-causes"
-image: "/images/articles/bad-breath/halitosis-explained-root-causes.webp"
+image: "../../../../assets/images/articles/bad-breath/halitosis-explained-root-causes.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 16

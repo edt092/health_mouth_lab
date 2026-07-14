@@ -2,7 +2,7 @@
 title: "What Is the Oral Microbiome (And Why It Controls Almost Everything in Your Mouth)"
 category: "oral-microbiome"
 subcategory: "overview"
-image: "/images/articles/oral-microbiome/what-is-the-oral-microbiome.webp"
+image: "../../../../assets/images/articles/oral-microbiome/what-is-the-oral-microbiome.webp"
 publishDate: 2026-07-02
 updatedDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"

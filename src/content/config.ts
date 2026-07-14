@@ -27,11 +27,15 @@ const seoSchema = z.object({
 // de verdad para construir la URL — así la carpeta ES la arquitectura del silo.
 const articles = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
-  schema: z.object({
+  // `schema` como función (recibe `image`) para poder usar el helper image()
+  // de Astro: valida el archivo en build time y genera srcset/formatos
+  // optimizados automáticamente vía <Image>, en vez de un string suelto que
+  // apuntaba a un asset sin optimizar en public/ (hallazgo #14 de la auditoría).
+  schema: ({ image }) => z.object({
     title: z.string(),
     category: CATEGORY,
     subcategory: z.string(),
-    image: z.string(),
+    image: image(),
     publishDate: z.date(),
     updatedDate: z.date().optional(),
     author: z.string(),

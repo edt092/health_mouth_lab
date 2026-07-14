@@ -2,7 +2,7 @@
 title: "Dry Mouth Causes: 7 Reasons Your Mouth Won't Stop Feeling Dry"
 category: "dry-mouth"
 subcategory: "xerostomia-causes"
-image: "/images/articles/dry-mouth/dry-mouth-causes-7-reasons.webp"
+image: "../../../../assets/images/articles/dry-mouth/dry-mouth-causes-7-reasons.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 16

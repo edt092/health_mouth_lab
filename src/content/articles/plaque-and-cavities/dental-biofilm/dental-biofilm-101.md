@@ -2,7 +2,7 @@
 title: "Dental Biofilm 101: What It Is and Why Brushing Alone Won't Remove It"
 category: "plaque-and-cavities"
 subcategory: "dental-biofilm"
-image: "/images/articles/plaque-and-cavities/dental-biofilm-101.webp"
+image: "../../../../assets/images/articles/plaque-and-cavities/dental-biofilm-101.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 13

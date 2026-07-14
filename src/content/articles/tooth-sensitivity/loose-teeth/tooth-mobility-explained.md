@@ -2,7 +2,7 @@
 title: "Tooth Mobility Explained: When It's Serious and When It Isn't"
 category: "tooth-sensitivity"
 subcategory: "loose-teeth"
-image: "/images/articles/tooth-sensitivity/tooth-mobility-explained.webp"
+image: "../../../../assets/images/articles/tooth-sensitivity/tooth-mobility-explained.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 15

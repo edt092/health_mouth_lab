@@ -2,7 +2,7 @@
 title: "Gum Recession: Can You Actually Reverse It, or Just Stop It?"
 category: "gum-health"
 subcategory: "gum-recession"
-image: "/images/articles/gum-health/can-you-reverse-gum-recession.webp"
+image: "../../../../assets/images/articles/gum-health/can-you-reverse-gum-recession.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 12

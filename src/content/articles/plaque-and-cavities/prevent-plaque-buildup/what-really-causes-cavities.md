@@ -2,7 +2,7 @@
 title: "What Really Causes Cavities? It's Not Just Sugar"
 category: "plaque-and-cavities"
 subcategory: "prevent-plaque-buildup"
-image: "/images/articles/plaque-and-cavities/what-really-causes-cavities.webp"
+image: "../../../../assets/images/articles/plaque-and-cavities/what-really-causes-cavities.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 16

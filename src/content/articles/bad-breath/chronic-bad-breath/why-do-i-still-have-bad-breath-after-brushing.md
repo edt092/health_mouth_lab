@@ -2,7 +2,7 @@
 title: "Why Do I Still Have Bad Breath After Brushing? 5 Hidden Causes"
 category: "bad-breath"
 subcategory: "chronic-bad-breath"
-image: "/images/articles/bad-breath/why-do-i-still-have-bad-breath-after-brushing.webp"
+image: "../../../../assets/images/articles/bad-breath/why-do-i-still-have-bad-breath-after-brushing.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 13

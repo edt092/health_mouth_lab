@@ -51,17 +51,24 @@ const breadcrumbItems = [
   <Header slot="header" />
   <Breadcrumbs items={breadcrumbItems} />
 
-  <article class="mx-auto max-w-measure px-6 py-8">
+  <!--
+    El texto sigue envuelto a `max-w-measure` (70ch, decisión tipográfica
+    intencional — UX §3), pero el marco exterior del artículo se ensanchó de
+    70ch a max-w-3xl: en monitores anchos, una columna de 470px dentro de un
+    viewport de 1920px se percibía como diseño sin terminar (hallazgo visual
+    #16). Ensanchar el marco reduce ese vacío sin tocar el largo de línea real.
+  -->
+  <article class="mx-auto max-w-3xl px-6 py-8">
     <h1 class="text-h1">{entry.data.title}</h1>
     <p class="mt-2 text-sm text-brand-text/60">
       By {entry.data.author} · Fact-checked against cited sources · {entry.data.readingTime} min read
     </p>
-    <div class="prose mt-6 max-w-none">
+    <div class="prose mt-6 max-w-measure">
       <Content />
     </div>
 
     {entry.data.faqs && entry.data.faqs.length > 0 && (
-      <section aria-label="Frequently asked questions" class="mt-12 border-t border-brand-text/10 pt-8">
+      <section aria-label="Frequently asked questions" class="mt-12 max-w-measure border-t border-brand-text/10 pt-8">
         <h2 class="text-h2">Frequently Asked Questions</h2>
         {entry.data.faqs.map((faq) => (
           <div class="mt-6">
@@ -73,7 +80,7 @@ const breadcrumbItems = [
     )}
   </article>
 
-  <div class="mx-auto max-w-measure px-6">
+  <div class="mx-auto max-w-3xl px-6">
     {bridge && <BridgeCard entry={bridge} />}
   </div>
 

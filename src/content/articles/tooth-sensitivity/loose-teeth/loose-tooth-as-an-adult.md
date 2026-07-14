@@ -2,7 +2,7 @@
 title: "Loose Tooth as an Adult? Here's What It Could Mean"
 category: "tooth-sensitivity"
 subcategory: "loose-teeth"
-image: "/images/articles/tooth-sensitivity/loose-tooth-as-an-adult.webp"
+image: "../../../../assets/images/articles/tooth-sensitivity/loose-tooth-as-an-adult.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 14

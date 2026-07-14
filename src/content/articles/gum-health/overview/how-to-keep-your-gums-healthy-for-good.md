@@ -2,7 +2,7 @@
 title: "How to Keep Your Gums Healthy for Good (Not Just Until Your Next Cleaning)"
 category: "gum-health"
 subcategory: "overview"
-image: "/images/articles/gum-health/how-to-keep-your-gums-healthy-for-good.webp"
+image: "../../../../assets/images/articles/gum-health/how-to-keep-your-gums-healthy-for-good.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 17

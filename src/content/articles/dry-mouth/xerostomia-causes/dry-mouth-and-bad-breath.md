@@ -2,7 +2,7 @@
 title: "Dry Mouth and Bad Breath: Why They Almost Always Come Together"
 category: "dry-mouth"
 subcategory: "xerostomia-causes"
-image: "/images/articles/dry-mouth/dry-mouth-and-bad-breath.webp"
+image: "../../../../assets/images/articles/dry-mouth/dry-mouth-and-bad-breath.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 11

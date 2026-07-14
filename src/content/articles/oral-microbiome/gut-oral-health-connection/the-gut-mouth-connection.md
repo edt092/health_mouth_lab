@@ -2,7 +2,7 @@
 title: "The Gut-Mouth Connection: How Your Gut Health Affects Your Teeth and Gums"
 category: "oral-microbiome"
 subcategory: "gut-oral-health-connection"
-image: "/images/articles/oral-microbiome/the-gut-mouth-connection.webp"
+image: "../../../../assets/images/articles/oral-microbiome/the-gut-mouth-connection.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 12

@@ -2,7 +2,7 @@
 title: "Best Toothpaste and Mouthwash for Gum Disease: What Actually Works (and What Is Just Marketing)"
 category: "gum-health"
 subcategory: "gingivitis-treatment"
-image: "/images/articles/gum-health/best-toothpaste-and-mouthwash-for-gum-disease.webp"
+image: "../../../../assets/images/articles/gum-health/best-toothpaste-and-mouthwash-for-gum-disease.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 13

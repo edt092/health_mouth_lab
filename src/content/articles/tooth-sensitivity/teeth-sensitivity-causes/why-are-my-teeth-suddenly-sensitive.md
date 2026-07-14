@@ -2,7 +2,7 @@
 title: "Why Are My Teeth Suddenly Sensitive? Common Causes Explained"
 category: "tooth-sensitivity"
 subcategory: "teeth-sensitivity-causes"
-image: "/images/articles/tooth-sensitivity/why-are-my-teeth-suddenly-sensitive.webp"
+image: "../../../../assets/images/articles/tooth-sensitivity/why-are-my-teeth-suddenly-sensitive.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 15

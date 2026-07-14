@@ -2,7 +2,7 @@
 title: "Can Gut Health Really Cause Bad Breath? What the Science Says"
 category: "bad-breath"
 subcategory: "halitosis-causes"
-image: "/images/articles/bad-breath/can-gut-health-cause-bad-breath.webp"
+image: "../../../../assets/images/articles/bad-breath/can-gut-health-cause-bad-breath.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 12

@@ -2,7 +2,7 @@
 title: "Can You Remove Plaque Naturally? What Works and What Doesn't"
 category: "plaque-and-cavities"
 subcategory: "prevent-plaque-buildup"
-image: "/images/articles/plaque-and-cavities/can-you-remove-plaque-naturally.webp"
+image: "../../../../assets/images/articles/plaque-and-cavities/can-you-remove-plaque-naturally.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 12

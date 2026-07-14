@@ -2,7 +2,7 @@
 title: "What Causes Plaque Buildup (And Why It Keeps Coming Back)"
 category: "plaque-and-cavities"
 subcategory: "prevent-plaque-buildup"
-image: "/images/articles/plaque-and-cavities/what-causes-plaque-buildup.webp"
+image: "../../../../assets/images/articles/plaque-and-cavities/what-causes-plaque-buildup.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 13

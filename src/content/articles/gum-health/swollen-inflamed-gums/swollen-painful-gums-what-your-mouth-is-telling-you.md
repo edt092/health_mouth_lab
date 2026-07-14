@@ -2,7 +2,7 @@
 title: "Swollen, Painful Gums? Here's What Your Mouth Is Trying to Tell You"
 category: "gum-health"
 subcategory: "swollen-inflamed-gums"
-image: "/images/articles/gum-health/swollen-painful-gums-what-your-mouth-is-telling-you.webp"
+image: "../../../../assets/images/articles/gum-health/swollen-painful-gums-what-your-mouth-is-telling-you.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 12

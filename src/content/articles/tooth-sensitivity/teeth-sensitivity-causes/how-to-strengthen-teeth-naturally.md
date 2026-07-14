@@ -2,7 +2,7 @@
 title: "How to Strengthen Teeth Naturally (Without Waiting for a Cavity)"
 category: "tooth-sensitivity"
 subcategory: "teeth-sensitivity-causes"
-image: "/images/articles/tooth-sensitivity/how-to-strengthen-teeth-naturally.webp"
+image: "../../../../assets/images/articles/tooth-sensitivity/how-to-strengthen-teeth-naturally.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 12

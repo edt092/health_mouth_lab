@@ -2,7 +2,7 @@
 title: "Why Is My Mouth So Dry at Night? Causes and Fixes"
 category: "dry-mouth"
 subcategory: "dry-mouth-at-night"
-image: "/images/articles/dry-mouth/why-is-my-mouth-so-dry-at-night.webp"
+image: "../../../../assets/images/articles/dry-mouth/why-is-my-mouth-so-dry-at-night.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 12

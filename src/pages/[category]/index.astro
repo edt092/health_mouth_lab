@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
 import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
@@ -70,11 +71,11 @@ const articleLinks = allArticles.map((a) => ({
     <section aria-label="Articles" class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
       {allArticles.map((a) => (
         <a href={`/${category}/${a.data.subcategory}/${a.id.split('/').pop()}/`} class="overflow-hidden rounded-lg border border-brand-text/10 hover:border-brand-primary">
-          <img
+          <Image
             src={a.data.image}
             alt={a.data.title}
-            width="600"
-            height="400"
+            widths={[300, 600]}
+            sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
             loading="lazy"
             class="aspect-[3/2] w-full object-cover"
           />

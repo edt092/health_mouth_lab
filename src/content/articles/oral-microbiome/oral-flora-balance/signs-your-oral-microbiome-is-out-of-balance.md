@@ -2,7 +2,7 @@
 title: "5 Signs Your Oral Microbiome Is Out of Balance"
 category: "oral-microbiome"
 subcategory: "oral-flora-balance"
-image: "/images/articles/oral-microbiome/signs-your-oral-microbiome-is-out-of-balance.webp"
+image: "../../../../assets/images/articles/oral-microbiome/signs-your-oral-microbiome-is-out-of-balance.webp"
 publishDate: 2026-07-02
 author: "Healthy Mouth Lab Editorial Team"
 readingTime: 15
